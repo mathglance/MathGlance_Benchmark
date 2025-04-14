@@ -10,7 +10,7 @@ Official repository for the paper "<img src="assets/MathGlance_logo.png" alt="Lo
 
 🌟 For more details, please refer to the project page with benchmark overview: [https://mathglance.github.io/](https://mathglance.github.io/).
 
-[[🌐 Webpage](https://mathglance.github.io/)] [[📖 Paper](https://arxiv.org/pdf/2503.2074)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/zs0506/GeoPeP_Caption)] [[🤗 Checkpoints](https://huggingface.co/zs0506/SVE-Math-DeepSeek-7B)]
+[[🌐 Webpage](https://mathglance.github.io/)] [[📖 Paper](https://arxiv.org/pdf/2503.20745)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/zs0506/GeoPeP_Caption)] [[🤗 Checkpoints](https://huggingface.co/zs0506/SVE-Math-DeepSeek-7B)]
 
 ## 💥 News
 - **[2025.04.12]** 🎉 MATHGLANCE benchmark and evaluation code is officially released. 🚀
