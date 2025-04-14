@@ -63,6 +63,21 @@ python benchmark/scripts/eval.sh
 And the statistics of the evaluation results will be saved in `benchmark/outputs/` like `benchmark/outputs/deepseek2vl-small_result.log`
 We have pre-configured a set of testing methods, including ["ours", "qwen", "qwen2_5", "deepseek", "llava", "internvl", "internvl2", "internvl_X_2_5", "gpt4o", "gpto1"]. If you have a custom model, you can refer to these methods and add additional ones as needed.
 
-## 🧠 Related Work
-Explore our additional research on our **Vision-Language Large Models**, focusing on multi-modal LLMs and mathematical reasoning:
-- **[xxx]** [xxx](https://github.com/lupantech/MathVista)
+## BibTeX
+If you use this code for your research, please consider citing:
+````BibTeX
+@article{sun2025mathglance,
+  title={MATHGLANCE: Multimodal Large Language Models Do Not Know Where to Look in Mathematical Diagrams},
+  author={Sun, Yanpeng and Zhang, Shan and Tang, Wei and Chen, Aotian and Koniusz, Piotr and Zou, Kai and Xue, Yuan and Hengel, Anton van den},
+  journal={arXiv preprint arXiv:2503.20745},
+  year={2025}
+}
+````
+````BibTeX
+@article{zhang2025open,
+  title={Open Eyes, Then Reason: Fine-grained Visual Mathematical Understanding in MLLMs},
+  author={Zhang, Shan and Chen, Aotian and Sun, Yanpeng and Gu, Jindong and Zheng, Yi-Yu and Koniusz, Piotr and Zou, Kai and Hengel, Anton van den and Xue, Yuan},
+  journal={arXiv preprint arXiv:2501.06430},
+  year={2025}
+}
+````
