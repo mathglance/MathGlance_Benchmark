@@ -10,7 +10,7 @@ Official repository for the paper "<img src="assets/MathGlance_logo.png" alt="Lo
 
 🌟 For more details, please refer to the project page with benchmark overview: [https://mathglance.github.io/](https://mathglance.github.io/).
 
-[[🌐 Webpage](ttps://mathglance.github.io/)] [[📖 Paper](https://arxiv.org/pdf/2503.2074)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/zs0506/GeoPeP_Caption)] [[🤗 Checkpoints](https://huggingface.co/zs0506/SVE-Math-DeepSeek-7B)]
+[[🌐 Webpage](https://mathglance.github.io/)] [[📖 Paper](https://arxiv.org/pdf/2503.2074)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/zs0506/GeoPeP_Caption)] [[🤗 Checkpoints](https://huggingface.co/zs0506/SVE-Math-DeepSeek-7B)]
 
 ## 💥 News
 - **[2025.04.12]** 🎉 MATHGLANCE benchmark and evaluation code is officially released. 🚀
@@ -19,7 +19,7 @@ Official repository for the paper "<img src="assets/MathGlance_logo.png" alt="Lo
 ## 🔍 Todo
 - [x] Update the README.
 - [x] Release the benchmark and evaluation code. 
-- [ ] Support by lmms-eval [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) for very fast evalution 🚀.
+- [ ] Support by [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) for very fast evalution 🚀.
 
 ## 👀 About MATHGLANCE
 The MathGLance benchmark is a novel evaluation framework designed to assess the mathematical perception abilities of Multimodal Large Language Models (MLLMs). Unlike existing benchmarks that often conflate perception with high-level reasoning tasks, MathGLance isolates perceptual skills by focusing on mathematical visual reasoning with minimal cognitive load. It provides both quantitative and qualitative assessments across different granularity levels. For more details, please refer to the project page.
