@@ -1,0 +1,5078 @@
+{
+  "sample_152": {
+    "image_path": "images/final_gaussian_construction_sample_152.png",
+    "attribute": {
+      "c, e, i, t, x": "pentagon",
+      "a, k, l, u, z": "pentagon",
+      "n, s, v, w": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          331,
+          291,
+          338,
+          314
+        ],
+        "t": [
+          231,
+          190,
+          247,
+          213
+        ],
+        "e": [
+          317,
+          101,
+          333,
+          124
+        ],
+        "x": [
+          412,
+          145,
+          430,
+          168
+        ],
+        "c": [
+          407,
+          253,
+          425,
+          276
+        ],
+        "z": [
+          95,
+          237,
+          113,
+          260
+        ],
+        "a": [
+          232,
+          395,
+          250,
+          418
+        ],
+        "k": [
+          392,
+          278,
+          409,
+          301
+        ],
+        "u": [
+          376,
+          170,
+          395,
+          193
+        ],
+        "l": [
+          281,
+          91,
+          296,
+          114
+        ],
+        "s": [
+          319,
+          190,
+          336,
+          213
+        ],
+        "n": [
+          257,
+          150,
+          277,
+          173
+        ],
+        "w": [
+          273,
+          95,
+          299,
+          118
+        ],
+        "v": [
+          346,
+          104,
+          364,
+          127
+        ]
+      },
+      "pentagon": {
+        "c, e, i, t, x": [
+          262,
+          136,
+          398,
+          279
+        ],
+        "a, k, l, u, z": [
+          262,
+          136,
+          398,
+          279
+        ]
+      },
+      "rectangle": {
+        "n, s, v, w": [
+          274,
+          131,
+          340,
+          179
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_57": {
+    "image_path": "images/final_gaussian_construction_sample_57.png",
+    "attribute": {
+      "a, i, n, u": "circle",
+      "b, d, p": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          248,
+          279,
+          267,
+          296
+        ],
+        "a": [
+          243,
+          199,
+          261,
+          216
+        ],
+        "i": [
+          304,
+          137,
+          311,
+          154
+        ],
+        "n": [
+          409,
+          254,
+          429,
+          271
+        ],
+        "p": [
+          214,
+          239,
+          230,
+          256
+        ],
+        "d": [
+          102,
+          214,
+          122,
+          231
+        ],
+        "b": [
+          187,
+          352,
+          205,
+          369
+        ]
+      },
+      "circle": {
+        "a, i, n, u": [
+          255,
+          162,
+          397,
+          304
+        ]
+      },
+      "right triangle": {
+        "b, d, p": [
+          113,
+          236,
+          204,
+          349
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_71": {
+    "image_path": "images/final_gaussian_construction_sample_71.png",
+    "attribute": {
+      "i, l, u": "equilateral triangle",
+      "e, q, r, w": "rectangle",
+      "c, j, o, y": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          228,
+          212,
+          235,
+          236
+        ],
+        "l": [
+          404,
+          176,
+          419,
+          200
+        ],
+        "u": [
+          331,
+          325,
+          350,
+          349
+        ],
+        "e": [
+          304,
+          80,
+          320,
+          104
+        ],
+        "w": [
+          210,
+          176,
+          236,
+          200
+        ],
+        "q": [
+          304,
+          274,
+          325,
+          298
+        ],
+        "r": [
+          415,
+          194,
+          433,
+          218
+        ],
+        "j": [
+          345,
+          150,
+          352,
+          174
+        ],
+        "c": [
+          96,
+          196,
+          114,
+          220
+        ],
+        "y": [
+          168,
+          403,
+          184,
+          427
+        ],
+        "o": [
+          388,
+          265,
+          409,
+          289
+        ]
+      },
+      "equilateral triangle": {
+        "i, l, u": [
+          249,
+          202,
+          388,
+          322
+        ]
+      },
+      "rectangle": {
+        "e, q, r, w": [
+          243,
+          120,
+          398,
+          275
+        ]
+      },
+      "equilateral quadrilateral": {
+        "c, j, o, y": [
+          113,
+          186,
+          365,
+          391
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_166": {
+    "image_path": "images/final_gaussian_construction_sample_166.png",
+    "attribute": {
+      "m, u": "segment",
+      "x, z": "segment"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          145,
+          352,
+          164,
+          370
+        ],
+        "m": [
+          402,
+          340,
+          425,
+          358
+        ],
+        "x": [
+          409,
+          134,
+          427,
+          152
+        ],
+        "z": [
+          91,
+          333,
+          109,
+          351
+        ]
+      },
+      "segment": {
+        "m, u": [
+          169,
+          353,
+          388,
+          357
+        ],
+        "x, z": [
+          169,
+          353,
+          388,
+          357
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_157": {
+    "image_path": "images/final_gaussian_construction_sample_157.png",
+    "attribute": {
+      "j, m, o, q": "quadrangle",
+      "j, m, q, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "m": [
+          250,
+          75,
+          273,
+          100
+        ],
+        "o": [
+          94,
+          153,
+          115,
+          178
+        ],
+        "q": [
+          183,
+          397,
+          204,
+          422
+        ],
+        "j": [
+          413,
+          207,
+          420,
+          232
+        ],
+        "z": [
+          367,
+          362,
+          385,
+          387
+        ]
+      },
+      "quadrangle": {
+        "j, m, o, q": [
+          113,
+          115,
+          395,
+          385
+        ]
+      },
+      "circle": {
+        "j, m, q, z": [
+          118,
+          116,
+          398,
+          396
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_110": {
+    "image_path": "images/final_gaussian_construction_sample_110.png",
+    "attribute": {
+      "i, m, o, p": "quadrangle",
+      "b, k, y": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          357,
+          170,
+          373,
+          183
+        ],
+        "m": [
+          219,
+          161,
+          242,
+          174
+        ],
+        "i": [
+          103,
+          195,
+          110,
+          208
+        ],
+        "o": [
+          302,
+          294,
+          323,
+          307
+        ],
+        "b": [
+          270,
+          210,
+          288,
+          223
+        ],
+        "y": [
+          406,
+          211,
+          422,
+          224
+        ],
+        "k": [
+          341,
+          331,
+          358,
+          344
+        ]
+      },
+      "quadrangle": {
+        "i, m, o, p": [
+          113,
+          182,
+          349,
+          290
+        ]
+      },
+      "equilateral triangle": {
+        "b, k, y": [
+          279,
+          226,
+          398,
+          329
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_53": {
+    "image_path": "images/final_gaussian_construction_sample_53.png",
+    "attribute": {
+      "c, n, x": "scalene triangle",
+      "c, n, o, x": "circle",
+      "f, h, z": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "n": [
+          254,
+          244,
+          274,
+          257
+        ],
+        "c": [
+          407,
+          245,
+          425,
+          258
+        ],
+        "x": [
+          337,
+          175,
+          355,
+          188
+        ],
+        "o": [
+          316,
+          334,
+          337,
+          347
+        ],
+        "f": [
+          193,
+          162,
+          208,
+          175
+        ],
+        "h": [
+          350,
+          266,
+          370,
+          279
+        ],
+        "z": [
+          98,
+          331,
+          116,
+          344
+        ]
+      },
+      "scalene triangle": {
+        "c, n, x": [
+          265,
+          195,
+          397,
+          256
+        ]
+      },
+      "circle": {
+        "c, n, o, x": [
+          265,
+          195,
+          397,
+          327
+        ]
+      },
+      "isosceles triangle": {
+        "f, h, z": [
+          113,
+          183,
+          337,
+          328
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_6": {
+    "image_path": "images/final_gaussian_construction_sample_6.png",
+    "attribute": {
+      "a, g, l, r": "rectangle",
+      "c, d, h, o, v": "pentagon",
+      "J": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "l": [
+          344,
+          80,
+          356,
+          105
+        ],
+        "r": [
+          382,
+          208,
+          397,
+          233
+        ],
+        "g": [
+          184,
+          263,
+          201,
+          288
+        ],
+        "a": [
+          138,
+          126,
+          153,
+          151
+        ],
+        "d": [
+          321,
+          204,
+          337,
+          229
+        ],
+        "c": [
+          208,
+          135,
+          223,
+          160
+        ],
+        "o": [
+          112,
+          296,
+          129,
+          321
+        ],
+        "v": [
+          295,
+          398,
+          310,
+          423
+        ],
+        "h": [
+          392,
+          302,
+          408,
+          327
+        ],
+        "J": [
+          246,
+          243,
+          252,
+          263
+        ]
+      },
+      "rectangle": {
+        "a, g, l, r": [
+          152,
+          113,
+          361,
+          263
+        ]
+      },
+      "pentagon": {
+        "c, d, h, o, v": [
+          139,
+          172,
+          372,
+          398
+        ]
+      },
+      "ellipse": {
+        "J": [
+          142,
+          117,
+          364,
+          411
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_145": {
+    "image_path": "images/final_gaussian_construction_sample_145.png",
+    "attribute": {
+      "o, w": "segment",
+      "f, o, q, w": "circle"
+    },
+    "bbox": {
+      "text": {
+        "w": [
+          337,
+          383,
+          363,
+          408
+        ],
+        "o": [
+          407,
+          310,
+          428,
+          335
+        ],
+        "q": [
+          420,
+          272,
+          441,
+          297
+        ],
+        "f": [
+          118,
+          148,
+          133,
+          173
+        ]
+      },
+      "segment": {
+        "o, w": [
+          323,
+          317,
+          384,
+          381
+        ]
+      },
+      "circle": {
+        "f, o, q, w": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_132": {
+    "image_path": "images/final_gaussian_construction_sample_132.png",
+    "attribute": {
+      "d, g, z": "right triangle",
+      "a, t, v, y": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          203,
+          150,
+          223,
+          165
+        ],
+        "z": [
+          170,
+          345,
+          188,
+          360
+        ],
+        "g": [
+          408,
+          187,
+          428,
+          202
+        ],
+        "a": [
+          96,
+          320,
+          114,
+          335
+        ],
+        "y": [
+          253,
+          331,
+          269,
+          346
+        ],
+        "t": [
+          262,
+          209,
+          278,
+          224
+        ],
+        "v": [
+          117,
+          192,
+          135,
+          207
+        ]
+      },
+      "right triangle": {
+        "d, g, z": [
+          185,
+          172,
+          398,
+          339
+        ]
+      },
+      "rectangle": {
+        "a, t, v, y": [
+          113,
+          214,
+          253,
+          330
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_241": {
+    "image_path": "images/final_gaussian_construction_sample_241.png",
+    "attribute": {
+      "h, j, l, m": "quadrangle",
+      "g, n, v": "isosceles triangle",
+      "e, k, u": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "h": [
+          262,
+          264,
+          272,
+          289
+        ],
+        "j": [
+          187,
+          262,
+          190,
+          287
+        ],
+        "m": [
+          197,
+          392,
+          208,
+          417
+        ],
+        "l": [
+          271,
+          384,
+          278,
+          409
+        ],
+        "n": [
+          331,
+          113,
+          341,
+          138
+        ],
+        "v": [
+          176,
+          243,
+          185,
+          268
+        ],
+        "g": [
+          289,
+          303,
+          299,
+          328
+        ],
+        "u": [
+          168,
+          216,
+          177,
+          241
+        ],
+        "k": [
+          231,
+          82,
+          239,
+          107
+        ],
+        "e": [
+          314,
+          244,
+          322,
+          269
+        ]
+      },
+      "quadrangle": {
+        "h, j, l, m": [
+          195,
+          290,
+          261,
+          398
+        ]
+      },
+      "isosceles triangle": {
+        "g, n, v": [
+          193,
+          141,
+          327,
+          312
+        ],
+        "e, k, u": [
+          193,
+          141,
+          327,
+          312
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_122": {
+    "image_path": "images/final_gaussian_construction_sample_122.png",
+    "attribute": {
+      "d, l, n, o": "right trapezoid",
+      "b, x, z": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          356,
+          356,
+          368,
+          381
+        ],
+        "o": [
+          325,
+          243,
+          337,
+          268
+        ],
+        "l": [
+          167,
+          182,
+          176,
+          207
+        ],
+        "n": [
+          210,
+          396,
+          222,
+          421
+        ],
+        "z": [
+          286,
+          83,
+          297,
+          108
+        ],
+        "b": [
+          266,
+          268,
+          277,
+          293
+        ],
+        "x": [
+          149,
+          221,
+          160,
+          246
+        ]
+      },
+      "right trapezoid": {
+        "d, l, n, o": [
+          176,
+          211,
+          342,
+          398
+        ]
+      },
+      "isosceles triangle": {
+        "b, x, z": [
+          169,
+          113,
+          281,
+          275
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_67": {
+    "image_path": "images/final_gaussian_construction_sample_67.png",
+    "attribute": {
+      "e, p, r, t": "square",
+      "e, f, r, t": "circle",
+      "V": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "t": [
+          198,
+          82,
+          214,
+          107
+        ],
+        "p": [
+          90,
+          306,
+          106,
+          331
+        ],
+        "e": [
+          318,
+          392,
+          334,
+          417
+        ],
+        "r": [
+          406,
+          180,
+          424,
+          205
+        ],
+        "f": [
+          258,
+          232,
+          273,
+          257
+        ],
+        "V": [
+          205,
+          111,
+          219,
+          131
+        ]
+      },
+      "square": {
+        "e, p, r, t": [
+          122,
+          122,
+          389,
+          389
+        ]
+      },
+      "circle": {
+        "e, f, r, t": [
+          114,
+          114,
+          398,
+          398
+        ]
+      },
+      "ellipse": {
+        "V": [
+          78,
+          0,
+          326,
+          269
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_45": {
+    "image_path": "images/final_gaussian_construction_sample_45.png",
+    "attribute": {
+      "a, y": "segment",
+      "b, m, n": "right triangle",
+      "i, l, q, z": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "y": [
+          310,
+          301,
+          326,
+          321
+        ],
+        "a": [
+          222,
+          164,
+          240,
+          184
+        ],
+        "n": [
+          266,
+          200,
+          286,
+          220
+        ],
+        "b": [
+          139,
+          230,
+          157,
+          250
+        ],
+        "m": [
+          292,
+          324,
+          315,
+          344
+        ],
+        "l": [
+          87,
+          247,
+          101,
+          267
+        ],
+        "i": [
+          216,
+          377,
+          223,
+          397
+        ],
+        "q": [
+          417,
+          311,
+          438,
+          331
+        ],
+        "z": [
+          219,
+          112,
+          237,
+          132
+        ]
+      },
+      "segment": {
+        "a, y": [
+          229,
+          194,
+          291,
+          308
+        ]
+      },
+      "right triangle": {
+        "b, m, n": [
+          155,
+          224,
+          279,
+          324
+        ]
+      },
+      "right trapezoid": {
+        "i, l, q, z": [
+          113,
+          144,
+          398,
+          367
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_242": {
+    "image_path": "images/final_gaussian_construction_sample_242.png",
+    "attribute": {
+      "m, n, u, w": "circle",
+      "e, f, x": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          118,
+          248,
+          137,
+          270
+        ],
+        "n": [
+          184,
+          301,
+          204,
+          323
+        ],
+        "w": [
+          179,
+          129,
+          205,
+          151
+        ],
+        "m": [
+          384,
+          152,
+          407,
+          174
+        ],
+        "e": [
+          98,
+          207,
+          114,
+          229
+        ],
+        "x": [
+          275,
+          209,
+          293,
+          231
+        ],
+        "f": [
+          167,
+          372,
+          182,
+          394
+        ]
+      },
+      "circle": {
+        "m, n, u, w": [
+          148,
+          131,
+          398,
+          381
+        ]
+      },
+      "equilateral triangle": {
+        "e, f, x": [
+          113,
+          235,
+          261,
+          363
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_197": {
+    "image_path": "images/final_gaussian_construction_sample_197.png",
+    "attribute": {
+      "e, k, n, r": "isosceles trapezoid",
+      "g, i, t": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "n": [
+          199,
+          142,
+          207,
+          167
+        ],
+        "k": [
+          179,
+          314,
+          186,
+          339
+        ],
+        "r": [
+          301,
+          387,
+          309,
+          412
+        ],
+        "e": [
+          322,
+          86,
+          329,
+          111
+        ],
+        "t": [
+          186,
+          180,
+          193,
+          205
+        ],
+        "i": [
+          304,
+          180,
+          307,
+          205
+        ],
+        "g": [
+          248,
+          284,
+          257,
+          309
+        ]
+      },
+      "isosceles trapezoid": {
+        "e, k, n, r": [
+          193,
+          113,
+          318,
+          398
+        ]
+      },
+      "equilateral triangle": {
+        "g, i, t": [
+          194,
+          204,
+          297,
+          293
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_124": {
+    "image_path": "images/final_gaussian_construction_sample_124.png",
+    "attribute": {
+      "e, i, s, u": "isosceles trapezoid",
+      "i, s, u, w": "circle",
+      "e, h, u, w": "circle"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          377,
+          353,
+          384,
+          378
+        ],
+        "s": [
+          413,
+          210,
+          430,
+          235
+        ],
+        "u": [
+          132,
+          137,
+          151,
+          162
+        ],
+        "e": [
+          85,
+          257,
+          101,
+          282
+        ],
+        "w": [
+          282,
+          246,
+          308,
+          271
+        ],
+        "h": [
+          190,
+          210,
+          210,
+          235
+        ]
+      },
+      "isosceles trapezoid": {
+        "e, i, s, u": [
+          118,
+          172,
+          396,
+          354
+        ]
+      },
+      "circle": {
+        "i, s, u, w": [
+          113,
+          159,
+          261,
+          307
+        ],
+        "e, h, u, w": [
+          113,
+          159,
+          261,
+          307
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_48": {
+    "image_path": "images/final_gaussian_construction_sample_48.png",
+    "attribute": {
+      "e, k, n, v": "circle",
+      "b, c, q, y": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "k": [
+          205,
+          255,
+          222,
+          274
+        ],
+        "v": [
+          379,
+          344,
+          397,
+          363
+        ],
+        "e": [
+          315,
+          157,
+          331,
+          176
+        ],
+        "n": [
+          208,
+          320,
+          228,
+          339
+        ],
+        "c": [
+          214,
+          328,
+          232,
+          347
+        ],
+        "y": [
+          308,
+          197,
+          324,
+          216
+        ],
+        "q": [
+          180,
+          117,
+          201,
+          136
+        ],
+        "b": [
+          87,
+          232,
+          105,
+          251
+        ]
+      },
+      "circle": {
+        "e, k, n, v": [
+          221,
+          187,
+          397,
+          363
+        ]
+      },
+      "equilateral quadrilateral": {
+        "b, c, q, y": [
+          113,
+          148,
+          289,
+          324
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_143": {
+    "image_path": "images/final_gaussian_construction_sample_143.png",
+    "attribute": {
+      "d, h, o, v": "quadrangle",
+      "i, l, p, r": "quadrangle",
+      "Z": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "o": [
+          325,
+          251,
+          340,
+          276
+        ],
+        "h": [
+          311,
+          185,
+          325,
+          210
+        ],
+        "d": [
+          253,
+          78,
+          268,
+          103
+        ],
+        "v": [
+          195,
+          270,
+          208,
+          295
+        ],
+        "l": [
+          373,
+          243,
+          384,
+          268
+        ],
+        "i": [
+          264,
+          347,
+          269,
+          372
+        ],
+        "p": [
+          130,
+          397,
+          141,
+          422
+        ],
+        "r": [
+          253,
+          186,
+          266,
+          211
+        ],
+        "Z": [
+          290,
+          177,
+          304,
+          197
+        ]
+      },
+      "quadrangle": {
+        "d, h, o, v": [
+          209,
+          113,
+          308,
+          295
+        ],
+        "i, l, p, r": [
+          209,
+          113,
+          308,
+          295
+        ]
+      },
+      "ellipse": {
+        "Z": [
+          176,
+          102,
+          436,
+          295
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_229": {
+    "image_path": "images/final_gaussian_construction_sample_229.png",
+    "attribute": {
+      "a, c, g, s": "circle",
+      "h, r, v": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          148,
+          381,
+          165,
+          406
+        ],
+        "g": [
+          103,
+          333,
+          123,
+          358
+        ],
+        "c": [
+          79,
+          252,
+          97,
+          277
+        ],
+        "a": [
+          422,
+          259,
+          440,
+          284
+        ],
+        "r": [
+          148,
+          330,
+          166,
+          355
+        ],
+        "h": [
+          281,
+          312,
+          301,
+          337
+        ],
+        "v": [
+          139,
+          199,
+          157,
+          224
+        ]
+      },
+      "circle": {
+        "a, c, g, s": [
+          114,
+          114,
+          398,
+          398
+        ]
+      },
+      "scalene triangle": {
+        "h, r, v": [
+          150,
+          237,
+          257,
+          321
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_181": {
+    "image_path": "images/final_gaussian_construction_sample_181.png",
+    "attribute": {
+      "g, v, w, x": "quadrangle",
+      "g, p, v, w": "circle",
+      "j, l, y": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          151,
+          278,
+          171,
+          298
+        ],
+        "x": [
+          98,
+          173,
+          116,
+          193
+        ],
+        "w": [
+          272,
+          137,
+          298,
+          157
+        ],
+        "v": [
+          304,
+          222,
+          322,
+          242
+        ],
+        "p": [
+          217,
+          197,
+          233,
+          217
+        ],
+        "l": [
+          300,
+          357,
+          314,
+          377
+        ],
+        "j": [
+          415,
+          363,
+          422,
+          383
+        ],
+        "y": [
+          334,
+          247,
+          350,
+          267
+        ]
+      },
+      "quadrangle": {
+        "g, v, w, x": [
+          113,
+          163,
+          284,
+          271
+        ]
+      },
+      "circle": {
+        "g, p, v, w": [
+          145,
+          145,
+          285,
+          285
+        ]
+      },
+      "right triangle": {
+        "j, l, y": [
+          323,
+          279,
+          398,
+          367
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_248": {
+    "image_path": "images/final_gaussian_construction_sample_248.png",
+    "attribute": {
+      "m, s, v": "scalene triangle",
+      "a, c, g": "right triangle",
+      "b, e, w, x": "isosceles trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "m": [
+          273,
+          364,
+          289,
+          389
+        ],
+        "s": [
+          378,
+          353,
+          390,
+          378
+        ],
+        "v": [
+          283,
+          283,
+          296,
+          308
+        ],
+        "g": [
+          309,
+          330,
+          324,
+          355
+        ],
+        "c": [
+          271,
+          79,
+          284,
+          104
+        ],
+        "a": [
+          129,
+          372,
+          142,
+          397
+        ],
+        "e": [
+          202,
+          316,
+          214,
+          341
+        ],
+        "x": [
+          263,
+          271,
+          276,
+          296
+        ],
+        "w": [
+          307,
+          363,
+          326,
+          388
+        ],
+        "b": [
+          161,
+          398,
+          174,
+          423
+        ]
+      },
+      "scalene triangle": {
+        "m, s, v": [
+          266,
+          316,
+          360,
+          366
+        ]
+      },
+      "right triangle": {
+        "a, c, g": [
+          151,
+          113,
+          298,
+          374
+        ]
+      },
+      "isosceles trapezoid": {
+        "b, e, w, x": [
+          180,
+          304,
+          302,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_137": {
+    "image_path": "images/final_gaussian_construction_sample_137.png",
+    "attribute": {
+      "v, w": "segment",
+      "j, t, x": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          334,
+          210,
+          352,
+          234
+        ],
+        "w": [
+          111,
+          277,
+          137,
+          301
+        ],
+        "x": [
+          99,
+          89,
+          117,
+          113
+        ],
+        "t": [
+          218,
+          402,
+          234,
+          426
+        ],
+        "j": [
+          414,
+          172,
+          421,
+          196
+        ]
+      },
+      "segment": {
+        "v, w": [
+          143,
+          248,
+          338,
+          281
+        ]
+      },
+      "isosceles triangle": {
+        "j, t, x": [
+          113,
+          121,
+          398,
+          390
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_96": {
+    "image_path": "images/final_gaussian_construction_sample_96.png",
+    "attribute": {
+      "c, i, m, w": "isosceles trapezoid",
+      "i, m, s, w": "circle"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          395,
+          331,
+          402,
+          356
+        ],
+        "w": [
+          403,
+          173,
+          429,
+          198
+        ],
+        "m": [
+          219,
+          76,
+          242,
+          101
+        ],
+        "c": [
+          175,
+          397,
+          193,
+          422
+        ],
+        "s": [
+          107,
+          167,
+          124,
+          192
+        ]
+      },
+      "isosceles trapezoid": {
+        "c, i, m, w": [
+          197,
+          117,
+          387,
+          385
+        ]
+      },
+      "circle": {
+        "i, m, s, w": [
+          114,
+          113,
+          398,
+          397
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_11": {
+    "image_path": "images/final_gaussian_construction_sample_11.png",
+    "attribute": {
+      "e, g, n, r": "rectangle",
+      "j, q, y": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          414,
+          310,
+          434,
+          329
+        ],
+        "e": [
+          373,
+          122,
+          389,
+          141
+        ],
+        "n": [
+          101,
+          174,
+          121,
+          193
+        ],
+        "r": [
+          126,
+          370,
+          144,
+          389
+        ],
+        "y": [
+          165,
+          147,
+          181,
+          166
+        ],
+        "j": [
+          250,
+          197,
+          257,
+          216
+        ],
+        "q": [
+          179,
+          260,
+          200,
+          279
+        ]
+      },
+      "rectangle": {
+        "e, g, n, r": [
+          113,
+          149,
+          398,
+          362
+        ]
+      },
+      "isosceles triangle": {
+        "j, q, y": [
+          168,
+          178,
+          237,
+          250
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_104": {
+    "image_path": "images/final_gaussian_construction_sample_104.png",
+    "attribute": {
+      "e, f, k, t": "quadrangle",
+      "e, f, k, p": "circle",
+      "j, z": "segment",
+      "B": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          263,
+          361,
+          279,
+          380
+        ],
+        "t": [
+          338,
+          235,
+          354,
+          254
+        ],
+        "f": [
+          186,
+          122,
+          201,
+          141
+        ],
+        "k": [
+          87,
+          251,
+          104,
+          270
+        ],
+        "p": [
+          111,
+          184,
+          127,
+          203
+        ],
+        "z": [
+          417,
+          154,
+          435,
+          173
+        ],
+        "j": [
+          273,
+          125,
+          280,
+          144
+        ],
+        "B": [
+          273,
+          161,
+          287,
+          181
+        ]
+      },
+      "quadrangle": {
+        "e, f, k, t": [
+          113,
+          152,
+          324,
+          358
+        ]
+      },
+      "circle": {
+        "e, f, k, p": [
+          114,
+          149,
+          328,
+          363
+        ]
+      },
+      "segment": {
+        "j, z": [
+          274,
+          154,
+          398,
+          165
+        ]
+      },
+      "ellipse": {
+        "B": [
+          162,
+          67,
+          418,
+          299
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_212": {
+    "image_path": "images/final_gaussian_construction_sample_212.png",
+    "attribute": {
+      "f, k, s": "isosceles triangle",
+      "d, r, t, y": "quadrangle",
+      "d, q, r, t": "circle",
+      "V": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "f": [
+          416,
+          191,
+          431,
+          216
+        ],
+        "k": [
+          100,
+          77,
+          117,
+          102
+        ],
+        "s": [
+          134,
+          407,
+          151,
+          432
+        ],
+        "d": [
+          118,
+          370,
+          138,
+          395
+        ],
+        "t": [
+          223,
+          401,
+          239,
+          426
+        ],
+        "r": [
+          241,
+          242,
+          259,
+          267
+        ],
+        "y": [
+          199,
+          223,
+          215,
+          248
+        ],
+        "q": [
+          292,
+          327,
+          313,
+          352
+        ],
+        "V": [
+          259,
+          240,
+          273,
+          260
+        ]
+      },
+      "isosceles triangle": {
+        "f, k, s": [
+          113,
+          114,
+          398,
+          397
+        ]
+      },
+      "quadrangle": {
+        "d, r, t, y": [
+          150,
+          264,
+          233,
+          396
+        ]
+      },
+      "circle": {
+        "d, q, r, t": [
+          140,
+          271,
+          266,
+          397
+        ]
+      },
+      "ellipse": {
+        "V": [
+          106,
+          101,
+          446,
+          372
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_36": {
+    "image_path": "images/final_gaussian_construction_sample_36.png",
+    "attribute": {
+      "b, g, j, t": "right trapezoid",
+      "d, o, q": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          223,
+          402,
+          236,
+          427
+        ],
+        "g": [
+          163,
+          272,
+          178,
+          297
+        ],
+        "j": [
+          262,
+          77,
+          267,
+          102
+        ],
+        "t": [
+          381,
+          332,
+          393,
+          357
+        ],
+        "q": [
+          215,
+          108,
+          230,
+          133
+        ],
+        "o": [
+          303,
+          199,
+          318,
+          224
+        ],
+        "d": [
+          124,
+          209,
+          139,
+          234
+        ]
+      },
+      "right trapezoid": {
+        "b, g, j, t": [
+          188,
+          113,
+          363,
+          398
+        ]
+      },
+      "right triangle": {
+        "d, o, q": [
+          148,
+          144,
+          284,
+          213
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_69": {
+    "image_path": "images/final_gaussian_construction_sample_69.png",
+    "attribute": {
+      "u, w, x, z": "rectangle",
+      "c, e, l, r": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "x": [
+          145,
+          362,
+          163,
+          380
+        ],
+        "u": [
+          369,
+          278,
+          388,
+          296
+        ],
+        "w": [
+          309,
+          127,
+          335,
+          145
+        ],
+        "z": [
+          100,
+          203,
+          118,
+          221
+        ],
+        "e": [
+          259,
+          366,
+          275,
+          384
+        ],
+        "c": [
+          228,
+          278,
+          246,
+          296
+        ],
+        "l": [
+          368,
+          236,
+          383,
+          254
+        ],
+        "r": [
+          415,
+          320,
+          433,
+          338
+        ]
+      },
+      "rectangle": {
+        "u, w, x, z": [
+          113,
+          153,
+          352,
+          354
+        ]
+      },
+      "trapezoid": {
+        "c, e, l, r": [
+          242,
+          263,
+          398,
+          358
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_209": {
+    "image_path": "images/final_gaussian_construction_sample_209.png",
+    "attribute": {
+      "a, e, q, r, z": "pentagon",
+      "a, q, s, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "a": [
+          414,
+          212,
+          432,
+          237
+        ],
+        "q": [
+          367,
+          363,
+          388,
+          388
+        ],
+        "z": [
+          241,
+          411,
+          259,
+          436
+        ],
+        "e": [
+          105,
+          173,
+          121,
+          198
+        ],
+        "r": [
+          217,
+          77,
+          235,
+          102
+        ],
+        "s": [
+          358,
+          112,
+          375,
+          137
+        ]
+      },
+      "pentagon": {
+        "a, e, q, r, z": [
+          124,
+          117,
+          396,
+          398
+        ]
+      },
+      "circle": {
+        "a, q, s, z": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_203": {
+    "image_path": "images/final_gaussian_construction_sample_203.png",
+    "attribute": {
+      "c, n, v": "isosceles triangle",
+      "d, h, s, y": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "c": [
+          173,
+          75,
+          190,
+          100
+        ],
+        "n": [
+          225,
+          214,
+          243,
+          239
+        ],
+        "v": [
+          91,
+          211,
+          108,
+          236
+        ],
+        "h": [
+          414,
+          233,
+          433,
+          258
+        ],
+        "d": [
+          323,
+          104,
+          342,
+          129
+        ],
+        "y": [
+          172,
+          263,
+          187,
+          288
+        ],
+        "s": [
+          248,
+          409,
+          264,
+          434
+        ]
+      },
+      "isosceles triangle": {
+        "c, n, v": [
+          121,
+          113,
+          205,
+          218
+        ]
+      },
+      "trapezoid": {
+        "d, h, s, y": [
+          191,
+          142,
+          390,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_202": {
+    "image_path": "images/final_gaussian_construction_sample_202.png",
+    "attribute": {
+      "l, s, t, v": "right trapezoid",
+      "n, w, x, y": "quadrangle",
+      "d, k, o, z": "isosceles trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          269,
+          186,
+          286,
+          211
+        ],
+        "s": [
+          257,
+          148,
+          273,
+          173
+        ],
+        "t": [
+          309,
+          75,
+          324,
+          100
+        ],
+        "l": [
+          354,
+          193,
+          368,
+          218
+        ],
+        "n": [
+          202,
+          239,
+          221,
+          264
+        ],
+        "y": [
+          166,
+          99,
+          181,
+          124
+        ],
+        "w": [
+          378,
+          101,
+          403,
+          126
+        ],
+        "x": [
+          412,
+          209,
+          429,
+          234
+        ],
+        "d": [
+          239,
+          401,
+          258,
+          426
+        ],
+        "o": [
+          287,
+          313,
+          307,
+          338
+        ],
+        "z": [
+          153,
+          226,
+          170,
+          251
+        ],
+        "k": [
+          88,
+          319,
+          104,
+          344
+        ]
+      },
+      "right trapezoid": {
+        "l, s, t, v": [
+          276,
+          113,
+          332,
+          211
+        ]
+      },
+      "quadrangle": {
+        "n, w, x, y": [
+          182,
+          131,
+          391,
+          230
+        ]
+      },
+      "isosceles trapezoid": {
+        "d, k, o, z": [
+          120,
+          265,
+          270,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_153": {
+    "image_path": "images/final_gaussian_construction_sample_153.png",
+    "attribute": {
+      "c, d, l": "circle",
+      "e, g, j, p": "rectangle",
+      "n, u, w": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          339,
+          326,
+          359,
+          347
+        ],
+        "l": [
+          214,
+          235,
+          229,
+          256
+        ],
+        "c": [
+          112,
+          330,
+          130,
+          351
+        ],
+        "p": [
+          362,
+          244,
+          378,
+          265
+        ],
+        "j": [
+          230,
+          207,
+          237,
+          228
+        ],
+        "e": [
+          200,
+          319,
+          216,
+          340
+        ],
+        "g": [
+          344,
+          332,
+          364,
+          353
+        ],
+        "w": [
+          339,
+          161,
+          365,
+          182
+        ],
+        "u": [
+          413,
+          206,
+          432,
+          227
+        ],
+        "n": [
+          278,
+          344,
+          298,
+          365
+        ]
+      },
+      "circle": {
+        "c, d, l": [
+          114,
+          140,
+          346,
+          372
+        ]
+      },
+      "rectangle": {
+        "e, g, j, p": [
+          225,
+          238,
+          341,
+          334
+        ]
+      },
+      "scalene triangle": {
+        "n, u, w": [
+          292,
+          191,
+          398,
+          334
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_85": {
+    "image_path": "images/final_gaussian_construction_sample_85.png",
+    "attribute": {
+      "h, i, p": "equilateral triangle",
+      "h, i, p, t": "circle",
+      "a, c, g, m": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          232,
+          249,
+          248,
+          273
+        ],
+        "h": [
+          391,
+          251,
+          411,
+          275
+        ],
+        "i": [
+          317,
+          394,
+          324,
+          418
+        ],
+        "t": [
+          315,
+          293,
+          331,
+          317
+        ],
+        "c": [
+          85,
+          234,
+          103,
+          258
+        ],
+        "a": [
+          289,
+          188,
+          307,
+          212
+        ],
+        "m": [
+          422,
+          181,
+          445,
+          205
+        ],
+        "g": [
+          133,
+          86,
+          153,
+          110
+        ]
+      },
+      "equilateral triangle": {
+        "h, i, p": [
+          249,
+          278,
+          377,
+          389
+        ]
+      },
+      "circle": {
+        "h, i, p, t": [
+          240,
+          242,
+          386,
+          388
+        ]
+      },
+      "quadrangle": {
+        "a, c, g, m": [
+          113,
+          122,
+          398,
+          228
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_214": {
+    "image_path": "images/final_gaussian_construction_sample_214.png",
+    "attribute": {
+      "p, q, s, t": "equilateral quadrilateral",
+      "d, h, u, v": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          80,
+          270,
+          97,
+          295
+        ],
+        "q": [
+          200,
+          358,
+          221,
+          383
+        ],
+        "p": [
+          260,
+          267,
+          276,
+          292
+        ],
+        "t": [
+          156,
+          198,
+          172,
+          223
+        ],
+        "u": [
+          423,
+          282,
+          442,
+          307
+        ],
+        "d": [
+          275,
+          407,
+          295,
+          432
+        ],
+        "v": [
+          107,
+          194,
+          125,
+          219
+        ],
+        "h": [
+          235,
+          78,
+          255,
+          103
+        ]
+      },
+      "equilateral quadrilateral": {
+        "p, q, s, t": [
+          113,
+          233,
+          242,
+          354
+        ]
+      },
+      "rectangle": {
+        "d, h, u, v": [
+          127,
+          117,
+          398,
+          394
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_148": {
+    "image_path": "images/final_gaussian_construction_sample_148.png",
+    "attribute": {
+      "f, t": "segment",
+      "b, d, v": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "t": [
+          251,
+          181,
+          267,
+          204
+        ],
+        "f": [
+          91,
+          351,
+          106,
+          374
+        ],
+        "b": [
+          172,
+          394,
+          190,
+          417
+        ],
+        "v": [
+          102,
+          93,
+          120,
+          116
+        ],
+        "d": [
+          421,
+          309,
+          441,
+          332
+        ]
+      },
+      "segment": {
+        "f, t": [
+          117,
+          213,
+          242,
+          344
+        ]
+      },
+      "right triangle": {
+        "b, d, v": [
+          113,
+          127,
+          398,
+          384
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_74": {
+    "image_path": "images/final_gaussian_construction_sample_74.png",
+    "attribute": {
+      "e, p, r, s": "circle",
+      "h, j, o, v": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "r": [
+          299,
+          162,
+          317,
+          178
+        ],
+        "p": [
+          383,
+          296,
+          399,
+          312
+        ],
+        "s": [
+          251,
+          258,
+          268,
+          274
+        ],
+        "e": [
+          335,
+          229,
+          351,
+          245
+        ],
+        "o": [
+          316,
+          260,
+          337,
+          276
+        ],
+        "v": [
+          211,
+          348,
+          229,
+          364
+        ],
+        "j": [
+          92,
+          299,
+          99,
+          315
+        ],
+        "h": [
+          281,
+          142,
+          301,
+          158
+        ]
+      },
+      "circle": {
+        "e, p, r, s": [
+          271,
+          181,
+          397,
+          307
+        ]
+      },
+      "quadrangle": {
+        "h, j, o, v": [
+          113,
+          166,
+          301,
+          345
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_78": {
+    "image_path": "images/final_gaussian_construction_sample_78.png",
+    "attribute": {
+      "m, o, s, z": "equilateral quadrilateral",
+      "h, k, n": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          339,
+          76,
+          355,
+          101
+        ],
+        "z": [
+          239,
+          116,
+          256,
+          141
+        ],
+        "o": [
+          308,
+          332,
+          328,
+          357
+        ],
+        "m": [
+          416,
+          312,
+          438,
+          337
+        ],
+        "h": [
+          101,
+          135,
+          120,
+          160
+        ],
+        "k": [
+          218,
+          410,
+          235,
+          435
+        ],
+        "n": [
+          380,
+          219,
+          399,
+          244
+        ]
+      },
+      "equilateral quadrilateral": {
+        "m, o, s, z": [
+          257,
+          113,
+          394,
+          329
+        ]
+      },
+      "isosceles triangle": {
+        "h, k, n": [
+          117,
+          169,
+          363,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_213": {
+    "image_path": "images/final_gaussian_construction_sample_213.png",
+    "attribute": {
+      "f, o, p": "circle",
+      "h, l, t, v": "rectangle",
+      "d, u": "segment"
+    },
+    "bbox": {
+      "text": {
+        "o": [
+          373,
+          127,
+          394,
+          152
+        ],
+        "p": [
+          280,
+          247,
+          296,
+          272
+        ],
+        "f": [
+          382,
+          348,
+          397,
+          373
+        ],
+        "h": [
+          258,
+          276,
+          278,
+          301
+        ],
+        "l": [
+          267,
+          165,
+          282,
+          190
+        ],
+        "v": [
+          140,
+          135,
+          158,
+          160
+        ],
+        "t": [
+          119,
+          252,
+          135,
+          277
+        ],
+        "u": [
+          249,
+          261,
+          268,
+          286
+        ],
+        "d": [
+          348,
+          158,
+          368,
+          183
+        ]
+      },
+      "circle": {
+        "f, o, p": [
+          114,
+          114,
+          398,
+          398
+        ]
+      },
+      "rectangle": {
+        "h, l, t, v": [
+          134,
+          169,
+          266,
+          273
+        ]
+      },
+      "segment": {
+        "d, u": [
+          235,
+          156,
+          333,
+          258
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_208": {
+    "image_path": "images/final_gaussian_construction_sample_208.png",
+    "attribute": {
+      "l, r, t": "scalene triangle",
+      "c, f, m, z": "square",
+      "f, q, r, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "l": [
+          205,
+          311,
+          220,
+          327
+        ],
+        "r": [
+          329,
+          307,
+          347,
+          323
+        ],
+        "t": [
+          103,
+          172,
+          119,
+          188
+        ],
+        "f": [
+          295,
+          150,
+          310,
+          166
+        ],
+        "z": [
+          413,
+          239,
+          431,
+          255
+        ],
+        "m": [
+          330,
+          346,
+          353,
+          362
+        ],
+        "c": [
+          207,
+          269,
+          225,
+          285
+        ],
+        "q": [
+          331,
+          221,
+          352,
+          237
+        ]
+      },
+      "scalene triangle": {
+        "l, r, t": [
+          113,
+          192,
+          325,
+          304
+        ]
+      },
+      "square": {
+        "c, f, m, z": [
+          228,
+          174,
+          397,
+          343
+        ]
+      },
+      "circle": {
+        "f, q, r, z": [
+          262,
+          168,
+          398,
+          304
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_86": {
+    "image_path": "images/final_gaussian_construction_sample_86.png",
+    "attribute": {
+      "b, q, r": "right triangle",
+      "j, u, z": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          158,
+          320,
+          179,
+          330
+        ],
+        "r": [
+          405,
+          201,
+          423,
+          211
+        ],
+        "b": [
+          106,
+          183,
+          124,
+          193
+        ],
+        "j": [
+          237,
+          263,
+          244,
+          273
+        ],
+        "u": [
+          329,
+          231,
+          348,
+          241
+        ],
+        "z": [
+          294,
+          186,
+          312,
+          196
+        ]
+      },
+      "right triangle": {
+        "b, q, r": [
+          113,
+          196,
+          398,
+          315
+        ]
+      },
+      "isosceles triangle": {
+        "j, u, z": [
+          249,
+          203,
+          318,
+          261
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_243": {
+    "image_path": "images/final_gaussian_construction_sample_243.png",
+    "attribute": {
+      "a, l": "segment",
+      "c, n, v": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "a": [
+          146,
+          91,
+          164,
+          116
+        ],
+        "l": [
+          421,
+          192,
+          436,
+          217
+        ],
+        "n": [
+          270,
+          231,
+          290,
+          256
+        ],
+        "v": [
+          101,
+          135,
+          119,
+          160
+        ],
+        "c": [
+          153,
+          406,
+          171,
+          431
+        ]
+      },
+      "segment": {
+        "a, l": [
+          165,
+          117,
+          398,
+          201
+        ]
+      },
+      "right triangle": {
+        "c, n, v": [
+          113,
+          171,
+          252,
+          394
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_210": {
+    "image_path": "images/final_gaussian_construction_sample_210.png",
+    "attribute": {
+      "b, g, l": "equilateral triangle",
+      "a, m, t, z": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "l": [
+          251,
+          151,
+          266,
+          166
+        ],
+        "g": [
+          407,
+          152,
+          427,
+          167
+        ],
+        "b": [
+          333,
+          291,
+          351,
+          306
+        ],
+        "m": [
+          183,
+          341,
+          206,
+          356
+        ],
+        "z": [
+          95,
+          333,
+          113,
+          348
+        ],
+        "a": [
+          113,
+          238,
+          131,
+          253
+        ],
+        "t": [
+          179,
+          234,
+          195,
+          249
+        ]
+      },
+      "equilateral triangle": {
+        "b, g, l": [
+          261,
+          170,
+          398,
+          288
+        ]
+      },
+      "equilateral quadrilateral": {
+        "a, m, t, z": [
+          113,
+          254,
+          172,
+          341
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_24": {
+    "image_path": "images/final_gaussian_construction_sample_24.png",
+    "attribute": {
+      "q, u, x": "right triangle",
+      "a, f, j, p": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          258,
+          209,
+          277,
+          230
+        ],
+        "x": [
+          413,
+          264,
+          431,
+          285
+        ],
+        "q": [
+          205,
+          380,
+          226,
+          401
+        ],
+        "j": [
+          85,
+          251,
+          92,
+          272
+        ],
+        "f": [
+          193,
+          104,
+          208,
+          125
+        ],
+        "a": [
+          371,
+          229,
+          389,
+          250
+        ],
+        "p": [
+          282,
+          374,
+          298,
+          395
+        ]
+      },
+      "right triangle": {
+        "q, u, x": [
+          227,
+          242,
+          398,
+          373
+        ]
+      },
+      "rectangle": {
+        "a, f, j, p": [
+          113,
+          138,
+          358,
+          370
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_28": {
+    "image_path": "images/final_gaussian_construction_sample_28.png",
+    "attribute": {
+      "e, g, i, p": "quadrangle",
+      "c, e, g, i": "circle"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          100,
+          126,
+          116,
+          146
+        ],
+        "g": [
+          226,
+          124,
+          246,
+          144
+        ],
+        "e": [
+          392,
+          171,
+          408,
+          191
+        ],
+        "i": [
+          151,
+          294,
+          158,
+          314
+        ],
+        "c": [
+          386,
+          328,
+          404,
+          348
+        ]
+      },
+      "quadrangle": {
+        "e, g, i, p": [
+          113,
+          152,
+          380,
+          293
+        ]
+      },
+      "circle": {
+        "c, e, g, i": [
+          171,
+          143,
+          397,
+          369
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_84": {
+    "image_path": "images/final_gaussian_construction_sample_84.png",
+    "attribute": {
+      "i, j, o, w": "circle",
+      "k, z": "segment"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          394,
+          181,
+          401,
+          206
+        ],
+        "j": [
+          309,
+          388,
+          316,
+          413
+        ],
+        "w": [
+          151,
+          114,
+          177,
+          139
+        ],
+        "o": [
+          253,
+          233,
+          274,
+          258
+        ],
+        "z": [
+          414,
+          108,
+          432,
+          133
+        ],
+        "k": [
+          181,
+          198,
+          198,
+          223
+        ]
+      },
+      "circle": {
+        "i, j, o, w": [
+          114,
+          120,
+          386,
+          392
+        ]
+      },
+      "segment": {
+        "k, z": [
+          213,
+          133,
+          398,
+          198
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_185": {
+    "image_path": "images/final_gaussian_construction_sample_185.png",
+    "attribute": {
+      "q, r, w, z": "equilateral quadrilateral",
+      "c, m, t, v, x": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "r": [
+          139,
+          157,
+          157,
+          171
+        ],
+        "w": [
+          96,
+          247,
+          122,
+          261
+        ],
+        "q": [
+          218,
+          271,
+          239,
+          285
+        ],
+        "z": [
+          231,
+          202,
+          249,
+          216
+        ],
+        "v": [
+          409,
+          310,
+          427,
+          324
+        ],
+        "x": [
+          390,
+          194,
+          408,
+          208
+        ],
+        "t": [
+          278,
+          179,
+          294,
+          193
+        ],
+        "c": [
+          224,
+          280,
+          242,
+          294
+        ],
+        "m": [
+          255,
+          338,
+          278,
+          352
+        ]
+      },
+      "equilateral quadrilateral": {
+        "q, r, w, z": [
+          113,
+          179,
+          222,
+          270
+        ]
+      },
+      "pentagon": {
+        "c, m, t, v, x": [
+          243,
+          200,
+          398,
+          332
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_43": {
+    "image_path": "images/final_gaussian_construction_sample_43.png",
+    "attribute": {
+      "e, l, t": "isosceles triangle",
+      "n, u": "segment"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          120,
+          100,
+          136,
+          122
+        ],
+        "t": [
+          318,
+          298,
+          334,
+          320
+        ],
+        "l": [
+          91,
+          385,
+          105,
+          407
+        ],
+        "u": [
+          420,
+          259,
+          439,
+          281
+        ],
+        "n": [
+          265,
+          247,
+          285,
+          269
+        ]
+      },
+      "isosceles triangle": {
+        "e, l, t": [
+          113,
+          134,
+          297,
+          377
+        ]
+      },
+      "segment": {
+        "n, u": [
+          283,
+          265,
+          398,
+          271
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_167": {
+    "image_path": "images/final_gaussian_construction_sample_167.png",
+    "attribute": {
+      "b, d, i": "right triangle",
+      "f, r, t, x": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          153,
+          139,
+          171,
+          164
+        ],
+        "i": [
+          257,
+          283,
+          264,
+          308
+        ],
+        "d": [
+          242,
+          89,
+          262,
+          114
+        ],
+        "f": [
+          96,
+          229,
+          111,
+          254
+        ],
+        "r": [
+          210,
+          144,
+          228,
+          169
+        ],
+        "t": [
+          409,
+          81,
+          425,
+          106
+        ],
+        "x": [
+          239,
+          402,
+          257,
+          427
+        ]
+      },
+      "right triangle": {
+        "b, d, i": [
+          173,
+          125,
+          246,
+          280
+        ]
+      },
+      "quadrangle": {
+        "f, r, t, x": [
+          116,
+          113,
+          395,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_251": {
+    "image_path": "images/final_gaussian_construction_sample_251.png",
+    "attribute": {
+      "j, s, t, z": "circle",
+      "d, e, f, n, x": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "j": [
+          423,
+          243,
+          430,
+          268
+        ],
+        "t": [
+          317,
+          87,
+          333,
+          112
+        ],
+        "s": [
+          395,
+          157,
+          412,
+          182
+        ],
+        "z": [
+          90,
+          306,
+          108,
+          331
+        ],
+        "d": [
+          280,
+          315,
+          300,
+          340
+        ],
+        "x": [
+          228,
+          222,
+          246,
+          247
+        ],
+        "f": [
+          311,
+          161,
+          326,
+          186
+        ],
+        "e": [
+          369,
+          223,
+          385,
+          248
+        ],
+        "n": [
+          367,
+          269,
+          386,
+          294
+        ]
+      },
+      "circle": {
+        "j, s, t, z": [
+          114,
+          114,
+          398,
+          398
+        ]
+      },
+      "pentagon": {
+        "d, e, f, n, x": [
+          248,
+          200,
+          351,
+          301
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_156": {
+    "image_path": "images/final_gaussian_construction_sample_156.png",
+    "attribute": {
+      "h, i, t, u": "quadrangle",
+      "a, d, n, o, w": "pentagon",
+      "b, k, x, z": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          385,
+          101,
+          402,
+          126
+        ],
+        "t": [
+          403,
+          209,
+          417,
+          234
+        ],
+        "h": [
+          365,
+          399,
+          382,
+          424
+        ],
+        "i": [
+          191,
+          156,
+          197,
+          181
+        ],
+        "d": [
+          211,
+          76,
+          229,
+          101
+        ],
+        "w": [
+          115,
+          108,
+          138,
+          133
+        ],
+        "n": [
+          123,
+          324,
+          140,
+          349
+        ],
+        "o": [
+          265,
+          307,
+          283,
+          332
+        ],
+        "a": [
+          316,
+          151,
+          332,
+          176
+        ],
+        "k": [
+          169,
+          227,
+          184,
+          252
+        ],
+        "z": [
+          159,
+          364,
+          175,
+          389
+        ],
+        "b": [
+          281,
+          355,
+          297,
+          380
+        ],
+        "x": [
+          276,
+          231,
+          292,
+          256
+        ]
+      },
+      "quadrangle": {
+        "h, i, t, u": [
+          208,
+          135,
+          381,
+          398
+        ]
+      },
+      "pentagon": {
+        "a, d, n, o, w": [
+          130,
+          113,
+          302,
+          318
+        ]
+      },
+      "rectangle": {
+        "b, k, x, z": [
+          182,
+          260,
+          264,
+          360
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_155": {
+    "image_path": "images/final_gaussian_construction_sample_155.png",
+    "attribute": {
+      "d, i, l, s": "quadrangle",
+      "n, o, u, x": "square"
+    },
+    "bbox": {
+      "text": {
+        "l": [
+          325,
+          303,
+          331,
+          328
+        ],
+        "s": [
+          298,
+          212,
+          305,
+          237
+        ],
+        "d": [
+          218,
+          84,
+          226,
+          109
+        ],
+        "i": [
+          188,
+          390,
+          191,
+          415
+        ],
+        "u": [
+          289,
+          201,
+          297,
+          226
+        ],
+        "o": [
+          193,
+          196,
+          201,
+          221
+        ],
+        "x": [
+          184,
+          297,
+          191,
+          322
+        ],
+        "n": [
+          288,
+          297,
+          296,
+          322
+        ]
+      },
+      "quadrangle": {
+        "d, i, l, s": [
+          198,
+          113,
+          315,
+          398
+        ]
+      },
+      "square": {
+        "n, o, u, x": [
+          196,
+          223,
+          282,
+          309
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_200": {
+    "image_path": "images/final_gaussian_construction_sample_200.png",
+    "attribute": {
+      "n, u, z": "scalene triangle",
+      "h, q": "segment"
+    },
+    "bbox": {
+      "text": {
+        "z": [
+          230,
+          275,
+          248,
+          295
+        ],
+        "n": [
+          417,
+          257,
+          437,
+          277
+        ],
+        "u": [
+          139,
+          119,
+          158,
+          139
+        ],
+        "h": [
+          89,
+          369,
+          109,
+          389
+        ],
+        "q": [
+          244,
+          271,
+          265,
+          291
+        ]
+      },
+      "scalene triangle": {
+        "n, u, z": [
+          151,
+          145,
+          398,
+          266
+        ]
+      },
+      "segment": {
+        "h, q": [
+          113,
+          294,
+          232,
+          366
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_19": {
+    "image_path": "images/final_gaussian_construction_sample_19.png",
+    "attribute": {
+      "a, g, j, t": "quadrangle",
+      "v, x, z": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "j": [
+          159,
+          402,
+          166,
+          426
+        ],
+        "a": [
+          153,
+          215,
+          171,
+          239
+        ],
+        "g": [
+          281,
+          245,
+          301,
+          269
+        ],
+        "t": [
+          296,
+          360,
+          312,
+          384
+        ],
+        "v": [
+          180,
+          265,
+          198,
+          289
+        ],
+        "z": [
+          422,
+          243,
+          440,
+          267
+        ],
+        "x": [
+          99,
+          86,
+          117,
+          110
+        ]
+      },
+      "quadrangle": {
+        "a, g, j, t": [
+          166,
+          250,
+          275,
+          392
+        ]
+      },
+      "scalene triangle": {
+        "v, x, z": [
+          113,
+          119,
+          398,
+          253
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_183": {
+    "image_path": "images/final_gaussian_construction_sample_183.png",
+    "attribute": {
+      "a, g, p": "scalene triangle",
+      "k, m, u": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          287,
+          320,
+          307,
+          337
+        ],
+        "p": [
+          410,
+          232,
+          426,
+          249
+        ],
+        "a": [
+          101,
+          137,
+          119,
+          154
+        ],
+        "m": [
+          270,
+          173,
+          293,
+          190
+        ],
+        "k": [
+          333,
+          356,
+          350,
+          373
+        ],
+        "u": [
+          365,
+          147,
+          384,
+          164
+        ]
+      },
+      "scalene triangle": {
+        "a, g, p": [
+          113,
+          158,
+          398,
+          311
+        ]
+      },
+      "right triangle": {
+        "k, m, u": [
+          274,
+          170,
+          357,
+          353
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_133": {
+    "image_path": "images/final_gaussian_construction_sample_133.png",
+    "attribute": {
+      "b, j, u, x": "right trapezoid",
+      "a, k, l, p": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          273,
+          79,
+          285,
+          104
+        ],
+        "x": [
+          355,
+          139,
+          367,
+          164
+        ],
+        "j": [
+          363,
+          298,
+          368,
+          323
+        ],
+        "u": [
+          199,
+          170,
+          212,
+          195
+        ],
+        "p": [
+          210,
+          163,
+          221,
+          188
+        ],
+        "a": [
+          331,
+          235,
+          343,
+          260
+        ],
+        "k": [
+          330,
+          393,
+          342,
+          418
+        ],
+        "l": [
+          134,
+          270,
+          144,
+          295
+        ]
+      },
+      "right trapezoid": {
+        "b, j, u, x": [
+          212,
+          113,
+          353,
+          303
+        ],
+        "a, k, l, p": [
+          212,
+          113,
+          353,
+          303
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_134": {
+    "image_path": "images/final_gaussian_construction_sample_134.png",
+    "attribute": {
+      "a, d, r, x": "quadrangle",
+      "g, l, o, v": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "x": [
+          163,
+          320,
+          176,
+          345
+        ],
+        "a": [
+          140,
+          217,
+          153,
+          242
+        ],
+        "d": [
+          286,
+          135,
+          300,
+          160
+        ],
+        "r": [
+          311,
+          308,
+          324,
+          333
+        ],
+        "l": [
+          338,
+          83,
+          348,
+          108
+        ],
+        "g": [
+          372,
+          374,
+          386,
+          399
+        ],
+        "v": [
+          186,
+          398,
+          199,
+          423
+        ],
+        "o": [
+          166,
+          99,
+          181,
+          124
+        ]
+      },
+      "quadrangle": {
+        "a, d, r, x": [
+          154,
+          168,
+          296,
+          318
+        ]
+      },
+      "rectangle": {
+        "g, l, o, v": [
+          177,
+          113,
+          357,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_196": {
+    "image_path": "images/final_gaussian_construction_sample_196.png",
+    "attribute": {
+      "a, n, p": "circle",
+      "j, z": "segment"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          303,
+          346,
+          319,
+          371
+        ],
+        "a": [
+          258,
+          232,
+          276,
+          257
+        ],
+        "n": [
+          242,
+          73,
+          261,
+          98
+        ],
+        "j": [
+          391,
+          372,
+          398,
+          397
+        ],
+        "z": [
+          288,
+          403,
+          306,
+          428
+        ]
+      },
+      "circle": {
+        "a, n, p": [
+          114,
+          113,
+          398,
+          397
+        ]
+      },
+      "segment": {
+        "j, z": [
+          282,
+          392,
+          372,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_89": {
+    "image_path": "images/final_gaussian_construction_sample_89.png",
+    "attribute": {
+      "b, j, u": "scalene triangle",
+      "b, j, s, u": "circle",
+      "f, l, n": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          337,
+          268,
+          352,
+          293
+        ],
+        "u": [
+          303,
+          373,
+          320,
+          398
+        ],
+        "j": [
+          118,
+          259,
+          124,
+          284
+        ],
+        "s": [
+          146,
+          381,
+          160,
+          406
+        ],
+        "n": [
+          397,
+          219,
+          414,
+          244
+        ],
+        "l": [
+          239,
+          247,
+          251,
+          272
+        ],
+        "f": [
+          359,
+          77,
+          372,
+          102
+        ]
+      },
+      "scalene triangle": {
+        "b, j, u": [
+          135,
+          283,
+          321,
+          376
+        ]
+      },
+      "circle": {
+        "b, j, s, u": [
+          134,
+          209,
+          322,
+          397
+        ]
+      },
+      "right triangle": {
+        "f, l, n": [
+          266,
+          113,
+          378,
+          246
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_88": {
+    "image_path": "images/final_gaussian_construction_sample_88.png",
+    "attribute": {
+      "h, l, n, z": "equilateral quadrilateral",
+      "a, g, o, u, v": "pentagon",
+      "k, q, r, w": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "n": [
+          282,
+          164,
+          298,
+          189
+        ],
+        "z": [
+          196,
+          261,
+          211,
+          286
+        ],
+        "h": [
+          114,
+          295,
+          130,
+          320
+        ],
+        "l": [
+          179,
+          93,
+          191,
+          118
+        ],
+        "u": [
+          306,
+          76,
+          322,
+          101
+        ],
+        "o": [
+          386,
+          159,
+          403,
+          184
+        ],
+        "a": [
+          371,
+          283,
+          386,
+          308
+        ],
+        "g": [
+          261,
+          330,
+          278,
+          355
+        ],
+        "v": [
+          137,
+          270,
+          152,
+          295
+        ],
+        "w": [
+          154,
+          319,
+          175,
+          344
+        ],
+        "k": [
+          186,
+          405,
+          200,
+          430
+        ],
+        "r": [
+          279,
+          276,
+          294,
+          301
+        ],
+        "q": [
+          199,
+          263,
+          216,
+          288
+        ]
+      },
+      "equilateral quadrilateral": {
+        "h, l, n, z": [
+          139,
+          129,
+          267,
+          297
+        ],
+        "k, q, r, w": [
+          139,
+          129,
+          267,
+          297
+        ]
+      },
+      "pentagon": {
+        "a, g, o, u, v": [
+          165,
+          113,
+          372,
+          333
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_188": {
+    "image_path": "images/final_gaussian_construction_sample_188.png",
+    "attribute": {
+      "g, i, n, s": "right trapezoid",
+      "p, q, t": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          351,
+          394,
+          367,
+          419
+        ],
+        "n": [
+          380,
+          249,
+          395,
+          274
+        ],
+        "s": [
+          269,
+          79,
+          282,
+          104
+        ],
+        "i": [
+          185,
+          368,
+          191,
+          393
+        ],
+        "q": [
+          119,
+          219,
+          135,
+          244
+        ],
+        "t": [
+          244,
+          81,
+          256,
+          106
+        ],
+        "p": [
+          252,
+          317,
+          264,
+          342
+        ]
+      },
+      "right trapezoid": {
+        "g, i, n, s": [
+          209,
+          113,
+          366,
+          398
+        ]
+      },
+      "right triangle": {
+        "p, q, t": [
+          145,
+          116,
+          250,
+          319
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_93": {
+    "image_path": "images/final_gaussian_construction_sample_93.png",
+    "attribute": {
+      "d, e, o, z": "quadrangle",
+      "q, s, u, y": "square"
+    },
+    "bbox": {
+      "text": {
+        "o": [
+          187,
+          162,
+          208,
+          187
+        ],
+        "z": [
+          292,
+          258,
+          310,
+          283
+        ],
+        "e": [
+          412,
+          400,
+          428,
+          425
+        ],
+        "d": [
+          361,
+          76,
+          381,
+          101
+        ],
+        "u": [
+          311,
+          164,
+          330,
+          189
+        ],
+        "y": [
+          147,
+          111,
+          163,
+          136
+        ],
+        "s": [
+          82,
+          291,
+          99,
+          316
+        ],
+        "q": [
+          267,
+          333,
+          288,
+          358
+        ]
+      },
+      "quadrangle": {
+        "d, e, o, z": [
+          206,
+          113,
+          397,
+          398
+        ]
+      },
+      "square": {
+        "q, s, u, y": [
+          114,
+          150,
+          295,
+          331
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_129": {
+    "image_path": "images/final_gaussian_construction_sample_129.png",
+    "attribute": {
+      "a, e, h, j": "circle",
+      "a, j, m": "circle"
+    },
+    "bbox": {
+      "text": {
+        "h": [
+          215,
+          213,
+          235,
+          233
+        ],
+        "j": [
+          311,
+          346,
+          318,
+          366
+        ],
+        "a": [
+          211,
+          238,
+          229,
+          258
+        ],
+        "e": [
+          411,
+          284,
+          427,
+          304
+        ],
+        "m": [
+          99,
+          306,
+          122,
+          326
+        ]
+      },
+      "circle": {
+        "a, e, h, j": [
+          114,
+          142,
+          342,
+          370
+        ],
+        "a, j, m": [
+          114,
+          142,
+          342,
+          370
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_18": {
+    "image_path": "images/final_gaussian_construction_sample_18.png",
+    "attribute": {
+      "l, s, y, z": "isosceles trapezoid",
+      "c, e, g, v": "isosceles trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "y": [
+          408,
+          164,
+          424,
+          185
+        ],
+        "z": [
+          406,
+          294,
+          424,
+          315
+        ],
+        "s": [
+          237,
+          272,
+          254,
+          293
+        ],
+        "l": [
+          240,
+          193,
+          254,
+          214
+        ],
+        "v": [
+          349,
+          376,
+          367,
+          397
+        ],
+        "g": [
+          415,
+          240,
+          435,
+          261
+        ],
+        "c": [
+          177,
+          104,
+          195,
+          125
+        ],
+        "e": [
+          86,
+          289,
+          102,
+          310
+        ]
+      },
+      "isosceles trapezoid": {
+        "l, s, y, z": [
+          262,
+          191,
+          398,
+          295
+        ],
+        "c, e, g, v": [
+          262,
+          191,
+          398,
+          295
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_158": {
+    "image_path": "images/final_gaussian_construction_sample_158.png",
+    "attribute": {
+      "d, h, i, o, u": "pentagon",
+      "d, i, p": "circle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          113,
+          157,
+          133,
+          182
+        ],
+        "u": [
+          164,
+          289,
+          183,
+          314
+        ],
+        "i": [
+          275,
+          254,
+          282,
+          279
+        ],
+        "h": [
+          291,
+          165,
+          311,
+          190
+        ],
+        "o": [
+          164,
+          99,
+          185,
+          124
+        ],
+        "p": [
+          399,
+          165,
+          415,
+          190
+        ]
+      },
+      "pentagon": {
+        "d, h, i, o, u": [
+          131,
+          137,
+          274,
+          277
+        ]
+      },
+      "circle": {
+        "d, i, p": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  },
+  "sample_204": {
+    "image_path": "images/final_gaussian_construction_sample_204.png",
+    "attribute": {
+      "t, v, w": "right triangle",
+      "d, v, w": "circle",
+      "l, m, r": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "t": [
+          278,
+          149,
+          294,
+          174
+        ],
+        "v": [
+          415,
+          219,
+          433,
+          244
+        ],
+        "w": [
+          225,
+          260,
+          251,
+          285
+        ],
+        "d": [
+          123,
+          141,
+          143,
+          166
+        ],
+        "r": [
+          286,
+          149,
+          304,
+          174
+        ],
+        "l": [
+          352,
+          282,
+          367,
+          307
+        ],
+        "m": [
+          413,
+          154,
+          436,
+          179
+        ]
+      },
+      "right triangle": {
+        "t, v, w": [
+          256,
+          188,
+          397,
+          256
+        ]
+      },
+      "circle": {
+        "d, v, w": [
+          114,
+          114,
+          398,
+          398
+        ]
+      },
+      "isosceles triangle": {
+        "l, m, r": [
+          295,
+          183,
+          397,
+          277
+        ]
+      }
+    },
+    "aux": "",
+    "level": "hard"
+  }
+}

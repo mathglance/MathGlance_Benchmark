@@ -1,0 +1,4372 @@
+{
+  "sample_13": {
+    "image_path": "images/final_construction_sample_13.png",
+    "attribute": {
+      "s, x, z": "isosceles triangle",
+      "s, u, x, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "z": [
+          79,
+          256,
+          97,
+          281
+        ],
+        "s": [
+          374,
+          127,
+          391,
+          152
+        ],
+        "x": [
+          391,
+          338,
+          409,
+          363
+        ],
+        "u": [
+          258,
+          232,
+          277,
+          257
+        ]
+      },
+      "isosceles triangle": {
+        "s, x, z": [
+          113,
+          160,
+          369,
+          341
+        ]
+      },
+      "circle": {
+        "s, u, x, z": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines su and uz to form ∠suz, Draw lines zu and ux to form ∠zux, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_15": {
+    "image_path": "images/final_construction_sample_15.png",
+    "attribute": {
+      "d, z": "segment",
+      "a, f, k, q, x": "pentagon",
+      "d, p, x, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "z": [
+          246,
+          301,
+          264,
+          323
+        ],
+        "d": [
+          211,
+          188,
+          231,
+          210
+        ],
+        "x": [
+          84,
+          275,
+          102,
+          297
+        ],
+        "k": [
+          123,
+          165,
+          140,
+          187
+        ],
+        "f": [
+          253,
+          96,
+          268,
+          118
+        ],
+        "q": [
+          414,
+          252,
+          435,
+          274
+        ],
+        "a": [
+          359,
+          383,
+          377,
+          405
+        ],
+        "p": [
+          177,
+          255,
+          193,
+          277
+        ]
+      },
+      "segment": {
+        "d, z": [
+          204,
+          221,
+          224,
+          314
+        ]
+      },
+      "pentagon": {
+        "a, f, k, q, x": [
+          113,
+          131,
+          398,
+          380
+        ]
+      },
+      "circle": {
+        "d, p, x, z": [
+          114,
+          214,
+          236,
+          336
+        ]
+      }
+    },
+    "aux": "Draw lines dx and xp to form ∠dxp, Draw lines pd and dx to form ∠pdx, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_21": {
+    "image_path": "images/final_construction_sample_21.png",
+    "attribute": {
+      "e, n, o, p, t": "pentagon",
+      "i, n, o, p": "circle"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          422,
+          259,
+          438,
+          284
+        ],
+        "t": [
+          271,
+          402,
+          287,
+          427
+        ],
+        "o": [
+          140,
+          376,
+          161,
+          401
+        ],
+        "e": [
+          113,
+          156,
+          129,
+          181
+        ],
+        "n": [
+          229,
+          74,
+          249,
+          99
+        ],
+        "i": [
+          258,
+          232,
+          265,
+          257
+        ]
+      },
+      "pentagon": {
+        "e, n, o, p, t": [
+          131,
+          115,
+          397,
+          397
+        ]
+      },
+      "circle": {
+        "i, n, o, p": [
+          114,
+          113,
+          398,
+          397
+        ]
+      }
+    },
+    "aux": "Draw lines io and op to form ∠iop, Draw lines op and pi to form ∠opi, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_29": {
+    "image_path": "images/final_construction_sample_29.png",
+    "attribute": {
+      "o, v, z": "right triangle",
+      "f, g, q, w, x": "pentagon",
+      "g, m, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "z": [
+          219,
+          225,
+          237,
+          242
+        ],
+        "o": [
+          148,
+          246,
+          169,
+          263
+        ],
+        "v": [
+          247,
+          304,
+          265,
+          321
+        ],
+        "x": [
+          119,
+          176,
+          137,
+          193
+        ],
+        "f": [
+          90,
+          260,
+          105,
+          277
+        ],
+        "q": [
+          140,
+          339,
+          161,
+          356
+        ],
+        "g": [
+          319,
+          246,
+          339,
+          263
+        ],
+        "w": [
+          181,
+          135,
+          207,
+          152
+        ],
+        "m": [
+          361,
+          340,
+          384,
+          357
+        ]
+      },
+      "right triangle": {
+        "o, v, z": [
+          161,
+          239,
+          236,
+          302
+        ]
+      },
+      "pentagon": {
+        "f, g, q, w, x": [
+          113,
+          162,
+          301,
+          330
+        ]
+      },
+      "circle": {
+        "g, m, z": [
+          205,
+          160,
+          397,
+          352
+        ]
+      }
+    },
+    "aux": "Draw lines gm and mz to form ∠gmz, Draw lines mz and zg to form ∠mzg, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_44": {
+    "image_path": "images/final_construction_sample_44.png",
+    "attribute": {
+      "d, g, i": "equilateral triangle",
+      "a, d, g, i": "circle"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          115,
+          153,
+          135,
+          178
+        ],
+        "i": [
+          394,
+          155,
+          401,
+          180
+        ],
+        "d": [
+          261,
+          403,
+          281,
+          428
+        ],
+        "a": [
+          258,
+          232,
+          276,
+          257
+        ],
+        "c": [
+          402,
+          321,
+          420,
+          346
+        ]
+      },
+      "equilateral triangle": {
+        "d, g, i": [
+          132,
+          184,
+          379,
+          398
+        ]
+      },
+      "circle": {
+        "a, d, g, i": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "Draw parallel lines cd and ai, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_45": {
+    "image_path": "images/final_construction_sample_45.png",
+    "attribute": {
+      "i, q, s, t": "rectangle",
+      "h, i, q": "circle"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          274,
+          234,
+          295,
+          259
+        ],
+        "t": [
+          171,
+          149,
+          187,
+          174
+        ],
+        "i": [
+          94,
+          213,
+          101,
+          238
+        ],
+        "s": [
+          220,
+          316,
+          237,
+          341
+        ],
+        "h": [
+          400,
+          166,
+          420,
+          191
+        ]
+      },
+      "rectangle": {
+        "i, q, s, t": [
+          114,
+          181,
+          255,
+          312
+        ]
+      },
+      "circle": {
+        "h, i, q": [
+          113,
+          114,
+          397,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines ih and hq to form ∠ihq, Draw lines qi and ih to form ∠qih, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_54": {
+    "image_path": "images/final_construction_sample_54.png",
+    "attribute": {
+      "e, j, u, v, z": "pentagon",
+      "e, j, q, u": "circle"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          160,
+          103,
+          179,
+          128
+        ],
+        "z": [
+          122,
+          359,
+          140,
+          384
+        ],
+        "v": [
+          361,
+          368,
+          379,
+          393
+        ],
+        "j": [
+          413,
+          207,
+          420,
+          232
+        ],
+        "e": [
+          375,
+          128,
+          391,
+          153
+        ],
+        "q": [
+          258,
+          232,
+          279,
+          257
+        ]
+      },
+      "pentagon": {
+        "e, j, u, v, z": [
+          151,
+          141,
+          395,
+          367
+        ]
+      },
+      "circle": {
+        "e, j, q, u": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines qj and ju to form ∠qju, Draw lines ju and uq to form ∠juq, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_58": {
+    "image_path": "images/final_construction_sample_58.png",
+    "attribute": {
+      "n, q, u, w": "quadrangle",
+      "n, q, x": "circle"
+    },
+    "bbox": {
+      "text": {
+        "w": [
+          157,
+          239,
+          183,
+          264
+        ],
+        "q": [
+          267,
+          259,
+          288,
+          284
+        ],
+        "u": [
+          333,
+          152,
+          352,
+          177
+        ],
+        "n": [
+          173,
+          95,
+          193,
+          120
+        ],
+        "x": [
+          227,
+          410,
+          245,
+          435
+        ]
+      },
+      "quadrangle": {
+        "n, q, u, w": [
+          183,
+          133,
+          315,
+          256
+        ]
+      },
+      "circle": {
+        "n, q, x": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines nx and xq to form ∠nxq, Draw lines qn and nx to form ∠qnx, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_148": {
+    "image_path": "images/final_construction_sample_148.png",
+    "attribute": {
+      "a, b, f, t": "quadrangle",
+      "a, b, t, x": "circle"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          330,
+          387,
+          348,
+          412
+        ],
+        "a": [
+          415,
+          214,
+          433,
+          239
+        ],
+        "t": [
+          351,
+          106,
+          367,
+          131
+        ],
+        "f": [
+          202,
+          364,
+          217,
+          389
+        ],
+        "x": [
+          258,
+          232,
+          276,
+          257
+        ]
+      },
+      "quadrangle": {
+        "a, b, f, t": [
+          234,
+          142,
+          396,
+          384
+        ]
+      },
+      "circle": {
+        "a, b, t, x": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines xb and bt to form ∠xbt, Draw lines bt and tx to form ∠btx, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_173": {
+    "image_path": "images/final_construction_sample_173.png",
+    "attribute": {
+      "i, k, l, v": "square"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          420,
+          340,
+          438,
+          365
+        ],
+        "l": [
+          142,
+          408,
+          157,
+          433
+        ],
+        "i": [
+          96,
+          135,
+          103,
+          160
+        ],
+        "k": [
+          353,
+          77,
+          370,
+          102
+        ],
+        "b": [
+          277,
+          135,
+          295,
+          160
+        ],
+        "f": [
+          200,
+          153,
+          215,
+          178
+        ]
+      },
+      "square": {
+        "i, k, l, v": [
+          113,
+          113,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "Draw circle through points v,k,l,i, and plot it in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_189": {
+    "image_path": "images/final_construction_sample_189.png",
+    "attribute": {
+      "b, f, p, v": "isosceles trapezoid",
+      "e, g, x, y": "right trapezoid",
+      "f, p, x, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          162,
+          193,
+          180,
+          215
+        ],
+        "p": [
+          242,
+          149,
+          258,
+          171
+        ],
+        "v": [
+          354,
+          271,
+          372,
+          293
+        ],
+        "f": [
+          192,
+          352,
+          207,
+          374
+        ],
+        "g": [
+          95,
+          178,
+          115,
+          200
+        ],
+        "x": [
+          161,
+          290,
+          179,
+          312
+        ],
+        "e": [
+          294,
+          279,
+          310,
+          301
+        ],
+        "y": [
+          192,
+          97,
+          208,
+          119
+        ],
+        "z": [
+          322,
+          381,
+          340,
+          403
+        ]
+      },
+      "isosceles trapezoid": {
+        "b, f, p, v": [
+          179,
+          183,
+          332,
+          346
+        ]
+      },
+      "right trapezoid": {
+        "e, g, x, y": [
+          113,
+          131,
+          307,
+          288
+        ]
+      },
+      "circle": {
+        "f, p, x, z": [
+          189,
+          171,
+          397,
+          379
+        ]
+      }
+    },
+    "aux": "Draw lines zp and px to form ∠zpx, Draw lines zf and fx to form ∠zfx, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_190": {
+    "image_path": "images/final_construction_sample_190.png",
+    "attribute": {
+      "l, n, x": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "x": [
+          98,
+          105,
+          116,
+          127
+        ],
+        "n": [
+          411,
+          107,
+          431,
+          129
+        ],
+        "l": [
+          260,
+          383,
+          275,
+          405
+        ],
+        "r": [
+          213,
+          137,
+          231,
+          159
+        ],
+        "a": [
+          307,
+          137,
+          325,
+          159
+        ]
+      },
+      "equilateral triangle": {
+        "l, n, x": [
+          113,
+          132,
+          398,
+          379
+        ]
+      }
+    },
+    "aux": "Draw congruent segments al and rl, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_232": {
+    "image_path": "images/final_construction_sample_232.png",
+    "attribute": {
+      "e, j, o, r": "right trapezoid",
+      "m, w": "segment",
+      "e, q, r, w": "circle"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          172,
+          190,
+          188,
+          210
+        ],
+        "j": [
+          251,
+          110,
+          258,
+          130
+        ],
+        "o": [
+          412,
+          140,
+          433,
+          160
+        ],
+        "r": [
+          280,
+          295,
+          298,
+          315
+        ],
+        "m": [
+          269,
+          328,
+          292,
+          348
+        ],
+        "w": [
+          121,
+          360,
+          147,
+          380
+        ],
+        "q": [
+          190,
+          276,
+          211,
+          296
+        ]
+      },
+      "right trapezoid": {
+        "e, j, o, r": [
+          180,
+          142,
+          398,
+          300
+        ]
+      },
+      "segment": {
+        "m, w": [
+          142,
+          332,
+          251,
+          353
+        ]
+      },
+      "circle": {
+        "e, q, r, w": [
+          114,
+          221,
+          262,
+          369
+        ]
+      }
+    },
+    "aux": "Draw lines qe and ew to form ∠qew, Draw lines ew and wq to form ∠ewq, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_248": {
+    "image_path": "images/final_construction_sample_248.png",
+    "attribute": {
+      "d, g, m, q, s": "pentagon",
+      "f, h, o, u": "quadrangle",
+      "h, s, x": "circle"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          363,
+          355,
+          378,
+          380
+        ],
+        "g": [
+          195,
+          400,
+          210,
+          425
+        ],
+        "d": [
+          175,
+          224,
+          190,
+          249
+        ],
+        "s": [
+          255,
+          182,
+          267,
+          207
+        ],
+        "m": [
+          340,
+          215,
+          356,
+          240
+        ],
+        "o": [
+          255,
+          341,
+          270,
+          366
+        ],
+        "f": [
+          169,
+          366,
+          180,
+          391
+        ],
+        "u": [
+          139,
+          306,
+          153,
+          331
+        ],
+        "h": [
+          170,
+          273,
+          184,
+          298
+        ],
+        "x": [
+          201,
+          91,
+          214,
+          116
+        ]
+      },
+      "pentagon": {
+        "d, g, m, q, s": [
+          189,
+          217,
+          347,
+          398
+        ]
+      },
+      "quadrangle": {
+        "f, h, o, u": [
+          153,
+          294,
+          237,
+          362
+        ]
+      },
+      "circle": {
+        "h, s, x": [
+          152,
+          113,
+          360,
+          321
+        ]
+      }
+    },
+    "aux": "Draw lines xh and hs to form ∠xhs, Draw lines sx and xh to form ∠sxh, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_250": {
+    "image_path": "images/final_construction_sample_250.png",
+    "attribute": {
+      "f, m, n": "scalene triangle",
+      "f, m, n, y": "circle",
+      "h, m, n, y": "circle"
+    },
+    "bbox": {
+      "text": {
+        "n": [
+          225,
+          366,
+          245,
+          386
+        ],
+        "f": [
+          347,
+          358,
+          362,
+          378
+        ],
+        "m": [
+          189,
+          158,
+          212,
+          178
+        ],
+        "y": [
+          300,
+          237,
+          316,
+          257
+        ],
+        "h": [
+          174,
+          274,
+          194,
+          294
+        ]
+      },
+      "scalene triangle": {
+        "f, m, n": [
+          197,
+          188,
+          336,
+          356
+        ]
+      },
+      "circle": {
+        "f, m, n, y": [
+          114,
+          188,
+          288,
+          362
+        ],
+        "h, m, n, y": [
+          114,
+          188,
+          288,
+          362
+        ]
+      }
+    },
+    "aux": "Draw lines my and yn to form ∠myn, Draw lines yh and hn to form ∠yhn, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_253": {
+    "image_path": "images/final_construction_sample_253.png",
+    "attribute": {
+      "i, r, s, y": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          377,
+          357,
+          382,
+          382
+        ],
+        "y": [
+          336,
+          175,
+          348,
+          200
+        ],
+        "s": [
+          141,
+          80,
+          153,
+          105
+        ],
+        "r": [
+          194,
+          400,
+          207,
+          425
+        ],
+        "g": [
+          256,
+          272,
+          271,
+          297
+        ],
+        "c": [
+          282,
+          339,
+          295,
+          364
+        ]
+      },
+      "right trapezoid": {
+        "i, r, s, y": [
+          150,
+          113,
+          361,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines gi and ic to form ∠gic, Draw lines cg and gi to form ∠cgi, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_254": {
+    "image_path": "images/final_construction_sample_254.png",
+    "attribute": {
+      "d, g, w": "scalene triangle",
+      "e, f, k, t": "trapezoid",
+      "e, f, h, w": "circle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          405,
+          355,
+          425,
+          380
+        ],
+        "w": [
+          289,
+          400,
+          315,
+          425
+        ],
+        "g": [
+          217,
+          185,
+          237,
+          210
+        ],
+        "f": [
+          392,
+          151,
+          407,
+          176
+        ],
+        "e": [
+          406,
+          313,
+          422,
+          338
+        ],
+        "t": [
+          291,
+          239,
+          307,
+          264
+        ],
+        "k": [
+          286,
+          141,
+          303,
+          166
+        ],
+        "h": [
+          267,
+          222,
+          287,
+          247
+        ]
+      },
+      "scalene triangle": {
+        "d, g, w": [
+          228,
+          223,
+          380,
+          396
+        ]
+      },
+      "trapezoid": {
+        "e, f, k, t": [
+          320,
+          143,
+          382,
+          320
+        ]
+      },
+      "circle": {
+        "e, f, h, w": [
+          114,
+          113,
+          398,
+          397
+        ]
+      }
+    },
+    "aux": "Draw lines hf and fw to form ∠hfw, Draw lines fw and wh to form ∠fwh, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_258": {
+    "image_path": "images/final_construction_sample_258.png",
+    "attribute": {
+      "j, m, w, x": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "x": [
+          98,
+          100,
+          116,
+          125
+        ],
+        "w": [
+          104,
+          403,
+          130,
+          428
+        ],
+        "m": [
+          418,
+          375,
+          441,
+          400
+        ],
+        "j": [
+          392,
+          83,
+          399,
+          108
+        ],
+        "n": [
+          93,
+          328,
+          113,
+          353
+        ]
+      },
+      "rectangle": {
+        "j, m, w, x": [
+          113,
+          116,
+          398,
+          395
+        ]
+      }
+    },
+    "aux": "Draw circle through points j,w,x,m, and plot it in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_260": {
+    "image_path": "images/final_construction_sample_260.png",
+    "attribute": {
+      "f, m, p, v": "quadrangle",
+      "f, m, p, w": "circle"
+    },
+    "bbox": {
+      "text": {
+        "f": [
+          182,
+          84,
+          197,
+          109
+        ],
+        "v": [
+          386,
+          229,
+          403,
+          254
+        ],
+        "m": [
+          320,
+          337,
+          342,
+          362
+        ],
+        "p": [
+          99,
+          292,
+          114,
+          317
+        ],
+        "w": [
+          202,
+          367,
+          228,
+          392
+        ],
+        "c": [
+          397,
+          374,
+          415,
+          399
+        ]
+      },
+      "quadrangle": {
+        "f, m, p, v": [
+          130,
+          123,
+          361,
+          336
+        ]
+      },
+      "circle": {
+        "f, m, p, w": [
+          117,
+          114,
+          359,
+          356
+        ]
+      }
+    },
+    "aux": "Draw lines wc and cv to form ∠wcv, Draw lines cv and vw to form ∠cvw, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_272": {
+    "image_path": "images/final_construction_sample_272.png",
+    "attribute": {
+      "i, o, w": "scalene triangle",
+      "d, k, t": "isosceles triangle",
+      "i, n, o, t": "circle"
+    },
+    "bbox": {
+      "text": {
+        "o": [
+          210,
+          289,
+          222,
+          314
+        ],
+        "i": [
+          348,
+          291,
+          352,
+          316
+        ],
+        "w": [
+          286,
+          81,
+          302,
+          106
+        ],
+        "d": [
+          286,
+          144,
+          298,
+          169
+        ],
+        "t": [
+          277,
+          269,
+          287,
+          294
+        ],
+        "k": [
+          158,
+          176,
+          168,
+          201
+        ],
+        "n": [
+          327,
+          378,
+          339,
+          403
+        ]
+      },
+      "scalene triangle": {
+        "i, o, w": [
+          221,
+          113,
+          337,
+          314
+        ]
+      },
+      "isosceles triangle": {
+        "d, k, t": [
+          170,
+          163,
+          275,
+          274
+        ]
+      },
+      "circle": {
+        "i, n, o, t": [
+          218,
+          275,
+          340,
+          397
+        ]
+      }
+    },
+    "aux": "Draw lines no and ot to form ∠not, Draw lines ni and it to form ∠nit, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_349": {
+    "image_path": "images/final_construction_sample_349.png",
+    "attribute": {
+      "k, o, p, w": "isosceles trapezoid",
+      "d, j, l, n": "square"
+    },
+    "bbox": {
+      "text": {
+        "k": [
+          368,
+          122,
+          381,
+          147
+        ],
+        "p": [
+          279,
+          77,
+          291,
+          102
+        ],
+        "o": [
+          168,
+          204,
+          184,
+          229
+        ],
+        "w": [
+          346,
+          275,
+          366,
+          300
+        ],
+        "l": [
+          133,
+          276,
+          144,
+          301
+        ],
+        "j": [
+          136,
+          400,
+          141,
+          425
+        ],
+        "d": [
+          263,
+          380,
+          278,
+          405
+        ],
+        "n": [
+          245,
+          265,
+          260,
+          290
+        ],
+        "r": [
+          367,
+          312,
+          381,
+          337
+        ]
+      },
+      "isosceles trapezoid": {
+        "k, o, p, w": [
+          194,
+          113,
+          356,
+          278
+        ]
+      },
+      "square": {
+        "d, j, l, n": [
+          146,
+          296,
+          247,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines lp and pd to form ∠lpd, Draw lines dp and pr to form ∠dpr, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_352": {
+    "image_path": "images/final_construction_sample_352.png",
+    "attribute": {
+      "q, r, z": "scalene triangle",
+      "k, p, u": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          96,
+          259,
+          117,
+          280
+        ],
+        "z": [
+          186,
+          377,
+          204,
+          398
+        ],
+        "r": [
+          306,
+          109,
+          324,
+          130
+        ],
+        "p": [
+          223,
+          273,
+          239,
+          294
+        ],
+        "k": [
+          339,
+          271,
+          356,
+          292
+        ],
+        "u": [
+          322,
+          192,
+          341,
+          213
+        ],
+        "d": [
+          400,
+          220,
+          420,
+          241
+        ]
+      },
+      "scalene triangle": {
+        "q, r, z": [
+          113,
+          137,
+          297,
+          374
+        ],
+        "k, p, u": [
+          113,
+          137,
+          297,
+          374
+        ]
+      }
+    },
+    "aux": "Draw lines pr and ru to form ∠pru, Draw lines ur and rd to form ∠urd, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_358": {
+    "image_path": "images/final_construction_sample_358.png",
+    "attribute": {
+      "d, h, n, v": "rectangle",
+      "f, t, y": "scalene triangle",
+      "h, k, t": "circle"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          269,
+          332,
+          287,
+          357
+        ],
+        "n": [
+          372,
+          279,
+          391,
+          304
+        ],
+        "d": [
+          318,
+          188,
+          338,
+          213
+        ],
+        "h": [
+          236,
+          231,
+          255,
+          256
+        ],
+        "t": [
+          177,
+          96,
+          193,
+          121
+        ],
+        "f": [
+          315,
+          76,
+          330,
+          101
+        ],
+        "y": [
+          252,
+          379,
+          268,
+          404
+        ],
+        "k": [
+          82,
+          263,
+          99,
+          288
+        ]
+      },
+      "rectangle": {
+        "d, h, n, v": [
+          256,
+          226,
+          347,
+          320
+        ]
+      },
+      "scalene triangle": {
+        "f, t, y": [
+          187,
+          113,
+          308,
+          375
+        ]
+      },
+      "circle": {
+        "h, k, t": [
+          116,
+          117,
+          396,
+          397
+        ]
+      }
+    },
+    "aux": "Draw lines hk and kt to form ∠hkt, Draw lines kt and th to form ∠kth, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_361": {
+    "image_path": "images/final_construction_sample_361.png",
+    "attribute": {
+      "h, n, t, y": "right trapezoid",
+      "a, i, j": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "y": [
+          237,
+          80,
+          247,
+          105
+        ],
+        "t": [
+          164,
+          182,
+          174,
+          207
+        ],
+        "h": [
+          198,
+          387,
+          210,
+          412
+        ],
+        "n": [
+          358,
+          165,
+          370,
+          190
+        ],
+        "j": [
+          276,
+          290,
+          280,
+          315
+        ],
+        "a": [
+          143,
+          275,
+          154,
+          300
+        ],
+        "i": [
+          278,
+          209,
+          282,
+          234
+        ],
+        "u": [
+          290,
+          375,
+          302,
+          400
+        ]
+      },
+      "right trapezoid": {
+        "h, n, t, y": [
+          176,
+          113,
+          347,
+          386
+        ]
+      },
+      "right triangle": {
+        "a, i, j": [
+          164,
+          239,
+          271,
+          300
+        ]
+      }
+    },
+    "aux": "Draw lines iu and uj to form ∠iuj, Draw lines jh and hi to form ∠jhi, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_379": {
+    "image_path": "images/final_construction_sample_379.png",
+    "attribute": {
+      "h, n, u": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "w": [
+          315,
+          90,
+          338,
+          115
+        ],
+        "h": [
+          98,
+          355,
+          116,
+          380
+        ],
+        "n": [
+          183,
+          272,
+          200,
+          297
+        ],
+        "u": [
+          294,
+          391,
+          311,
+          416
+        ],
+        "a": [
+          385,
+          314,
+          401,
+          339
+        ]
+      },
+      "scalene triangle": {
+        "h, n, u": [
+          128,
+          310,
+          274,
+          398
+        ]
+      }
+    },
+    "aux": "Draw perpendicular lines an and uw, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_382": {
+    "image_path": "images/final_construction_sample_382.png",
+    "attribute": {
+      "o, t, u, y": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "o": [
+          366,
+          322,
+          387,
+          347
+        ],
+        "y": [
+          423,
+          226,
+          439,
+          251
+        ],
+        "u": [
+          358,
+          76,
+          377,
+          101
+        ],
+        "t": [
+          248,
+          283,
+          264,
+          308
+        ],
+        "p": [
+          95,
+          156,
+          111,
+          181
+        ],
+        "m": [
+          314,
+          373,
+          337,
+          398
+        ]
+      },
+      "right trapezoid": {
+        "o, t, u, y": [
+          271,
+          114,
+          398,
+          318
+        ]
+      }
+    },
+    "aux": "Draw lines mt and py to form ∠(mt-py), Draw lines mp and ty to form ∠(mp-ty), and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_387": {
+    "image_path": "images/final_construction_sample_387.png",
+    "attribute": {
+      "c, i, n, u": "isosceles trapezoid",
+      "c, s, u, v": "circle"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          242,
+          385,
+          259,
+          406
+        ],
+        "u": [
+          202,
+          123,
+          221,
+          144
+        ],
+        "n": [
+          97,
+          179,
+          116,
+          200
+        ],
+        "c": [
+          139,
+          301,
+          157,
+          322
+        ],
+        "i": [
+          273,
+          250,
+          280,
+          271
+        ],
+        "v": [
+          411,
+          215,
+          429,
+          236
+        ]
+      },
+      "isosceles trapezoid": {
+        "c, i, n, u": [
+          113,
+          156,
+          253,
+          299
+        ]
+      },
+      "circle": {
+        "c, s, u, v": [
+          158,
+          136,
+          398,
+          376
+        ]
+      }
+    },
+    "aux": "Draw lines su and uv to form ∠suv, Draw lines sc and cv to form ∠scv, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_388": {
+    "image_path": "images/final_construction_sample_388.png",
+    "attribute": {
+      "d, e, k, z": "quadrangle",
+      "d, e, i": "circle"
+    },
+    "bbox": {
+      "text": {
+        "z": [
+          184,
+          128,
+          202,
+          153
+        ],
+        "e": [
+          225,
+          260,
+          241,
+          285
+        ],
+        "k": [
+          307,
+          350,
+          324,
+          375
+        ],
+        "d": [
+          338,
+          98,
+          358,
+          123
+        ],
+        "i": [
+          95,
+          206,
+          102,
+          231
+        ]
+      },
+      "quadrangle": {
+        "d, e, k, z": [
+          202,
+          134,
+          341,
+          352
+        ]
+      },
+      "circle": {
+        "d, e, i": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines ei and id to form ∠eid, Draw lines id and de to form ∠ide, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_389": {
+    "image_path": "images/final_construction_sample_389.png",
+    "attribute": {
+      "n, q, s, z": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          142,
+          226,
+          157,
+          251
+        ],
+        "n": [
+          131,
+          332,
+          145,
+          357
+        ],
+        "z": [
+          333,
+          394,
+          346,
+          419
+        ],
+        "s": [
+          369,
+          227,
+          381,
+          252
+        ],
+        "t": [
+          321,
+          91,
+          333,
+          116
+        ]
+      },
+      "equilateral quadrilateral": {
+        "n, q, s, z": [
+          152,
+          255,
+          359,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines tz and zq to form ∠tzq, Draw lines qt and tz to form ∠qtz, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_392": {
+    "image_path": "images/final_construction_sample_392.png",
+    "attribute": {
+      "a, g, o": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "y": [
+          208,
+          322,
+          224,
+          336
+        ],
+        "o": [
+          250,
+          343,
+          271,
+          357
+        ],
+        "g": [
+          412,
+          331,
+          432,
+          345
+        ],
+        "a": [
+          104,
+          155,
+          122,
+          169
+        ],
+        "z": [
+          170,
+          162,
+          188,
+          176
+        ]
+      },
+      "scalene triangle": {
+        "a, g, o": [
+          113,
+          174,
+          398,
+          337
+        ]
+      }
+    },
+    "aux": "Draw lines ya and az to form ∠yaz, Draw lines zo and oy to form ∠zoy, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_406": {
+    "image_path": "images/final_construction_sample_406.png",
+    "attribute": {
+      "m, q": "segment",
+      "b, c, l, r, s": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "m": [
+          282,
+          161,
+          305,
+          185
+        ],
+        "q": [
+          150,
+          239,
+          171,
+          263
+        ],
+        "s": [
+          181,
+          402,
+          198,
+          426
+        ],
+        "l": [
+          82,
+          304,
+          97,
+          328
+        ],
+        "c": [
+          117,
+          115,
+          135,
+          139
+        ],
+        "b": [
+          394,
+          103,
+          412,
+          127
+        ],
+        "r": [
+          419,
+          325,
+          437,
+          349
+        ],
+        "v": [
+          217,
+          99,
+          235,
+          123
+        ]
+      },
+      "segment": {
+        "m, q": [
+          136,
+          185,
+          265,
+          237
+        ]
+      },
+      "pentagon": {
+        "b, c, l, r, s": [
+          113,
+          135,
+          398,
+          390
+        ]
+      }
+    },
+    "aux": "Draw lines cv and vr to form ∠cvr, Draw lines rq and qc to form ∠rqc, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_419": {
+    "image_path": "images/final_construction_sample_419.png",
+    "attribute": {
+      "b, c, l": "isosceles triangle",
+      "b, c, g, l, q": "circle"
+    },
+    "bbox": {
+      "text": {
+        "c": [
+          83,
+          282,
+          101,
+          307
+        ],
+        "b": [
+          124,
+          109,
+          142,
+          134
+        ],
+        "l": [
+          278,
+          250,
+          293,
+          275
+        ],
+        "q": [
+          205,
+          80,
+          226,
+          105
+        ],
+        "g": [
+          99,
+          192,
+          119,
+          217
+        ]
+      },
+      "isosceles triangle": {
+        "b, c, l": [
+          116,
+          144,
+          256,
+          285
+        ]
+      },
+      "circle": {
+        "b, c, g, l, q": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "Draw circle through points q,b,l,g, and plot it in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_444": {
+    "image_path": "images/final_construction_sample_444.png",
+    "attribute": {
+      "i, o, p, v": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          286,
+          78,
+          292,
+          103
+        ],
+        "v": [
+          401,
+          320,
+          417,
+          345
+        ],
+        "o": [
+          212,
+          406,
+          230,
+          431
+        ],
+        "p": [
+          115,
+          154,
+          129,
+          179
+        ],
+        "z": [
+          316,
+          364,
+          332,
+          389
+        ]
+      },
+      "rectangle": {
+        "i, o, p, v": [
+          132,
+          113,
+          379,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines zi and io to form ∠zio, Draw lines vp and pz to form ∠vpz, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_451": {
+    "image_path": "images/final_construction_sample_451.png",
+    "attribute": {
+      "h, o, q, s": "square"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          205,
+          411,
+          226,
+          436
+        ],
+        "h": [
+          93,
+          198,
+          113,
+          223
+        ],
+        "o": [
+          290,
+          75,
+          311,
+          100
+        ],
+        "s": [
+          423,
+          277,
+          440,
+          302
+        ],
+        "r": [
+          358,
+          171,
+          376,
+          196
+        ]
+      },
+      "square": {
+        "h, o, q, s": [
+          113,
+          113,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "Draw perpendicular lines oq and hs, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_464": {
+    "image_path": "images/final_construction_sample_464.png",
+    "attribute": {
+      "b, m, q, s, u": "pentagon",
+      "f, t, x, z": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          414,
+          217,
+          433,
+          240
+        ],
+        "s": [
+          355,
+          389,
+          372,
+          412
+        ],
+        "b": [
+          85,
+          322,
+          103,
+          345
+        ],
+        "q": [
+          115,
+          156,
+          136,
+          179
+        ],
+        "m": [
+          219,
+          86,
+          242,
+          109
+        ],
+        "t": [
+          235,
+          200,
+          251,
+          223
+        ],
+        "x": [
+          173,
+          216,
+          191,
+          239
+        ],
+        "z": [
+          133,
+          310,
+          151,
+          333
+        ],
+        "f": [
+          264,
+          270,
+          279,
+          293
+        ],
+        "d": [
+          323,
+          218,
+          343,
+          241
+        ]
+      },
+      "pentagon": {
+        "b, m, q, s, u": [
+          113,
+          124,
+          398,
+          387
+        ]
+      },
+      "right trapezoid": {
+        "f, t, x, z": [
+          160,
+          234,
+          243,
+          304
+        ]
+      }
+    },
+    "aux": "Draw lines ms and sd to form ∠msd, Draw lines fs and sm to form ∠fsm, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_489": {
+    "image_path": "images/final_construction_sample_489.png",
+    "attribute": {
+      "f, g, i, j, t": "pentagon",
+      "f, g, u, w": "circle"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          321,
+          298,
+          336,
+          323
+        ],
+        "t": [
+          316,
+          367,
+          328,
+          392
+        ],
+        "j": [
+          197,
+          400,
+          202,
+          425
+        ],
+        "f": [
+          169,
+          294,
+          180,
+          319
+        ],
+        "i": [
+          243,
+          242,
+          248,
+          267
+        ],
+        "w": [
+          152,
+          138,
+          171,
+          163
+        ],
+        "u": [
+          349,
+          128,
+          363,
+          153
+        ]
+      },
+      "pentagon": {
+        "f, g, i, j, t": [
+          192,
+          272,
+          304,
+          398
+        ]
+      },
+      "circle": {
+        "f, g, u, w": [
+          153,
+          113,
+          359,
+          319
+        ]
+      }
+    },
+    "aux": "Draw lines gu and uf to form ∠guf, Draw lines gw and wf to form ∠gwf, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_492": {
+    "image_path": "images/final_construction_sample_492.png",
+    "attribute": {
+      "d, f, h, q": "square"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          271,
+          403,
+          291,
+          428
+        ],
+        "q": [
+          416,
+          226,
+          437,
+          251
+        ],
+        "h": [
+          245,
+          72,
+          265,
+          97
+        ],
+        "f": [
+          79,
+          259,
+          94,
+          284
+        ],
+        "g": [
+          340,
+          333,
+          360,
+          358
+        ]
+      },
+      "square": {
+        "d, f, h, q": [
+          113,
+          113,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "Draw circle through points q,d,f,h, and plot it in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_497": {
+    "image_path": "images/final_construction_sample_497.png",
+    "attribute": {
+      "d, q, v, y": "isosceles trapezoid",
+      "c, n, y": "circle"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          250,
+          82,
+          263,
+          107
+        ],
+        "y": [
+          262,
+          205,
+          273,
+          230
+        ],
+        "q": [
+          148,
+          216,
+          163,
+          241
+        ],
+        "d": [
+          142,
+          103,
+          156,
+          128
+        ],
+        "c": [
+          263,
+          280,
+          276,
+          305
+        ],
+        "n": [
+          198,
+          387,
+          212,
+          412
+        ]
+      },
+      "isosceles trapezoid": {
+        "d, q, v, y": [
+          154,
+          113,
+          258,
+          216
+        ]
+      },
+      "circle": {
+        "c, n, y": [
+          167,
+          208,
+          357,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines ny and yc to form ∠nyc, Draw lines cn and ny to form ∠cny, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_507": {
+    "image_path": "images/final_construction_sample_507.png",
+    "attribute": {
+      "c, j, l, n, r": "pentagon",
+      "c, e, l, r": "circle"
+    },
+    "bbox": {
+      "text": {
+        "n": [
+          146,
+          380,
+          166,
+          405
+        ],
+        "l": [
+          278,
+          402,
+          293,
+          427
+        ],
+        "j": [
+          390,
+          149,
+          397,
+          174
+        ],
+        "c": [
+          251,
+          72,
+          269,
+          97
+        ],
+        "r": [
+          93,
+          224,
+          111,
+          249
+        ],
+        "e": [
+          406,
+          312,
+          422,
+          337
+        ]
+      },
+      "pentagon": {
+        "c, j, l, n, r": [
+          114,
+          113,
+          375,
+          397
+        ]
+      },
+      "circle": {
+        "c, e, l, r": [
+          113,
+          114,
+          397,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines lc and ce to form ∠lce, Draw lines lr and re to form ∠lre, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_513": {
+    "image_path": "images/final_construction_sample_513.png",
+    "attribute": {
+      "o, s, u": "scalene triangle",
+      "v, z": "segment"
+    },
+    "bbox": {
+      "text": {
+        "o": [
+          249,
+          291,
+          270,
+          302
+        ],
+        "u": [
+          238,
+          212,
+          257,
+          223
+        ],
+        "s": [
+          99,
+          316,
+          116,
+          327
+        ],
+        "v": [
+          209,
+          202,
+          227,
+          213
+        ],
+        "z": [
+          282,
+          213,
+          300,
+          224
+        ],
+        "x": [
+          399,
+          185,
+          417,
+          196
+        ]
+      },
+      "scalene triangle": {
+        "o, s, u": [
+          113,
+          228,
+          240,
+          316
+        ]
+      },
+      "segment": {
+        "v, z": [
+          218,
+          212,
+          271,
+          219
+        ]
+      }
+    },
+    "aux": "Draw parallel lines ox and sz, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_519": {
+    "image_path": "images/final_construction_sample_519.png",
+    "attribute": {
+      "e, l, q, r, y": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          192,
+          119,
+          213,
+          138
+        ],
+        "y": [
+          100,
+          158,
+          116,
+          177
+        ],
+        "e": [
+          121,
+          353,
+          137,
+          372
+        ],
+        "l": [
+          248,
+          349,
+          262,
+          368
+        ],
+        "r": [
+          289,
+          175,
+          307,
+          194
+        ],
+        "c": [
+          400,
+          345,
+          418,
+          364
+        ]
+      },
+      "pentagon": {
+        "e, l, q, r, y": [
+          113,
+          149,
+          277,
+          348
+        ]
+      }
+    },
+    "aux": "Draw parallel lines ry and cl, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_522": {
+    "image_path": "images/final_construction_sample_522.png",
+    "attribute": {
+      "g, i, s": "isosceles triangle",
+      "i, q, s": "circle",
+      "g, p, q, s": "circle"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          239,
+          222,
+          246,
+          247
+        ],
+        "g": [
+          420,
+          271,
+          440,
+          296
+        ],
+        "s": [
+          335,
+          384,
+          352,
+          409
+        ],
+        "q": [
+          288,
+          78,
+          309,
+          103
+        ],
+        "p": [
+          133,
+          370,
+          149,
+          395
+        ]
+      },
+      "isosceles triangle": {
+        "g, i, s": [
+          256,
+          255,
+          395,
+          382
+        ]
+      },
+      "circle": {
+        "i, q, s": [
+          114,
+          114,
+          398,
+          398
+        ],
+        "g, p, q, s": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines ps and sq to form ∠psq, Draw lines pg and gq to form ∠pgq, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_531": {
+    "image_path": "images/final_construction_sample_531.png",
+    "attribute": {
+      "d, k, w, x": "equilateral quadrilateral",
+      "f, q, s": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          248,
+          266,
+          268,
+          280
+        ],
+        "k": [
+          177,
+          255,
+          194,
+          269
+        ],
+        "x": [
+          186,
+          155,
+          204,
+          169
+        ],
+        "w": [
+          270,
+          161,
+          296,
+          175
+        ],
+        "q": [
+          282,
+          227,
+          303,
+          241
+        ],
+        "s": [
+          407,
+          228,
+          424,
+          242
+        ],
+        "f": [
+          348,
+          338,
+          363,
+          352
+        ],
+        "r": [
+          115,
+          264,
+          133,
+          278
+        ]
+      },
+      "equilateral quadrilateral": {
+        "d, k, w, x": [
+          194,
+          175,
+          262,
+          264
+        ]
+      },
+      "equilateral triangle": {
+        "f, q, s": [
+          292,
+          244,
+          398,
+          336
+        ]
+      }
+    },
+    "aux": "Draw lines fw and dr to form ∠(fw-dr), Draw lines df and rw to form ∠(df-rw), and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_533": {
+    "image_path": "images/final_construction_sample_533.png",
+    "attribute": {
+      "e, h, z": "isosceles triangle",
+      "j, l, s, t": "equilateral quadrilateral",
+      "i, s, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "z": [
+          340,
+          156,
+          356,
+          181
+        ],
+        "h": [
+          400,
+          262,
+          417,
+          287
+        ],
+        "e": [
+          271,
+          285,
+          285,
+          310
+        ],
+        "l": [
+          114,
+          243,
+          127,
+          268
+        ],
+        "s": [
+          246,
+          157,
+          260,
+          182
+        ],
+        "j": [
+          355,
+          282,
+          361,
+          307
+        ],
+        "t": [
+          224,
+          407,
+          238,
+          432
+        ],
+        "i": [
+          267,
+          79,
+          273,
+          104
+        ]
+      },
+      "isosceles triangle": {
+        "e, h, z": [
+          296,
+          182,
+          380,
+          282
+        ]
+      },
+      "equilateral quadrilateral": {
+        "j, l, s, t": [
+          131,
+          194,
+          333,
+          398
+        ]
+      },
+      "circle": {
+        "i, s, z": [
+          165,
+          114,
+          325,
+          274
+        ]
+      }
+    },
+    "aux": "Draw lines zi and is to form ∠zis, Draw lines sz and zi to form ∠szi, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_542": {
+    "image_path": "images/final_construction_sample_542.png",
+    "attribute": {
+      "d, g, h, s": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          327,
+          278,
+          347,
+          298
+        ],
+        "d": [
+          410,
+          126,
+          430,
+          146
+        ],
+        "s": [
+          232,
+          141,
+          249,
+          161
+        ],
+        "h": [
+          170,
+          241,
+          190,
+          261
+        ],
+        "b": [
+          115,
+          127,
+          133,
+          147
+        ],
+        "z": [
+          216,
+          348,
+          234,
+          368
+        ]
+      },
+      "trapezoid": {
+        "d, g, h, s": [
+          196,
+          149,
+          398,
+          275
+        ]
+      }
+    },
+    "aux": "Draw lines db and bh to form ∠dbh, Draw lines hz and zd to form ∠hzd, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_546": {
+    "image_path": "images/final_construction_sample_546.png",
+    "attribute": {
+      "l, y": "segment",
+      "l, p, q, y": "circle"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          272,
+          75,
+          288,
+          100
+        ],
+        "y": [
+          325,
+          389,
+          341,
+          414
+        ],
+        "l": [
+          95,
+          207,
+          110,
+          232
+        ],
+        "q": [
+          258,
+          232,
+          279,
+          257
+        ]
+      },
+      "segment": {
+        "l, y": [
+          115,
+          231,
+          312,
+          386
+        ]
+      },
+      "circle": {
+        "l, p, q, y": [
+          113,
+          113,
+          397,
+          397
+        ]
+      }
+    },
+    "aux": "Draw lines yp and pq to form ∠ypq, Draw lines qy and yp to form ∠qyp, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_557": {
+    "image_path": "images/final_construction_sample_557.png",
+    "attribute": {
+      "a, q, u, w, z": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "w": [
+          401,
+          247,
+          425,
+          272
+        ],
+        "u": [
+          316,
+          398,
+          333,
+          423
+        ],
+        "q": [
+          100,
+          376,
+          119,
+          401
+        ],
+        "a": [
+          149,
+          94,
+          165,
+          119
+        ],
+        "z": [
+          262,
+          77,
+          278,
+          102
+        ],
+        "i": [
+          364,
+          326,
+          371,
+          351
+        ],
+        "s": [
+          221,
+          238,
+          236,
+          263
+        ]
+      },
+      "pentagon": {
+        "a, q, u, w, z": [
+          127,
+          113,
+          384,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines ai and is to form ∠ais, Draw lines sa and ai to form ∠sai, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_560": {
+    "image_path": "images/final_construction_sample_560.png",
+    "attribute": {
+      "c, e, o, x": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "c": [
+          251,
+          165,
+          269,
+          190
+        ],
+        "o": [
+          415,
+          273,
+          436,
+          298
+        ],
+        "e": [
+          344,
+          400,
+          360,
+          425
+        ],
+        "x": [
+          159,
+          303,
+          177,
+          328
+        ],
+        "i": [
+          116,
+          92,
+          123,
+          117
+        ]
+      },
+      "rectangle": {
+        "c, e, o, x": [
+          192,
+          206,
+          398,
+          396
+        ]
+      }
+    },
+    "aux": "Draw congruent segments ec and xi, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_578": {
+    "image_path": "images/final_construction_sample_578.png",
+    "attribute": {
+      "c, o, u": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "o": [
+          331,
+          361,
+          352,
+          379
+        ],
+        "c": [
+          391,
+          127,
+          409,
+          145
+        ],
+        "u": [
+          89,
+          292,
+          108,
+          310
+        ],
+        "l": [
+          411,
+          253,
+          426,
+          271
+        ],
+        "v": [
+          308,
+          223,
+          326,
+          241
+        ]
+      },
+      "right triangle": {
+        "c, o, u": [
+          113,
+          152,
+          383,
+          359
+        ]
+      }
+    },
+    "aux": "Draw lines cv and vo to form ∠cvo, Draw lines ol and lc to form ∠olc, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_588": {
+    "image_path": "images/final_construction_sample_588.png",
+    "attribute": {
+      "a, l, p, w": "right trapezoid",
+      "l, p, y": "circle"
+    },
+    "bbox": {
+      "text": {
+        "l": [
+          157,
+          105,
+          172,
+          130
+        ],
+        "a": [
+          145,
+          207,
+          163,
+          232
+        ],
+        "p": [
+          271,
+          257,
+          287,
+          282
+        ],
+        "w": [
+          253,
+          100,
+          279,
+          125
+        ],
+        "y": [
+          416,
+          289,
+          432,
+          314
+        ]
+      },
+      "right trapezoid": {
+        "a, l, p, w": [
+          169,
+          135,
+          256,
+          256
+        ]
+      },
+      "circle": {
+        "l, p, y": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines pl and ly to form ∠ply, Draw lines ly and yp to form ∠lyp, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_591": {
+    "image_path": "images/final_construction_sample_591.png",
+    "attribute": {
+      "c, d, h, s": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "c": [
+          414,
+          249,
+          432,
+          272
+        ],
+        "s": [
+          320,
+          391,
+          337,
+          414
+        ],
+        "d": [
+          82,
+          239,
+          102,
+          262
+        ],
+        "h": [
+          196,
+          87,
+          216,
+          110
+        ],
+        "p": [
+          252,
+          187,
+          268,
+          210
+        ],
+        "a": [
+          290,
+          274,
+          308,
+          297
+        ]
+      },
+      "rectangle": {
+        "c, d, h, s": [
+          113,
+          124,
+          398,
+          387
+        ]
+      }
+    },
+    "aux": "Draw congruent segments cp and da, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_592": {
+    "image_path": "images/final_construction_sample_592.png",
+    "attribute": {
+      "c, g, k, m": "isosceles trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "k": [
+          181,
+          271,
+          198,
+          287
+        ],
+        "g": [
+          312,
+          350,
+          332,
+          366
+        ],
+        "c": [
+          410,
+          263,
+          428,
+          279
+        ],
+        "m": [
+          238,
+          138,
+          261,
+          154
+        ],
+        "e": [
+          115,
+          329,
+          131,
+          345
+        ]
+      },
+      "isosceles trapezoid": {
+        "c, g, k, m": [
+          203,
+          164,
+          398,
+          347
+        ]
+      }
+    },
+    "aux": "Draw lines ge and em to form ∠gem, Draw lines em and mg to form ∠emg, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_596": {
+    "image_path": "images/final_construction_sample_596.png",
+    "attribute": {
+      "b, m, q, y": "quadrangle",
+      "j, o, p, t": "trapezoid",
+      "e, j, p, y": "circle"
+    },
+    "bbox": {
+      "text": {
+        "m": [
+          421,
+          274,
+          444,
+          298
+        ],
+        "y": [
+          336,
+          113,
+          352,
+          137
+        ],
+        "b": [
+          210,
+          144,
+          228,
+          168
+        ],
+        "q": [
+          281,
+          353,
+          302,
+          377
+        ],
+        "j": [
+          114,
+          344,
+          121,
+          368
+        ],
+        "o": [
+          402,
+          386,
+          423,
+          410
+        ],
+        "t": [
+          282,
+          157,
+          298,
+          181
+        ],
+        "p": [
+          135,
+          132,
+          151,
+          156
+        ],
+        "e": [
+          218,
+          259,
+          234,
+          283
+        ]
+      },
+      "quadrangle": {
+        "b, m, q, y": [
+          211,
+          147,
+          398,
+          353
+        ]
+      },
+      "trapezoid": {
+        "j, o, p, t": [
+          142,
+          164,
+          382,
+          389
+        ]
+      },
+      "circle": {
+        "e, j, p, y": [
+          114,
+          122,
+          382,
+          390
+        ]
+      }
+    },
+    "aux": "Draw lines ey and yj to form ∠eyj, Draw lines yj and je to form ∠yje, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_600": {
+    "image_path": "images/final_construction_sample_600.png",
+    "attribute": {
+      "c, z": "segment",
+      "c, i, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "z": [
+          262,
+          260,
+          280,
+          285
+        ],
+        "c": [
+          246,
+          72,
+          264,
+          97
+        ],
+        "i": [
+          317,
+          393,
+          324,
+          418
+        ]
+      },
+      "segment": {
+        "c, z": [
+          247,
+          114,
+          256,
+          256
+        ]
+      },
+      "circle": {
+        "c, i, z": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines zi and ic to form ∠zic, Draw lines ic and cz to form ∠icz, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_601": {
+    "image_path": "images/final_construction_sample_601.png",
+    "attribute": {
+      "f, m, p, u": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "m": [
+          358,
+          228,
+          379,
+          253
+        ],
+        "f": [
+          243,
+          76,
+          257,
+          101
+        ],
+        "u": [
+          104,
+          176,
+          122,
+          201
+        ],
+        "p": [
+          200,
+          338,
+          215,
+          363
+        ],
+        "x": [
+          179,
+          170,
+          196,
+          195
+        ],
+        "d": [
+          218,
+          141,
+          237,
+          166
+        ],
+        "a": [
+          390,
+          375,
+          407,
+          400
+        ]
+      },
+      "rectangle": {
+        "f, m, p, u": [
+          123,
+          113,
+          335,
+          327
+        ]
+      }
+    },
+    "aux": "Draw parallel lines ap and mx, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_622": {
+    "image_path": "images/final_construction_sample_622.png",
+    "attribute": {
+      "e, u, y": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          130,
+          369,
+          146,
+          393
+        ],
+        "y": [
+          141,
+          215,
+          157,
+          239
+        ],
+        "u": [
+          421,
+          380,
+          440,
+          404
+        ],
+        "x": [
+          184,
+          85,
+          202,
+          109
+        ],
+        "d": [
+          116,
+          332,
+          136,
+          356
+        ]
+      },
+      "scalene triangle": {
+        "e, u, y": [
+          157,
+          242,
+          398,
+          389
+        ]
+      }
+    },
+    "aux": "Draw perpendicular lines de and xy, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_645": {
+    "image_path": "images/final_construction_sample_645.png",
+    "attribute": {
+      "d, h, p": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "t": [
+          267,
+          101,
+          283,
+          125
+        ],
+        "p": [
+          84,
+          290,
+          100,
+          314
+        ],
+        "h": [
+          154,
+          106,
+          174,
+          130
+        ],
+        "d": [
+          419,
+          383,
+          439,
+          407
+        ],
+        "l": [
+          208,
+          254,
+          223,
+          278
+        ]
+      },
+      "scalene triangle": {
+        "d, h, p": [
+          113,
+          144,
+          398,
+          388
+        ]
+      }
+    },
+    "aux": "Draw lines pt and tl to form ∠ptl, Draw lines lp and pt to form ∠lpt, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_661": {
+    "image_path": "images/final_construction_sample_661.png",
+    "attribute": {
+      "f, l, m, o": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "f": [
+          377,
+          170,
+          388,
+          195
+        ],
+        "o": [
+          225,
+          78,
+          241,
+          103
+        ],
+        "m": [
+          146,
+          321,
+          163,
+          346
+        ],
+        "l": [
+          298,
+          396,
+          309,
+          421
+        ],
+        "i": [
+          149,
+          167,
+          154,
+          192
+        ]
+      },
+      "trapezoid": {
+        "f, l, m, o": [
+          171,
+          113,
+          364,
+          398
+        ]
+      }
+    },
+    "aux": "Draw perpendicular lines il and fm, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_662": {
+    "image_path": "images/final_construction_sample_662.png",
+    "attribute": {
+      "e, m, q": "right triangle",
+      "e, g, l, m, n, q, v": "circle"
+    },
+    "bbox": {
+      "text": {
+        "m": [
+          299,
+          84,
+          322,
+          108
+        ],
+        "e": [
+          415,
+          391,
+          431,
+          415
+        ],
+        "q": [
+          94,
+          167,
+          115,
+          191
+        ],
+        "v": [
+          224,
+          106,
+          242,
+          130
+        ],
+        "l": [
+          191,
+          271,
+          205,
+          295
+        ],
+        "g": [
+          334,
+          158,
+          354,
+          182
+        ],
+        "n": [
+          261,
+          171,
+          281,
+          195
+        ]
+      },
+      "right triangle": {
+        "e, m, q": [
+          113,
+          120,
+          398,
+          391
+        ]
+      },
+      "circle": {
+        "e, g, l, m, n, q, v": [
+          188,
+          140,
+          322,
+          274
+        ]
+      }
+    },
+    "aux": "Draw lines nq and gv to form ∠(nq-gv), Draw lines lv and mn to form ∠(lv-mn), and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_669": {
+    "image_path": "images/final_construction_sample_669.png",
+    "attribute": {
+      "e, m, s, t": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          175,
+          132,
+          192,
+          149
+        ],
+        "m": [
+          91,
+          272,
+          114,
+          289
+        ],
+        "e": [
+          383,
+          354,
+          399,
+          371
+        ],
+        "t": [
+          396,
+          221,
+          412,
+          238
+        ],
+        "c": [
+          403,
+          287,
+          421,
+          304
+        ],
+        "r": [
+          329,
+          299,
+          347,
+          316
+        ]
+      },
+      "equilateral quadrilateral": {
+        "e, m, s, t": [
+          113,
+          159,
+          386,
+          352
+        ]
+      }
+    },
+    "aux": "Draw lines ct and tr to form ∠ctr, Draw lines tr and rc to form ∠trc, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_695": {
+    "image_path": "images/final_construction_sample_695.png",
+    "attribute": {
+      "j, m, o, v": "trapezoid",
+      "l, t, x, y": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "o": [
+          154,
+          221,
+          166,
+          246
+        ],
+        "j": [
+          176,
+          106,
+          180,
+          131
+        ],
+        "m": [
+          316,
+          161,
+          329,
+          186
+        ],
+        "v": [
+          308,
+          251,
+          318,
+          276
+        ],
+        "l": [
+          353,
+          210,
+          361,
+          235
+        ],
+        "t": [
+          177,
+          304,
+          186,
+          329
+        ],
+        "y": [
+          215,
+          154,
+          224,
+          179
+        ],
+        "x": [
+          328,
+          83,
+          338,
+          108
+        ],
+        "p": [
+          183,
+          375,
+          192,
+          400
+        ]
+      },
+      "trapezoid": {
+        "j, m, o, v": [
+          172,
+          137,
+          306,
+          259
+        ],
+        "l, t, x, y": [
+          172,
+          137,
+          306,
+          259
+        ]
+      }
+    },
+    "aux": "Draw parallel lines op and jt, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_706": {
+    "image_path": "images/final_construction_sample_706.png",
+    "attribute": {
+      "p, q, w": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "w": [
+          362,
+          80,
+          386,
+          105
+        ],
+        "q": [
+          109,
+          112,
+          128,
+          137
+        ],
+        "p": [
+          397,
+          398,
+          411,
+          423
+        ],
+        "l": [
+          237,
+          87,
+          250,
+          112
+        ],
+        "a": [
+          230,
+          273,
+          246,
+          298
+        ],
+        "h": [
+          385,
+          235,
+          403,
+          260
+        ],
+        "d": [
+          311,
+          201,
+          329,
+          226
+        ]
+      },
+      "right triangle": {
+        "p, q, w": [
+          127,
+          113,
+          384,
+          398
+        ]
+      }
+    },
+    "aux": "Draw line dh passing through point q, and plot it in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_724": {
+    "image_path": "images/final_construction_sample_724.png",
+    "attribute": {
+      "d, l, v": "scalene triangle",
+      "f, l, s, v": "circle"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          283,
+          385,
+          291,
+          410
+        ],
+        "l": [
+          178,
+          298,
+          185,
+          323
+        ],
+        "v": [
+          332,
+          299,
+          340,
+          324
+        ],
+        "d": [
+          297,
+          84,
+          306,
+          109
+        ],
+        "f": [
+          258,
+          321,
+          265,
+          346
+        ]
+      },
+      "scalene triangle": {
+        "d, l, v": [
+          188,
+          113,
+          323,
+          320
+        ]
+      },
+      "circle": {
+        "f, l, s, v": [
+          188,
+          261,
+          324,
+          397
+        ]
+      }
+    },
+    "aux": "Draw lines fs and sv to form ∠fsv, Draw lines sv and vf to form ∠svf, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_732": {
+    "image_path": "images/final_construction_sample_732.png",
+    "attribute": {
+      "j, l, v": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "j": [
+          156,
+          249,
+          160,
+          274
+        ],
+        "l": [
+          271,
+          246,
+          279,
+          271
+        ],
+        "v": [
+          253,
+          82,
+          263,
+          107
+        ],
+        "n": [
+          338,
+          91,
+          349,
+          116
+        ],
+        "m": [
+          338,
+          375,
+          351,
+          400
+        ]
+      },
+      "scalene triangle": {
+        "j, l, v": [
+          174,
+          113,
+          260,
+          256
+        ]
+      }
+    },
+    "aux": "Draw lines jm and ml to form ∠jml, Draw lines ln and nj to form ∠lnj, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_734": {
+    "image_path": "images/final_construction_sample_734.png",
+    "attribute": {
+      "f, p, r, x": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "r": [
+          260,
+          288,
+          278,
+          304
+        ],
+        "p": [
+          376,
+          211,
+          392,
+          227
+        ],
+        "x": [
+          407,
+          146,
+          425,
+          162
+        ],
+        "f": [
+          228,
+          214,
+          243,
+          230
+        ],
+        "y": [
+          115,
+          330,
+          131,
+          346
+        ],
+        "e": [
+          265,
+          232,
+          281,
+          248
+        ]
+      },
+      "quadrangle": {
+        "f, p, r, x": [
+          240,
+          166,
+          398,
+          280
+        ]
+      }
+    },
+    "aux": "Draw lines ry and yp to form ∠ryp, Draw lines py and ye to form ∠pye, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_738": {
+    "image_path": "images/final_construction_sample_738.png",
+    "attribute": {
+      "l, r, z": "scalene triangle",
+      "g, l, o, r": "circle"
+    },
+    "bbox": {
+      "text": {
+        "r": [
+          276,
+          402,
+          294,
+          427
+        ],
+        "z": [
+          114,
+          333,
+          132,
+          358
+        ],
+        "l": [
+          220,
+          76,
+          235,
+          101
+        ],
+        "g": [
+          105,
+          172,
+          125,
+          197
+        ],
+        "o": [
+          274,
+          234,
+          295,
+          259
+        ]
+      },
+      "scalene triangle": {
+        "l, r, z": [
+          145,
+          117,
+          269,
+          397
+        ]
+      },
+      "circle": {
+        "g, l, o, r": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "Draw lines rg and go to form ∠rgo, Draw lines or and rg to form ∠org, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_747": {
+    "image_path": "images/final_construction_sample_747.png",
+    "attribute": {
+      "h, k, p": "scalene triangle",
+      "a, j, l, z": "right trapezoid",
+      "d, h, l": "circle"
+    },
+    "bbox": {
+      "text": {
+        "k": [
+          235,
+          207,
+          252,
+          228
+        ],
+        "p": [
+          323,
+          226,
+          339,
+          247
+        ],
+        "h": [
+          256,
+          117,
+          276,
+          138
+        ],
+        "a": [
+          329,
+          150,
+          347,
+          171
+        ],
+        "j": [
+          219,
+          104,
+          226,
+          125
+        ],
+        "z": [
+          85,
+          193,
+          103,
+          214
+        ],
+        "l": [
+          296,
+          262,
+          311,
+          283
+        ],
+        "d": [
+          363,
+          353,
+          383,
+          374
+        ]
+      },
+      "scalene triangle": {
+        "h, k, p": [
+          248,
+          149,
+          303,
+          233
+        ]
+      },
+      "right trapezoid": {
+        "a, j, l, z": [
+          113,
+          138,
+          316,
+          259
+        ]
+      },
+      "circle": {
+        "d, h, l": [
+          171,
+          146,
+          397,
+          372
+        ]
+      }
+    },
+    "aux": "Draw lines hd and dl to form ∠hdl, Draw lines lh and hd to form ∠lhd, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  },
+  "sample_753": {
+    "image_path": "images/final_construction_sample_753.png",
+    "attribute": {
+      "l, s, u, w": "square"
+    },
+    "bbox": {
+      "text": {
+        "w": [
+          225,
+          411,
+          251,
+          436
+        ],
+        "l": [
+          93,
+          218,
+          107,
+          243
+        ],
+        "u": [
+          270,
+          74,
+          289,
+          99
+        ],
+        "s": [
+          423,
+          256,
+          440,
+          281
+        ],
+        "i": [
+          286,
+          195,
+          293,
+          220
+        ],
+        "a": [
+          276,
+          289,
+          294,
+          314
+        ]
+      },
+      "square": {
+        "l, s, u, w": [
+          113,
+          113,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "Draw congruent segments al and as, and plot them in red dotted line",
+    "level": "visual_distractors_aux"
+  }
+}

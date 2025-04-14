@@ -1,0 +1,8166 @@
+{
+  "sample_ellipse_0": {
+    "image_path": "images/final_construction_ellipse_0.png",
+    "attribute": {
+      "V": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "V": [
+          279,
+          247,
+          293,
+          267
+        ]
+      },
+      "ellipse": {
+        "V": [
+          155,
+          163,
+          394,
+          323
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_ellipse_1": {
+    "image_path": "images/final_construction_ellipse_1.png",
+    "attribute": {
+      "R": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "R": [
+          198,
+          268,
+          212,
+          288
+        ]
+      },
+      "ellipse": {
+        "R": [
+          141,
+          101,
+          291,
+          427
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_ellipse_2": {
+    "image_path": "images/final_construction_ellipse_2.png",
+    "attribute": {
+      "D": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "D": [
+          250,
+          164,
+          266,
+          184
+        ]
+      },
+      "ellipse": {
+        "D": [
+          120,
+          89,
+          418,
+          231
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_ellipse_3": {
+    "image_path": "images/final_construction_ellipse_3.png",
+    "attribute": {
+      "L": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "L": [
+          210,
+          268,
+          221,
+          288
+        ]
+      },
+      "ellipse": {
+        "L": [
+          89,
+          97,
+          361,
+          431
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_ellipse_4": {
+    "image_path": "images/final_construction_ellipse_4.png",
+    "attribute": {
+      "H": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "H": [
+          314,
+          221,
+          329,
+          241
+        ]
+      },
+      "ellipse": {
+        "H": [
+          224,
+          157,
+          444,
+          334
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_ellipse_5": {
+    "image_path": "images/final_construction_ellipse_5.png",
+    "attribute": {
+      "C": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "C": [
+          283,
+          227,
+          297,
+          247
+        ]
+      },
+      "ellipse": {
+        "C": [
+          227,
+          140,
+          375,
+          361
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_ellipse_6": {
+    "image_path": "images/final_construction_ellipse_6.png",
+    "attribute": {
+      "R": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "R": [
+          220,
+          226,
+          234,
+          246
+        ]
+      },
+      "ellipse": {
+        "R": [
+          113,
+          168,
+          318,
+          332
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_ellipse_7": {
+    "image_path": "images/final_construction_ellipse_7.png",
+    "attribute": {
+      "B": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "B": [
+          260,
+          285,
+          274,
+          305
+        ]
+      },
+      "ellipse": {
+        "B": [
+          201,
+          192,
+          355,
+          424
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_ellipse_8": {
+    "image_path": "images/final_construction_ellipse_8.png",
+    "attribute": {
+      "P": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "P": [
+          286,
+          268,
+          298,
+          288
+        ]
+      },
+      "ellipse": {
+        "P": [
+          145,
+          86,
+          419,
+          441
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_ellipse_9": {
+    "image_path": "images/final_construction_ellipse_9.png",
+    "attribute": {
+      "V": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "V": [
+          256,
+          240,
+          270,
+          260
+        ]
+      },
+      "ellipse": {
+        "V": [
+          170,
+          167,
+          379,
+          360
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_0": {
+    "image_path": "images/final_construction_sample_0.png",
+    "attribute": {
+      "d, e, f, k": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          367,
+          389,
+          378,
+          414
+        ],
+        "f": [
+          272,
+          81,
+          282,
+          106
+        ],
+        "k": [
+          146,
+          164,
+          157,
+          189
+        ],
+        "d": [
+          190,
+          384,
+          204,
+          409
+        ]
+      },
+      "quadrangle": {
+        "d, e, f, k": [
+          159,
+          113,
+          352,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_1": {
+    "image_path": "images/final_construction_sample_1.png",
+    "attribute": {
+      "c, d, e": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "c": [
+          342,
+          300,
+          351,
+          325
+        ],
+        "d": [
+          168,
+          393,
+          178,
+          418
+        ],
+        "e": [
+          215,
+          82,
+          223,
+          107
+        ]
+      },
+      "right triangle": {
+        "c, d, e": [
+          182,
+          113,
+          329,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_2": {
+    "image_path": "images/final_construction_sample_2.png",
+    "attribute": {
+      "f, p, z": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          98,
+          105,
+          114,
+          127
+        ],
+        "f": [
+          411,
+          107,
+          426,
+          129
+        ],
+        "z": [
+          260,
+          383,
+          278,
+          405
+        ]
+      },
+      "equilateral triangle": {
+        "f, p, z": [
+          113,
+          132,
+          398,
+          379
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_3": {
+    "image_path": "images/final_construction_sample_3.png",
+    "attribute": {
+      "a, g, j, y": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "a": [
+          122,
+          131,
+          140,
+          149
+        ],
+        "g": [
+          295,
+          148,
+          315,
+          166
+        ],
+        "j": [
+          413,
+          351,
+          420,
+          369
+        ],
+        "y": [
+          93,
+          329,
+          109,
+          347
+        ]
+      },
+      "right trapezoid": {
+        "a, g, j, y": [
+          113,
+          156,
+          398,
+          355
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_4": {
+    "image_path": "images/final_construction_sample_4.png",
+    "attribute": {
+      "d, g, k, w": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "w": [
+          196,
+          383,
+          222,
+          404
+        ],
+        "g": [
+          97,
+          217,
+          117,
+          238
+        ],
+        "k": [
+          406,
+          108,
+          423,
+          129
+        ],
+        "d": [
+          408,
+          340,
+          428,
+          361
+        ]
+      },
+      "quadrangle": {
+        "d, g, k, w": [
+          113,
+          138,
+          398,
+          373
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_5": {
+    "image_path": "images/final_construction_sample_5.png",
+    "attribute": {
+      "o, r, v, y": "circle"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          122,
+          358,
+          140,
+          383
+        ],
+        "r": [
+          198,
+          405,
+          216,
+          430
+        ],
+        "o": [
+          90,
+          307,
+          111,
+          332
+        ],
+        "y": [
+          258,
+          232,
+          274,
+          257
+        ]
+      },
+      "circle": {
+        "o, r, v, y": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_6": {
+    "image_path": "images/final_construction_sample_6.png",
+    "attribute": {
+      "d, h, x": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "h": [
+          114,
+          393,
+          134,
+          416
+        ],
+        "x": [
+          105,
+          90,
+          123,
+          113
+        ],
+        "d": [
+          420,
+          352,
+          440,
+          375
+        ]
+      },
+      "right triangle": {
+        "d, h, x": [
+          113,
+          126,
+          398,
+          385
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_7": {
+    "image_path": "images/final_construction_sample_7.png",
+    "attribute": {
+      "b, l, p, x": "square"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          155,
+          75,
+          173,
+          100
+        ],
+        "p": [
+          413,
+          136,
+          429,
+          161
+        ],
+        "x": [
+          361,
+          399,
+          379,
+          424
+        ],
+        "l": [
+          82,
+          349,
+          97,
+          374
+        ]
+      },
+      "square": {
+        "b, l, p, x": [
+          113,
+          113,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_8": {
+    "image_path": "images/final_construction_sample_8.png",
+    "attribute": {
+      "d, o, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          95,
+          207,
+          115,
+          232
+        ],
+        "z": [
+          258,
+          232,
+          276,
+          257
+        ],
+        "o": [
+          279,
+          76,
+          300,
+          101
+        ]
+      },
+      "circle": {
+        "d, o, z": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_9": {
+    "image_path": "images/final_construction_sample_9.png",
+    "attribute": {
+      "h, q, t, y": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "y": [
+          240,
+          381,
+          256,
+          402
+        ],
+        "t": [
+          416,
+          339,
+          432,
+          360
+        ],
+        "h": [
+          330,
+          110,
+          350,
+          131
+        ],
+        "q": [
+          98,
+          159,
+          119,
+          180
+        ]
+      },
+      "trapezoid": {
+        "h, q, t, y": [
+          113,
+          140,
+          398,
+          371
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_10": {
+    "image_path": "images/final_construction_sample_10.png",
+    "attribute": {
+      "l, v, x": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "l": [
+          167,
+          245,
+          175,
+          270
+        ],
+        "x": [
+          315,
+          390,
+          324,
+          415
+        ],
+        "v": [
+          336,
+          84,
+          345,
+          109
+        ]
+      },
+      "right triangle": {
+        "l, v, x": [
+          178,
+          113,
+          333,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_11": {
+    "image_path": "images/final_construction_sample_11.png",
+    "attribute": {
+      "c, e, l, s": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "c": [
+          403,
+          110,
+          420,
+          135
+        ],
+        "l": [
+          188,
+          76,
+          202,
+          101
+        ],
+        "e": [
+          90,
+          296,
+          106,
+          321
+        ],
+        "s": [
+          397,
+          398,
+          413,
+          423
+        ]
+      },
+      "quadrangle": {
+        "c, e, l, s": [
+          121,
+          113,
+          390,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_12": {
+    "image_path": "images/final_construction_sample_12.png",
+    "attribute": {
+      "r, s": "segment"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          98,
+          324,
+          115,
+          336
+        ],
+        "r": [
+          406,
+          175,
+          424,
+          187
+        ]
+      },
+      "segment": {
+        "r, s": [
+          113,
+          188,
+          398,
+          323
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_13": {
+    "image_path": "images/final_construction_sample_13.png",
+    "attribute": {
+      "a, e, t": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          281,
+          355,
+          297,
+          371
+        ],
+        "t": [
+          102,
+          144,
+          118,
+          160
+        ],
+        "a": [
+          409,
+          227,
+          427,
+          243
+        ]
+      },
+      "right triangle": {
+        "a, e, t": [
+          113,
+          164,
+          398,
+          347
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_14": {
+    "image_path": "images/final_construction_sample_14.png",
+    "attribute": {
+      "i, m, q, s": "square"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          294,
+          402,
+          311,
+          427
+        ],
+        "q": [
+          80,
+          282,
+          101,
+          307
+        ],
+        "m": [
+          222,
+          72,
+          245,
+          97
+        ],
+        "i": [
+          416,
+          203,
+          423,
+          228
+        ]
+      },
+      "square": {
+        "i, m, q, s": [
+          113,
+          113,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_15": {
+    "image_path": "images/final_construction_sample_15.png",
+    "attribute": {
+      "a, j, m, n, y": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "y": [
+          398,
+          153,
+          413,
+          178
+        ],
+        "a": [
+          253,
+          75,
+          269,
+          100
+        ],
+        "j": [
+          96,
+          301,
+          102,
+          326
+        ],
+        "n": [
+          217,
+          407,
+          235,
+          432
+        ],
+        "m": [
+          393,
+          342,
+          413,
+          367
+        ]
+      },
+      "pentagon": {
+        "a, j, m, n, y": [
+          127,
+          113,
+          384,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_16": {
+    "image_path": "images/final_construction_sample_16.png",
+    "attribute": {
+      "a, e, i, o": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          233,
+          148,
+          249,
+          163
+        ],
+        "a": [
+          412,
+          311,
+          430,
+          326
+        ],
+        "o": [
+          186,
+          347,
+          207,
+          362
+        ],
+        "i": [
+          101,
+          253,
+          108,
+          268
+        ]
+      },
+      "trapezoid": {
+        "a, e, i, o": [
+          113,
+          171,
+          398,
+          340
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_17": {
+    "image_path": "images/final_construction_sample_17.png",
+    "attribute": {
+      "a, c, t, y": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "c": [
+          197,
+          368,
+          215,
+          386
+        ],
+        "a": [
+          415,
+          309,
+          433,
+          327
+        ],
+        "t": [
+          286,
+          124,
+          302,
+          142
+        ],
+        "y": [
+          100,
+          171,
+          116,
+          189
+        ]
+      },
+      "trapezoid": {
+        "a, c, t, y": [
+          113,
+          152,
+          398,
+          359
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_18": {
+    "image_path": "images/final_construction_sample_18.png",
+    "attribute": {
+      "i, o, r, v": "isosceles trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          288,
+          79,
+          303,
+          104
+        ],
+        "o": [
+          396,
+          264,
+          413,
+          289
+        ],
+        "i": [
+          277,
+          406,
+          283,
+          431
+        ],
+        "r": [
+          121,
+          96,
+          136,
+          121
+        ]
+      },
+      "isosceles trapezoid": {
+        "i, o, r, v": [
+          136,
+          113,
+          375,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_19": {
+    "image_path": "images/final_construction_sample_19.png",
+    "attribute": {
+      "b, c, e, q": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          115,
+          256,
+          130,
+          281
+        ],
+        "c": [
+          206,
+          169,
+          222,
+          194
+        ],
+        "q": [
+          388,
+          81,
+          406,
+          106
+        ],
+        "e": [
+          282,
+          398,
+          296,
+          423
+        ]
+      },
+      "quadrangle": {
+        "b, c, e, q": [
+          133,
+          113,
+          378,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_20": {
+    "image_path": "images/final_construction_sample_20.png",
+    "attribute": {
+      "a, d, h, p": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          182,
+          404,
+          202,
+          429
+        ],
+        "h": [
+          421,
+          338,
+          441,
+          363
+        ],
+        "p": [
+          259,
+          81,
+          275,
+          106
+        ],
+        "a": [
+          96,
+          123,
+          114,
+          148
+        ]
+      },
+      "trapezoid": {
+        "a, d, h, p": [
+          113,
+          118,
+          398,
+          393
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_21": {
+    "image_path": "images/final_construction_sample_21.png",
+    "attribute": {
+      "f, l, m, o": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "f": [
+          413,
+          317,
+          428,
+          335
+        ],
+        "o": [
+          124,
+          366,
+          145,
+          384
+        ],
+        "m": [
+          101,
+          160,
+          124,
+          178
+        ],
+        "l": [
+          388,
+          127,
+          403,
+          145
+        ]
+      },
+      "equilateral quadrilateral": {
+        "f, l, m, o": [
+          113,
+          152,
+          398,
+          359
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_22": {
+    "image_path": "images/final_construction_sample_22.png",
+    "attribute": {
+      "b, f, k, z": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "f": [
+          306,
+          169,
+          321,
+          181
+        ],
+        "k": [
+          97,
+          294,
+          114,
+          306
+        ],
+        "z": [
+          302,
+          325,
+          320,
+          337
+        ],
+        "b": [
+          410,
+          261,
+          428,
+          273
+        ]
+      },
+      "trapezoid": {
+        "b, f, k, z": [
+          113,
+          188,
+          398,
+          323
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_23": {
+    "image_path": "images/final_construction_sample_23.png",
+    "attribute": {
+      "q, t, w": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "t": [
+          152,
+          377,
+          168,
+          397
+        ],
+        "w": [
+          418,
+          301,
+          444,
+          321
+        ],
+        "q": [
+          103,
+          113,
+          124,
+          133
+        ]
+      },
+      "right triangle": {
+        "q, t, w": [
+          113,
+          142,
+          398,
+          369
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_24": {
+    "image_path": "images/final_construction_sample_24.png",
+    "attribute": {
+      "d, l": "segment"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          409,
+          320,
+          429,
+          332
+        ],
+        "l": [
+          105,
+          174,
+          120,
+          186
+        ]
+      },
+      "segment": {
+        "d, l": [
+          113,
+          188,
+          398,
+          323
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_25": {
+    "image_path": "images/final_construction_sample_25.png",
+    "attribute": {
+      "a, x, y": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "x": [
+          317,
+          129,
+          335,
+          147
+        ],
+        "a": [
+          89,
+          236,
+          107,
+          254
+        ],
+        "y": [
+          412,
+          354,
+          428,
+          372
+        ]
+      },
+      "right triangle": {
+        "a, x, y": [
+          113,
+          156,
+          398,
+          355
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_26": {
+    "image_path": "images/final_construction_sample_26.png",
+    "attribute": {
+      "j, p, t": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "j": [
+          98,
+          105,
+          105,
+          127
+        ],
+        "p": [
+          411,
+          107,
+          427,
+          129
+        ],
+        "t": [
+          260,
+          383,
+          276,
+          405
+        ]
+      },
+      "equilateral triangle": {
+        "j, p, t": [
+          113,
+          132,
+          398,
+          379
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_27": {
+    "image_path": "images/final_construction_sample_27.png",
+    "attribute": {
+      "k, n, s, w": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "k": [
+          137,
+          367,
+          154,
+          385
+        ],
+        "w": [
+          100,
+          204,
+          126,
+          222
+        ],
+        "n": [
+          362,
+          125,
+          382,
+          143
+        ],
+        "s": [
+          415,
+          280,
+          432,
+          298
+        ]
+      },
+      "rectangle": {
+        "k, n, s, w": [
+          113,
+          152,
+          398,
+          359
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_28": {
+    "image_path": "images/final_construction_sample_28.png",
+    "attribute": {
+      "f, q, v": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "f": [
+          147,
+          165,
+          162,
+          177
+        ],
+        "q": [
+          98,
+          324,
+          119,
+          336
+        ],
+        "v": [
+          410,
+          321,
+          428,
+          333
+        ]
+      },
+      "scalene triangle": {
+        "f, q, v": [
+          113,
+          184,
+          398,
+          327
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_29": {
+    "image_path": "images/final_construction_sample_29.png",
+    "attribute": {
+      "i, l, o, v": "circle"
+    },
+    "bbox": {
+      "text": {
+        "l": [
+          383,
+          347,
+          398,
+          372
+        ],
+        "o": [
+          310,
+          84,
+          331,
+          109
+        ],
+        "i": [
+          234,
+          411,
+          241,
+          436
+        ],
+        "v": [
+          93,
+          224,
+          111,
+          249
+        ]
+      },
+      "circle": {
+        "i, l, o, v": [
+          113,
+          114,
+          397,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_30": {
+    "image_path": "images/final_construction_sample_30.png",
+    "attribute": {
+      "h, l, m, s": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "h": [
+          281,
+          124,
+          301,
+          142
+        ],
+        "m": [
+          99,
+          207,
+          122,
+          225
+        ],
+        "l": [
+          276,
+          368,
+          291,
+          386
+        ],
+        "s": [
+          416,
+          304,
+          433,
+          322
+        ]
+      },
+      "trapezoid": {
+        "h, l, m, s": [
+          113,
+          152,
+          398,
+          359
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_31": {
+    "image_path": "images/final_construction_sample_31.png",
+    "attribute": {
+      "f, g, k": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "k": [
+          405,
+          201,
+          422,
+          214
+        ],
+        "f": [
+          392,
+          330,
+          407,
+          343
+        ],
+        "g": [
+          103,
+          169,
+          123,
+          182
+        ]
+      },
+      "right triangle": {
+        "f, g, k": [
+          113,
+          182,
+          398,
+          329
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_32": {
+    "image_path": "images/final_construction_sample_32.png",
+    "attribute": {
+      "b, c, f, j": "circle"
+    },
+    "bbox": {
+      "text": {
+        "j": [
+          81,
+          273,
+          88,
+          298
+        ],
+        "b": [
+          416,
+          287,
+          434,
+          312
+        ],
+        "f": [
+          194,
+          84,
+          209,
+          109
+        ],
+        "c": [
+          220,
+          410,
+          238,
+          435
+        ]
+      },
+      "circle": {
+        "b, c, f, j": [
+          113,
+          114,
+          397,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_33": {
+    "image_path": "images/final_construction_sample_33.png",
+    "attribute": {
+      "b, o, p, w": "circle"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          406,
+          313,
+          424,
+          338
+        ],
+        "w": [
+          197,
+          83,
+          223,
+          108
+        ],
+        "o": [
+          348,
+          377,
+          369,
+          402
+        ],
+        "p": [
+          258,
+          232,
+          274,
+          257
+        ]
+      },
+      "circle": {
+        "b, o, p, w": [
+          113,
+          114,
+          397,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_34": {
+    "image_path": "images/final_construction_sample_34.png",
+    "attribute": {
+      "d, j, y": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "y": [
+          98,
+          105,
+          114,
+          127
+        ],
+        "d": [
+          411,
+          107,
+          431,
+          129
+        ],
+        "j": [
+          260,
+          383,
+          267,
+          405
+        ]
+      },
+      "equilateral triangle": {
+        "d, j, y": [
+          113,
+          132,
+          398,
+          379
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_35": {
+    "image_path": "images/final_construction_sample_35.png",
+    "attribute": {
+      "d, r, v, w": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          396,
+          337,
+          411,
+          362
+        ],
+        "r": [
+          248,
+          77,
+          263,
+          102
+        ],
+        "d": [
+          118,
+          170,
+          135,
+          195
+        ],
+        "w": [
+          261,
+          405,
+          283,
+          430
+        ]
+      },
+      "equilateral quadrilateral": {
+        "d, r, v, w": [
+          135,
+          113,
+          376,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_36": {
+    "image_path": "images/final_construction_sample_36.png",
+    "attribute": {
+      "j, o, y": "circle"
+    },
+    "bbox": {
+      "text": {
+        "j": [
+          423,
+          241,
+          430,
+          266
+        ],
+        "o": [
+          258,
+          232,
+          279,
+          257
+        ],
+        "y": [
+          306,
+          83,
+          322,
+          108
+        ]
+      },
+      "circle": {
+        "j, o, y": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_37": {
+    "image_path": "images/final_construction_sample_37.png",
+    "attribute": {
+      "l, o, u, x": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "x": [
+          340,
+          333,
+          349,
+          358
+        ],
+        "u": [
+          326,
+          236,
+          336,
+          261
+        ],
+        "l": [
+          262,
+          82,
+          269,
+          107
+        ],
+        "o": [
+          168,
+          392,
+          178,
+          417
+        ]
+      },
+      "quadrangle": {
+        "l, o, u, x": [
+          183,
+          113,
+          328,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_38": {
+    "image_path": "images/final_construction_sample_38.png",
+    "attribute": {
+      "d, f, h, m": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "h": [
+          416,
+          268,
+          436,
+          287
+        ],
+        "m": [
+          264,
+          363,
+          287,
+          382
+        ],
+        "f": [
+          88,
+          273,
+          103,
+          292
+        ],
+        "d": [
+          324,
+          123,
+          344,
+          142
+        ]
+      },
+      "right trapezoid": {
+        "d, f, h, m": [
+          113,
+          151,
+          398,
+          360
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_39": {
+    "image_path": "images/final_construction_sample_39.png",
+    "attribute": {
+      "m, p, t, x": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "t": [
+          189,
+          83,
+          198,
+          108
+        ],
+        "p": [
+          158,
+          232,
+          166,
+          257
+        ],
+        "x": [
+          300,
+          391,
+          310,
+          416
+        ],
+        "m": [
+          343,
+          108,
+          355,
+          133
+        ]
+      },
+      "right trapezoid": {
+        "m, p, t, x": [
+          176,
+          113,
+          335,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_40": {
+    "image_path": "images/final_construction_sample_40.png",
+    "attribute": {
+      "g, i, t, x": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          136,
+          399,
+          141,
+          424
+        ],
+        "x": [
+          156,
+          173,
+          169,
+          198
+        ],
+        "g": [
+          364,
+          82,
+          378,
+          107
+        ],
+        "t": [
+          368,
+          272,
+          379,
+          297
+        ]
+      },
+      "quadrangle": {
+        "g, i, t, x": [
+          154,
+          113,
+          357,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_41": {
+    "image_path": "images/final_construction_sample_41.png",
+    "attribute": {
+      "e, p, s, w, y": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          390,
+          356,
+          403,
+          381
+        ],
+        "w": [
+          369,
+          84,
+          390,
+          109
+        ],
+        "p": [
+          176,
+          79,
+          189,
+          104
+        ],
+        "y": [
+          112,
+          324,
+          125,
+          349
+        ],
+        "e": [
+          229,
+          405,
+          242,
+          430
+        ]
+      },
+      "pentagon": {
+        "e, p, s, w, y": [
+          139,
+          113,
+          372,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_42": {
+    "image_path": "images/final_construction_sample_42.png",
+    "attribute": {
+      "b, g, i, j": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          151,
+          157,
+          171,
+          171
+        ],
+        "j": [
+          96,
+          295,
+          103,
+          309
+        ],
+        "i": [
+          339,
+          335,
+          346,
+          349
+        ],
+        "b": [
+          407,
+          218,
+          425,
+          232
+        ]
+      },
+      "quadrangle": {
+        "b, g, i, j": [
+          113,
+          178,
+          398,
+          333
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_43": {
+    "image_path": "images/final_construction_sample_43.png",
+    "attribute": {
+      "e, q, t, z": "square"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          90,
+          405,
+          106,
+          430
+        ],
+        "t": [
+          418,
+          392,
+          434,
+          417
+        ],
+        "q": [
+          406,
+          80,
+          427,
+          105
+        ],
+        "z": [
+          99,
+          83,
+          117,
+          108
+        ]
+      },
+      "square": {
+        "e, q, t, z": [
+          113,
+          113,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_44": {
+    "image_path": "images/final_construction_sample_44.png",
+    "attribute": {
+      "b, l, r, t": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          414,
+          285,
+          432,
+          301
+        ],
+        "l": [
+          262,
+          357,
+          277,
+          373
+        ],
+        "t": [
+          100,
+          252,
+          116,
+          268
+        ],
+        "r": [
+          343,
+          138,
+          361,
+          154
+        ]
+      },
+      "right trapezoid": {
+        "b, l, r, t": [
+          113,
+          163,
+          398,
+          348
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_45": {
+    "image_path": "images/final_construction_sample_45.png",
+    "attribute": {
+      "d, h, p": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "h": [
+          147,
+          395,
+          159,
+          420
+        ],
+        "d": [
+          361,
+          387,
+          374,
+          412
+        ],
+        "p": [
+          168,
+          80,
+          178,
+          105
+        ]
+      },
+      "scalene triangle": {
+        "d, h, p": [
+          165,
+          113,
+          346,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_46": {
+    "image_path": "images/final_construction_sample_46.png",
+    "attribute": {
+      "q, s": "segment"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          410,
+          92,
+          431,
+          116
+        ],
+        "s": [
+          87,
+          395,
+          104,
+          419
+        ]
+      },
+      "segment": {
+        "q, s": [
+          113,
+          122,
+          398,
+          389
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_47": {
+    "image_path": "images/final_construction_sample_47.png",
+    "attribute": {
+      "a, g, l, v": "circle"
+    },
+    "bbox": {
+      "text": {
+        "a": [
+          122,
+          142,
+          140,
+          167
+        ],
+        "l": [
+          204,
+          407,
+          218,
+          432
+        ],
+        "v": [
+          138,
+          373,
+          156,
+          398
+        ],
+        "g": [
+          345,
+          103,
+          365,
+          128
+        ]
+      },
+      "circle": {
+        "a, g, l, v": [
+          113,
+          114,
+          397,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_48": {
+    "image_path": "images/final_construction_sample_48.png",
+    "attribute": {
+      "a, k, o, y": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "y": [
+          125,
+          376,
+          141,
+          397
+        ],
+        "a": [
+          98,
+          212,
+          116,
+          233
+        ],
+        "o": [
+          385,
+          109,
+          406,
+          130
+        ],
+        "k": [
+          414,
+          371,
+          431,
+          392
+        ]
+      },
+      "quadrangle": {
+        "a, k, o, y": [
+          113,
+          139,
+          398,
+          372
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_49": {
+    "image_path": "images/final_construction_sample_49.png",
+    "attribute": {
+      "e, h, i, r": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "r": [
+          269,
+          75,
+          286,
+          100
+        ],
+        "h": [
+          415,
+          313,
+          434,
+          338
+        ],
+        "i": [
+          214,
+          409,
+          221,
+          434
+        ],
+        "e": [
+          100,
+          209,
+          116,
+          234
+        ]
+      },
+      "equilateral quadrilateral": {
+        "e, h, i, r": [
+          119,
+          113,
+          392,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_50": {
+    "image_path": "images/final_construction_sample_50.png",
+    "attribute": {
+      "b, i, t": "circle"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          258,
+          232,
+          276,
+          257
+        ],
+        "t": [
+          405,
+          177,
+          421,
+          202
+        ],
+        "i": [
+          105,
+          173,
+          112,
+          198
+        ]
+      },
+      "circle": {
+        "b, i, t": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_51": {
+    "image_path": "images/final_construction_sample_51.png",
+    "attribute": {
+      "e, p, s": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          412,
+          219,
+          429,
+          240
+        ],
+        "p": [
+          332,
+          378,
+          348,
+          399
+        ],
+        "e": [
+          99,
+          111,
+          115,
+          132
+        ]
+      },
+      "scalene triangle": {
+        "e, p, s": [
+          113,
+          137,
+          398,
+          374
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_52": {
+    "image_path": "images/final_construction_sample_52.png",
+    "attribute": {
+      "c, l, t, x": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "c": [
+          117,
+          129,
+          135,
+          147
+        ],
+        "l": [
+          93,
+          341,
+          108,
+          359
+        ],
+        "x": [
+          398,
+          356,
+          416,
+          374
+        ],
+        "t": [
+          407,
+          151,
+          423,
+          169
+        ]
+      },
+      "rectangle": {
+        "c, l, t, x": [
+          113,
+          155,
+          398,
+          356
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_53": {
+    "image_path": "images/final_construction_sample_53.png",
+    "attribute": {
+      "b, d, e, h, y": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          414,
+          249,
+          432,
+          272
+        ],
+        "y": [
+          290,
+          386,
+          306,
+          409
+        ],
+        "h": [
+          160,
+          373,
+          180,
+          396
+        ],
+        "d": [
+          83,
+          264,
+          103,
+          287
+        ],
+        "e": [
+          155,
+          93,
+          171,
+          116
+        ]
+      },
+      "pentagon": {
+        "b, d, e, h, y": [
+          113,
+          129,
+          398,
+          382
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_54": {
+    "image_path": "images/final_construction_sample_54.png",
+    "attribute": {
+      "q, u": "segment"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          415,
+          376,
+          436,
+          398
+        ],
+        "u": [
+          100,
+          104,
+          119,
+          126
+        ]
+      },
+      "segment": {
+        "q, u": [
+          113,
+          133,
+          398,
+          378
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_55": {
+    "image_path": "images/final_construction_sample_55.png",
+    "attribute": {
+      "e, h, m, w": "isosceles trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          352,
+          99,
+          362,
+          124
+        ],
+        "w": [
+          159,
+          83,
+          175,
+          108
+        ],
+        "m": [
+          163,
+          386,
+          177,
+          411
+        ],
+        "h": [
+          299,
+          390,
+          311,
+          415
+        ]
+      },
+      "isosceles trapezoid": {
+        "e, h, m, w": [
+          168,
+          113,
+          343,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_56": {
+    "image_path": "images/final_construction_sample_56.png",
+    "attribute": {
+      "a, i, l": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "a": [
+          99,
+          83,
+          117,
+          108
+        ],
+        "l": [
+          268,
+          407,
+          283,
+          432
+        ],
+        "i": [
+          415,
+          253,
+          422,
+          278
+        ]
+      },
+      "isosceles triangle": {
+        "a, i, l": [
+          113,
+          117,
+          398,
+          394
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_57": {
+    "image_path": "images/final_construction_sample_57.png",
+    "attribute": {
+      "c, h, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "h": [
+          258,
+          232,
+          278,
+          257
+        ],
+        "z": [
+          221,
+          410,
+          239,
+          435
+        ],
+        "c": [
+          422,
+          258,
+          440,
+          283
+        ]
+      },
+      "circle": {
+        "c, h, z": [
+          113,
+          114,
+          397,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_59": {
+    "image_path": "images/final_construction_sample_59.png",
+    "attribute": {
+      "e, f, h, l": "circle"
+    },
+    "bbox": {
+      "text": {
+        "l": [
+          86,
+          296,
+          100,
+          321
+        ],
+        "f": [
+          314,
+          86,
+          329,
+          111
+        ],
+        "e": [
+          263,
+          403,
+          279,
+          428
+        ],
+        "h": [
+          258,
+          232,
+          278,
+          257
+        ]
+      },
+      "circle": {
+        "e, f, h, l": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_60": {
+    "image_path": "images/final_construction_sample_60.png",
+    "attribute": {
+      "d, e, g, m": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          86,
+          268,
+          106,
+          288
+        ],
+        "m": [
+          212,
+          109,
+          235,
+          129
+        ],
+        "e": [
+          411,
+          147,
+          427,
+          167
+        ],
+        "d": [
+          243,
+          374,
+          263,
+          394
+        ]
+      },
+      "right trapezoid": {
+        "d, e, g, m": [
+          113,
+          141,
+          398,
+          370
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_61": {
+    "image_path": "images/final_construction_sample_61.png",
+    "attribute": {
+      "h, u, y": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "h": [
+          127,
+          344,
+          141,
+          369
+        ],
+        "u": [
+          204,
+          77,
+          218,
+          102
+        ],
+        "y": [
+          377,
+          390,
+          389,
+          415
+        ]
+      },
+      "right triangle": {
+        "h, u, y": [
+          150,
+          113,
+          361,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_62": {
+    "image_path": "images/final_construction_sample_62.png",
+    "attribute": {
+      "g, h, k, s": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          344,
+          392,
+          357,
+          417
+        ],
+        "s": [
+          363,
+          286,
+          373,
+          311
+        ],
+        "h": [
+          339,
+          81,
+          351,
+          106
+        ],
+        "k": [
+          143,
+          304,
+          154,
+          329
+        ]
+      },
+      "quadrangle": {
+        "g, h, k, s": [
+          164,
+          113,
+          347,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_63": {
+    "image_path": "images/final_construction_sample_63.png",
+    "attribute": {
+      "i, n, p": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          333,
+          388,
+          341,
+          413
+        ],
+        "n": [
+          166,
+          372,
+          176,
+          397
+        ],
+        "i": [
+          330,
+          83,
+          333,
+          108
+        ]
+      },
+      "scalene triangle": {
+        "i, n, p": [
+          182,
+          113,
+          329,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_64": {
+    "image_path": "images/final_construction_sample_64.png",
+    "attribute": {
+      "h, y, z": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "y": [
+          88,
+          371,
+          104,
+          391
+        ],
+        "h": [
+          416,
+          318,
+          436,
+          338
+        ],
+        "z": [
+          293,
+          112,
+          311,
+          132
+        ]
+      },
+      "isosceles triangle": {
+        "h, y, z": [
+          113,
+          143,
+          398,
+          368
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_65": {
+    "image_path": "images/final_construction_sample_65.png",
+    "attribute": {
+      "a, e, p, x": "square"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          204,
+          73,
+          220,
+          98
+        ],
+        "a": [
+          80,
+          300,
+          98,
+          325
+        ],
+        "x": [
+          313,
+          402,
+          331,
+          427
+        ],
+        "e": [
+          415,
+          185,
+          431,
+          210
+        ]
+      },
+      "square": {
+        "a, e, p, x": [
+          113,
+          113,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_66": {
+    "image_path": "images/final_construction_sample_66.png",
+    "attribute": {
+      "e, k, n": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "n": [
+          134,
+          385,
+          154,
+          407
+        ],
+        "e": [
+          104,
+          102,
+          120,
+          124
+        ],
+        "k": [
+          419,
+          325,
+          436,
+          347
+        ]
+      },
+      "right triangle": {
+        "e, k, n": [
+          113,
+          134,
+          398,
+          377
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_67": {
+    "image_path": "images/final_construction_sample_67.png",
+    "attribute": {
+      "b, n, y": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "n": [
+          361,
+          189,
+          381,
+          198
+        ],
+        "y": [
+          101,
+          307,
+          117,
+          316
+        ],
+        "b": [
+          406,
+          292,
+          424,
+          301
+        ]
+      },
+      "right triangle": {
+        "b, n, y": [
+          113,
+          203,
+          398,
+          308
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_68": {
+    "image_path": "images/final_construction_sample_68.png",
+    "attribute": {
+      "i, k, r": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "k": [
+          209,
+          376,
+          226,
+          397
+        ],
+        "r": [
+          409,
+          112,
+          427,
+          133
+        ],
+        "i": [
+          96,
+          279,
+          103,
+          300
+        ]
+      },
+      "right triangle": {
+        "i, k, r": [
+          113,
+          138,
+          398,
+          373
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_69": {
+    "image_path": "images/final_construction_sample_69.png",
+    "attribute": {
+      "i, o, p, u": "isosceles trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          88,
+          267,
+          107,
+          287
+        ],
+        "p": [
+          163,
+          115,
+          179,
+          135
+        ],
+        "i": [
+          411,
+          240,
+          418,
+          260
+        ],
+        "o": [
+          359,
+          368,
+          380,
+          388
+        ]
+      },
+      "isosceles trapezoid": {
+        "i, o, p, u": [
+          113,
+          146,
+          398,
+          365
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_70": {
+    "image_path": "images/final_construction_sample_70.png",
+    "attribute": {
+      "c, d, f, n, s": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          94,
+          189,
+          114,
+          213
+        ],
+        "f": [
+          205,
+          399,
+          220,
+          423
+        ],
+        "s": [
+          408,
+          315,
+          425,
+          339
+        ],
+        "n": [
+          411,
+          158,
+          431,
+          182
+        ],
+        "c": [
+          160,
+          87,
+          178,
+          111
+        ]
+      },
+      "pentagon": {
+        "c, d, f, n, s": [
+          113,
+          124,
+          398,
+          387
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_71": {
+    "image_path": "images/final_construction_sample_71.png",
+    "attribute": {
+      "h, j, m, q": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          138,
+          91,
+          153,
+          116
+        ],
+        "h": [
+          198,
+          236,
+          212,
+          261
+        ],
+        "m": [
+          365,
+          395,
+          381,
+          420
+        ],
+        "j": [
+          369,
+          83,
+          374,
+          108
+        ]
+      },
+      "quadrangle": {
+        "h, j, m, q": [
+          151,
+          113,
+          360,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_72": {
+    "image_path": "images/final_construction_sample_72.png",
+    "attribute": {
+      "b, c, e, g, l": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          174,
+          408,
+          190,
+          433
+        ],
+        "b": [
+          102,
+          269,
+          119,
+          294
+        ],
+        "l": [
+          289,
+          73,
+          303,
+          98
+        ],
+        "c": [
+          392,
+          124,
+          409,
+          149
+        ],
+        "g": [
+          410,
+          360,
+          429,
+          385
+        ]
+      },
+      "pentagon": {
+        "b, c, e, g, l": [
+          121,
+          113,
+          390,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_73": {
+    "image_path": "images/final_construction_sample_73.png",
+    "attribute": {
+      "e, f, r, s, z": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          285,
+          76,
+          299,
+          101
+        ],
+        "r": [
+          145,
+          127,
+          161,
+          152
+        ],
+        "f": [
+          103,
+          308,
+          116,
+          333
+        ],
+        "e": [
+          307,
+          398,
+          321,
+          423
+        ],
+        "z": [
+          395,
+          143,
+          411,
+          168
+        ]
+      },
+      "pentagon": {
+        "e, f, r, s, z": [
+          131,
+          113,
+          380,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_74": {
+    "image_path": "images/final_construction_sample_74.png",
+    "attribute": {
+      "i, o, r": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "o": [
+          234,
+          385,
+          255,
+          406
+        ],
+        "i": [
+          413,
+          273,
+          420,
+          294
+        ],
+        "r": [
+          101,
+          108,
+          119,
+          129
+        ]
+      },
+      "right triangle": {
+        "i, o, r": [
+          113,
+          137,
+          398,
+          374
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_75": {
+    "image_path": "images/final_construction_sample_75.png",
+    "attribute": {
+      "g, k, m, u": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "m": [
+          189,
+          147,
+          212,
+          162
+        ],
+        "k": [
+          93,
+          255,
+          110,
+          270
+        ],
+        "u": [
+          409,
+          340,
+          428,
+          355
+        ],
+        "g": [
+          382,
+          186,
+          402,
+          201
+        ]
+      },
+      "equilateral quadrilateral": {
+        "g, k, m, u": [
+          113,
+          171,
+          398,
+          340
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_76": {
+    "image_path": "images/final_construction_sample_76.png",
+    "attribute": {
+      "c, k, q, s, z": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          330,
+          82,
+          346,
+          107
+        ],
+        "q": [
+          177,
+          76,
+          197,
+          101
+        ],
+        "c": [
+          85,
+          321,
+          103,
+          346
+        ],
+        "z": [
+          293,
+          401,
+          310,
+          426
+        ],
+        "k": [
+          412,
+          188,
+          429,
+          213
+        ]
+      },
+      "pentagon": {
+        "c, k, q, s, z": [
+          117,
+          113,
+          394,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_77": {
+    "image_path": "images/final_construction_sample_77.png",
+    "attribute": {
+      "c, h, o": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "h": [
+          410,
+          80,
+          430,
+          105
+        ],
+        "o": [
+          94,
+          85,
+          115,
+          110
+        ],
+        "c": [
+          410,
+          401,
+          428,
+          426
+        ]
+      },
+      "right triangle": {
+        "c, h, o": [
+          113,
+          113,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_78": {
+    "image_path": "images/final_construction_sample_78.png",
+    "attribute": {
+      "j, m, w, y": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "y": [
+          164,
+          303,
+          172,
+          328
+        ],
+        "j": [
+          265,
+          390,
+          269,
+          415
+        ],
+        "w": [
+          337,
+          87,
+          350,
+          112
+        ],
+        "m": [
+          204,
+          94,
+          216,
+          119
+        ]
+      },
+      "quadrangle": {
+        "j, m, w, y": [
+          181,
+          113,
+          330,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_79": {
+    "image_path": "images/final_construction_sample_79.png",
+    "attribute": {
+      "d, j, m, v": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          414,
+          191,
+          434,
+          215
+        ],
+        "m": [
+          303,
+          391,
+          326,
+          415
+        ],
+        "j": [
+          83,
+          348,
+          90,
+          372
+        ],
+        "v": [
+          246,
+          85,
+          264,
+          109
+        ]
+      },
+      "right trapezoid": {
+        "d, j, m, v": [
+          113,
+          123,
+          398,
+          388
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_80": {
+    "image_path": "images/final_construction_sample_80.png",
+    "attribute": {
+      "g, j, p": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "j": [
+          158,
+          397,
+          163,
+          422
+        ],
+        "g": [
+          371,
+          374,
+          385,
+          399
+        ],
+        "p": [
+          152,
+          79,
+          163,
+          104
+        ]
+      },
+      "right triangle": {
+        "g, j, p": [
+          157,
+          113,
+          354,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_81": {
+    "image_path": "images/final_construction_sample_81.png",
+    "attribute": {
+      "e, n, t": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "t": [
+          332,
+          101,
+          340,
+          126
+        ],
+        "n": [
+          178,
+          86,
+          187,
+          111
+        ],
+        "e": [
+          261,
+          389,
+          269,
+          414
+        ]
+      },
+      "scalene triangle": {
+        "e, n, t": [
+          186,
+          113,
+          325,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_82": {
+    "image_path": "images/final_construction_sample_82.png",
+    "attribute": {
+      "b, g, x": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          341,
+          116,
+          361,
+          136
+        ],
+        "b": [
+          97,
+          190,
+          115,
+          210
+        ],
+        "x": [
+          412,
+          367,
+          430,
+          387
+        ]
+      },
+      "right triangle": {
+        "b, g, x": [
+          113,
+          145,
+          398,
+          366
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_83": {
+    "image_path": "images/final_construction_sample_83.png",
+    "attribute": {
+      "b, g, i, l": "circle"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          422,
+          259,
+          429,
+          284
+        ],
+        "g": [
+          207,
+          80,
+          227,
+          105
+        ],
+        "l": [
+          353,
+          108,
+          368,
+          133
+        ],
+        "b": [
+          88,
+          300,
+          106,
+          325
+        ]
+      },
+      "circle": {
+        "b, g, i, l": [
+          113,
+          114,
+          397,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_84": {
+    "image_path": "images/final_construction_sample_84.png",
+    "attribute": {
+      "n, o, w, z": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "w": [
+          387,
+          141,
+          409,
+          166
+        ],
+        "o": [
+          304,
+          396,
+          321,
+          421
+        ],
+        "n": [
+          111,
+          341,
+          127,
+          366
+        ],
+        "z": [
+          211,
+          77,
+          226,
+          102
+        ]
+      },
+      "rectangle": {
+        "n, o, w, z": [
+          138,
+          113,
+          373,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_85": {
+    "image_path": "images/final_construction_sample_85.png",
+    "attribute": {
+      "e, f, u, v": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          238,
+          411,
+          254,
+          436
+        ],
+        "f": [
+          421,
+          244,
+          436,
+          269
+        ],
+        "v": [
+          321,
+          75,
+          339,
+          100
+        ],
+        "u": [
+          96,
+          192,
+          115,
+          217
+        ]
+      },
+      "quadrangle": {
+        "e, f, u, v": [
+          115,
+          113,
+          396,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_86": {
+    "image_path": "images/final_construction_sample_86.png",
+    "attribute": {
+      "b, g, h, w, x": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          412,
+          167,
+          430,
+          192
+        ],
+        "g": [
+          408,
+          316,
+          428,
+          341
+        ],
+        "x": [
+          249,
+          406,
+          267,
+          431
+        ],
+        "w": [
+          80,
+          219,
+          106,
+          244
+        ],
+        "h": [
+          179,
+          79,
+          199,
+          104
+        ]
+      },
+      "pentagon": {
+        "b, g, h, w, x": [
+          113,
+          118,
+          398,
+          393
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_87": {
+    "image_path": "images/final_construction_sample_87.png",
+    "attribute": {
+      "r, t, v": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "r": [
+          95,
+          168,
+          113,
+          192
+        ],
+        "t": [
+          340,
+          393,
+          356,
+          417
+        ],
+        "v": [
+          409,
+          91,
+          427,
+          115
+        ]
+      },
+      "isosceles triangle": {
+        "r, t, v": [
+          113,
+          122,
+          398,
+          389
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_88": {
+    "image_path": "images/final_construction_sample_88.png",
+    "attribute": {
+      "a, b, g, h": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "a": [
+          285,
+          360,
+          303,
+          378
+        ],
+        "h": [
+          89,
+          252,
+          109,
+          270
+        ],
+        "b": [
+          209,
+          125,
+          227,
+          143
+        ],
+        "g": [
+          411,
+          253,
+          431,
+          271
+        ]
+      },
+      "quadrangle": {
+        "a, b, g, h": [
+          113,
+          154,
+          398,
+          357
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_90": {
+    "image_path": "images/final_construction_sample_90.png",
+    "attribute": {
+      "g, q, t": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          98,
+          105,
+          119,
+          127
+        ],
+        "t": [
+          411,
+          107,
+          427,
+          129
+        ],
+        "g": [
+          260,
+          383,
+          280,
+          405
+        ]
+      },
+      "equilateral triangle": {
+        "g, q, t": [
+          113,
+          132,
+          398,
+          379
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_91": {
+    "image_path": "images/final_construction_sample_91.png",
+    "attribute": {
+      "o, p, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "o": [
+          258,
+          232,
+          279,
+          257
+        ],
+        "z": [
+          370,
+          124,
+          388,
+          149
+        ],
+        "p": [
+          120,
+          357,
+          136,
+          382
+        ]
+      },
+      "circle": {
+        "o, p, z": [
+          113,
+          114,
+          397,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_92": {
+    "image_path": "images/final_construction_sample_92.png",
+    "attribute": {
+      "i, q, v, w, y": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "y": [
+          412,
+          315,
+          427,
+          340
+        ],
+        "q": [
+          401,
+          152,
+          421,
+          177
+        ],
+        "i": [
+          214,
+          74,
+          221,
+          99
+        ],
+        "v": [
+          89,
+          293,
+          106,
+          318
+        ],
+        "w": [
+          218,
+          409,
+          243,
+          434
+        ]
+      },
+      "pentagon": {
+        "i, q, v, w, y": [
+          121,
+          113,
+          390,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_93": {
+    "image_path": "images/final_construction_sample_93.png",
+    "attribute": {
+      "e, p, y": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          213,
+          360,
+          229,
+          377
+        ],
+        "p": [
+          415,
+          346,
+          431,
+          363
+        ],
+        "y": [
+          104,
+          134,
+          120,
+          151
+        ]
+      },
+      "scalene triangle": {
+        "e, p, y": [
+          113,
+          159,
+          398,
+          352
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_94": {
+    "image_path": "images/final_construction_sample_94.png",
+    "attribute": {
+      "p, s": "segment"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          405,
+          293,
+          421,
+          300
+        ],
+        "s": [
+          108,
+          207,
+          125,
+          214
+        ]
+      },
+      "segment": {
+        "p, s": [
+          113,
+          215,
+          398,
+          296
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_95": {
+    "image_path": "images/final_construction_sample_95.png",
+    "attribute": {
+      "b, c, n, y": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "c": [
+          242,
+          398,
+          260,
+          421
+        ],
+        "n": [
+          141,
+          267,
+          161,
+          290
+        ],
+        "y": [
+          102,
+          91,
+          118,
+          114
+        ],
+        "b": [
+          421,
+          313,
+          439,
+          336
+        ]
+      },
+      "quadrangle": {
+        "b, c, n, y": [
+          113,
+          125,
+          398,
+          386
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_96": {
+    "image_path": "images/final_construction_sample_96.png",
+    "attribute": {
+      "g, k, n, t": "circle"
+    },
+    "bbox": {
+      "text": {
+        "n": [
+          390,
+          148,
+          410,
+          173
+        ],
+        "k": [
+          402,
+          320,
+          419,
+          345
+        ],
+        "t": [
+          418,
+          281,
+          434,
+          306
+        ],
+        "g": [
+          101,
+          183,
+          121,
+          208
+        ]
+      },
+      "circle": {
+        "g, k, n, t": [
+          114,
+          113,
+          398,
+          397
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_97": {
+    "image_path": "images/final_construction_sample_97.png",
+    "attribute": {
+      "d, g, m": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          413,
+          339,
+          433,
+          355
+        ],
+        "g": [
+          94,
+          298,
+          114,
+          314
+        ],
+        "m": [
+          167,
+          142,
+          190,
+          158
+        ]
+      },
+      "isosceles triangle": {
+        "d, g, m": [
+          113,
+          167,
+          398,
+          344
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_98": {
+    "image_path": "images/final_construction_sample_98.png",
+    "attribute": {
+      "i, j, l, t": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "t": [
+          337,
+          334,
+          353,
+          348
+        ],
+        "i": [
+          95,
+          282,
+          102,
+          296
+        ],
+        "j": [
+          283,
+          156,
+          290,
+          170
+        ],
+        "l": [
+          407,
+          189,
+          421,
+          203
+        ]
+      },
+      "trapezoid": {
+        "i, j, l, t": [
+          113,
+          178,
+          398,
+          333
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_99": {
+    "image_path": "images/final_construction_sample_99.png",
+    "attribute": {
+      "a, b": "segment"
+    },
+    "bbox": {
+      "text": {
+        "a": [
+          132,
+          399,
+          145,
+          424
+        ],
+        "b": [
+          368,
+          82,
+          381,
+          107
+        ]
+      },
+      "segment": {
+        "a, b": [
+          151,
+          113,
+          360,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_100": {
+    "image_path": "images/final_construction_sample_100.png",
+    "attribute": {
+      "g, o, r, w": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          412,
+          131,
+          432,
+          154
+        ],
+        "r": [
+          100,
+          97,
+          118,
+          120
+        ],
+        "w": [
+          145,
+          384,
+          171,
+          407
+        ],
+        "o": [
+          315,
+          385,
+          336,
+          408
+        ]
+      },
+      "equilateral quadrilateral": {
+        "g, o, r, w": [
+          113,
+          128,
+          398,
+          383
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_101": {
+    "image_path": "images/final_construction_sample_101.png",
+    "attribute": {
+      "i, o, v, x": "circle"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          187,
+          87,
+          205,
+          112
+        ],
+        "x": [
+          98,
+          324,
+          116,
+          349
+        ],
+        "o": [
+          80,
+          268,
+          101,
+          293
+        ],
+        "i": [
+          258,
+          232,
+          265,
+          257
+        ]
+      },
+      "circle": {
+        "i, o, v, x": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_102": {
+    "image_path": "images/final_construction_sample_102.png",
+    "attribute": {
+      "d, j, l, v": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          110,
+          185,
+          128,
+          203
+        ],
+        "d": [
+          94,
+          365,
+          114,
+          383
+        ],
+        "l": [
+          415,
+          283,
+          429,
+          301
+        ],
+        "j": [
+          316,
+          124,
+          323,
+          142
+        ]
+      },
+      "equilateral quadrilateral": {
+        "d, j, l, v": [
+          113,
+          152,
+          398,
+          359
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_103": {
+    "image_path": "images/final_construction_sample_103.png",
+    "attribute": {
+      "d, e, x": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          423,
+          284,
+          443,
+          309
+        ],
+        "x": [
+          150,
+          75,
+          168,
+          100
+        ],
+        "e": [
+          87,
+          405,
+          103,
+          430
+        ]
+      },
+      "isosceles triangle": {
+        "d, e, x": [
+          113,
+          114,
+          398,
+          397
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_104": {
+    "image_path": "images/final_construction_sample_104.png",
+    "attribute": {
+      "k, x, y": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "x": [
+          98,
+          105,
+          116,
+          127
+        ],
+        "k": [
+          411,
+          107,
+          428,
+          129
+        ],
+        "y": [
+          260,
+          383,
+          276,
+          405
+        ]
+      },
+      "equilateral triangle": {
+        "k, x, y": [
+          113,
+          132,
+          398,
+          379
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_105": {
+    "image_path": "images/final_construction_sample_105.png",
+    "attribute": {
+      "l, y": "segment"
+    },
+    "bbox": {
+      "text": {
+        "y": [
+          282,
+          381,
+          284,
+          406
+        ],
+        "l": [
+          230,
+          89,
+          232,
+          114
+        ]
+      },
+      "segment": {
+        "l, y": [
+          230,
+          113,
+          281,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_106": {
+    "image_path": "images/final_construction_sample_106.png",
+    "attribute": {
+      "f, q, x": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          98,
+          105,
+          119,
+          127
+        ],
+        "x": [
+          411,
+          107,
+          429,
+          129
+        ],
+        "f": [
+          260,
+          383,
+          275,
+          405
+        ]
+      },
+      "equilateral triangle": {
+        "f, q, x": [
+          113,
+          132,
+          398,
+          379
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_107": {
+    "image_path": "images/final_construction_sample_107.png",
+    "attribute": {
+      "d, r, x, y": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          423,
+          279,
+          443,
+          304
+        ],
+        "y": [
+          246,
+          411,
+          262,
+          436
+        ],
+        "r": [
+          79,
+          260,
+          97,
+          285
+        ],
+        "x": [
+          235,
+          72,
+          253,
+          97
+        ]
+      },
+      "equilateral quadrilateral": {
+        "d, r, x, y": [
+          113,
+          113,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_108": {
+    "image_path": "images/final_construction_sample_108.png",
+    "attribute": {
+      "c, l, n, o": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "c": [
+          88,
+          284,
+          106,
+          304
+        ],
+        "o": [
+          243,
+          359,
+          264,
+          379
+        ],
+        "n": [
+          417,
+          364,
+          437,
+          384
+        ],
+        "l": [
+          111,
+          109,
+          126,
+          129
+        ]
+      },
+      "quadrangle": {
+        "c, l, n, o": [
+          113,
+          141,
+          398,
+          370
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_109": {
+    "image_path": "images/final_construction_sample_109.png",
+    "attribute": {
+      "k, n, o, s, x": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "o": [
+          93,
+          224,
+          114,
+          249
+        ],
+        "s": [
+          204,
+          76,
+          221,
+          101
+        ],
+        "x": [
+          412,
+          131,
+          430,
+          156
+        ],
+        "k": [
+          385,
+          396,
+          402,
+          421
+        ],
+        "n": [
+          128,
+          381,
+          148,
+          406
+        ]
+      },
+      "pentagon": {
+        "k, n, o, s, x": [
+          113,
+          116,
+          398,
+          395
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_110": {
+    "image_path": "images/final_construction_sample_110.png",
+    "attribute": {
+      "b, g, l": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          98,
+          105,
+          116,
+          127
+        ],
+        "l": [
+          411,
+          107,
+          426,
+          129
+        ],
+        "g": [
+          260,
+          383,
+          280,
+          405
+        ]
+      },
+      "equilateral triangle": {
+        "b, g, l": [
+          113,
+          132,
+          398,
+          379
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_111": {
+    "image_path": "images/final_construction_sample_111.png",
+    "attribute": {
+      "l, n, t, w": "isosceles trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "w": [
+          369,
+          381,
+          395,
+          404
+        ],
+        "t": [
+          150,
+          395,
+          166,
+          418
+        ],
+        "n": [
+          98,
+          103,
+          117,
+          126
+        ],
+        "l": [
+          410,
+          95,
+          425,
+          118
+        ]
+      },
+      "isosceles trapezoid": {
+        "l, n, t, w": [
+          113,
+          125,
+          398,
+          386
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_112": {
+    "image_path": "images/final_construction_sample_112.png",
+    "attribute": {
+      "b, e, h": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          98,
+          105,
+          114,
+          127
+        ],
+        "h": [
+          411,
+          107,
+          431,
+          129
+        ],
+        "b": [
+          260,
+          383,
+          278,
+          405
+        ]
+      },
+      "equilateral triangle": {
+        "b, e, h": [
+          113,
+          132,
+          398,
+          379
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_113": {
+    "image_path": "images/final_construction_sample_113.png",
+    "attribute": {
+      "h, n, r": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "h": [
+          355,
+          104,
+          375,
+          125
+        ],
+        "r": [
+          412,
+          377,
+          430,
+          398
+        ],
+        "n": [
+          96,
+          191,
+          116,
+          212
+        ]
+      },
+      "isosceles triangle": {
+        "h, n, r": [
+          113,
+          135,
+          398,
+          376
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_114": {
+    "image_path": "images/final_construction_sample_114.png",
+    "attribute": {
+      "c, j, o, v, w": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          310,
+          90,
+          328,
+          113
+        ],
+        "o": [
+          101,
+          160,
+          122,
+          183
+        ],
+        "w": [
+          86,
+          344,
+          112,
+          367
+        ],
+        "j": [
+          358,
+          388,
+          365,
+          411
+        ],
+        "c": [
+          414,
+          215,
+          432,
+          238
+        ]
+      },
+      "pentagon": {
+        "c, j, o, v, w": [
+          113,
+          125,
+          398,
+          386
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_115": {
+    "image_path": "images/final_construction_sample_115.png",
+    "attribute": {
+      "c, l, n, u": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          131,
+          296,
+          144,
+          321
+        ],
+        "c": [
+          291,
+          394,
+          304,
+          419
+        ],
+        "n": [
+          368,
+          155,
+          382,
+          180
+        ],
+        "l": [
+          263,
+          78,
+          273,
+          103
+        ]
+      },
+      "trapezoid": {
+        "c, l, n, u": [
+          155,
+          113,
+          356,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_116": {
+    "image_path": "images/final_construction_sample_116.png",
+    "attribute": {
+      "o, t, u": "circle"
+    },
+    "bbox": {
+      "text": {
+        "t": [
+          258,
+          232,
+          274,
+          257
+        ],
+        "u": [
+          102,
+          182,
+          121,
+          207
+        ],
+        "o": [
+          255,
+          72,
+          276,
+          97
+        ]
+      },
+      "circle": {
+        "o, t, u": [
+          114,
+          113,
+          398,
+          397
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_117": {
+    "image_path": "images/final_construction_sample_117.png",
+    "attribute": {
+      "f, r, s": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "r": [
+          329,
+          176,
+          347,
+          187
+        ],
+        "s": [
+          99,
+          317,
+          116,
+          328
+        ],
+        "f": [
+          408,
+          310,
+          423,
+          321
+        ]
+      },
+      "right triangle": {
+        "f, r, s": [
+          113,
+          193,
+          398,
+          318
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_118": {
+    "image_path": "images/final_construction_sample_118.png",
+    "attribute": {
+      "d, j, w": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          333,
+          86,
+          343,
+          111
+        ],
+        "w": [
+          175,
+          121,
+          188,
+          146
+        ],
+        "j": [
+          254,
+          390,
+          257,
+          415
+        ]
+      },
+      "scalene triangle": {
+        "d, j, w": [
+          184,
+          113,
+          327,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_119": {
+    "image_path": "images/final_construction_sample_119.png",
+    "attribute": {
+      "a, f, j": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "a": [
+          365,
+          171,
+          377,
+          196
+        ],
+        "f": [
+          230,
+          79,
+          240,
+          104
+        ],
+        "j": [
+          142,
+          398,
+          147,
+          423
+        ]
+      },
+      "scalene triangle": {
+        "a, f, j": [
+          159,
+          113,
+          352,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_120": {
+    "image_path": "images/final_construction_sample_120.png",
+    "attribute": {
+      "o, p, r, t": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "o": [
+          412,
+          205,
+          433,
+          226
+        ],
+        "t": [
+          288,
+          142,
+          304,
+          163
+        ],
+        "r": [
+          99,
+          109,
+          117,
+          130
+        ],
+        "p": [
+          311,
+          379,
+          327,
+          400
+        ]
+      },
+      "quadrangle": {
+        "o, p, r, t": [
+          113,
+          136,
+          398,
+          375
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_121": {
+    "image_path": "images/final_construction_sample_121.png",
+    "attribute": {
+      "a, e, g, n": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          303,
+          397,
+          320,
+          422
+        ],
+        "e": [
+          392,
+          141,
+          406,
+          166
+        ],
+        "a": [
+          146,
+          78,
+          161,
+          103
+        ],
+        "n": [
+          107,
+          367,
+          124,
+          392
+        ]
+      },
+      "equilateral quadrilateral": {
+        "a, e, g, n": [
+          133,
+          113,
+          378,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_122": {
+    "image_path": "images/final_construction_sample_122.png",
+    "attribute": {
+      "b, n, s, v": "isosceles trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          416,
+          203,
+          434,
+          228
+        ],
+        "v": [
+          169,
+          408,
+          187,
+          433
+        ],
+        "s": [
+          94,
+          188,
+          111,
+          213
+        ],
+        "n": [
+          232,
+          74,
+          252,
+          99
+        ]
+      },
+      "isosceles trapezoid": {
+        "b, n, s, v": [
+          113,
+          115,
+          398,
+          396
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_124": {
+    "image_path": "images/final_construction_sample_124.png",
+    "attribute": {
+      "c, l, w": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "w": [
+          414,
+          181,
+          440,
+          205
+        ],
+        "l": [
+          100,
+          90,
+          115,
+          114
+        ],
+        "c": [
+          149,
+          399,
+          167,
+          423
+        ]
+      },
+      "isosceles triangle": {
+        "c, l, w": [
+          113,
+          123,
+          398,
+          388
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_125": {
+    "image_path": "images/final_construction_sample_125.png",
+    "attribute": {
+      "a, d, g": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          93,
+          342,
+          113,
+          357
+        ],
+        "a": [
+          411,
+          340,
+          429,
+          355
+        ],
+        "d": [
+          344,
+          145,
+          364,
+          160
+        ]
+      },
+      "scalene triangle": {
+        "a, d, g": [
+          113,
+          169,
+          398,
+          342
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_126": {
+    "image_path": "images/final_construction_sample_126.png",
+    "attribute": {
+      "f, g, r, u": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "r": [
+          355,
+          102,
+          373,
+          124
+        ],
+        "f": [
+          164,
+          157,
+          179,
+          179
+        ],
+        "g": [
+          89,
+          384,
+          109,
+          406
+        ],
+        "u": [
+          418,
+          283,
+          437,
+          305
+        ]
+      },
+      "right trapezoid": {
+        "f, g, r, u": [
+          113,
+          133,
+          398,
+          378
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_127": {
+    "image_path": "images/final_construction_sample_127.png",
+    "attribute": {
+      "d, q, u, x": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          412,
+          326,
+          431,
+          342
+        ],
+        "q": [
+          252,
+          356,
+          273,
+          372
+        ],
+        "d": [
+          101,
+          184,
+          121,
+          200
+        ],
+        "x": [
+          380,
+          140,
+          398,
+          156
+        ]
+      },
+      "right trapezoid": {
+        "d, q, u, x": [
+          113,
+          163,
+          398,
+          348
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_128": {
+    "image_path": "images/final_construction_sample_128.png",
+    "attribute": {
+      "c, g, o": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          167,
+          221,
+          178,
+          246
+        ],
+        "o": [
+          313,
+          390,
+          324,
+          415
+        ],
+        "c": [
+          337,
+          84,
+          347,
+          109
+        ]
+      },
+      "right triangle": {
+        "c, g, o": [
+          178,
+          113,
+          333,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_129": {
+    "image_path": "images/final_construction_sample_129.png",
+    "attribute": {
+      "c, d, s, x": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "x": [
+          177,
+          117,
+          195,
+          136
+        ],
+        "c": [
+          89,
+          302,
+          107,
+          321
+        ],
+        "d": [
+          380,
+          365,
+          400,
+          384
+        ],
+        "s": [
+          411,
+          259,
+          428,
+          278
+        ]
+      },
+      "equilateral quadrilateral": {
+        "c, d, s, x": [
+          113,
+          148,
+          398,
+          363
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_130": {
+    "image_path": "images/final_construction_sample_130.png",
+    "attribute": {
+      "f, m": "segment"
+    },
+    "bbox": {
+      "text": {
+        "f": [
+          312,
+          86,
+          317,
+          111
+        ],
+        "m": [
+          193,
+          389,
+          201,
+          414
+        ]
+      },
+      "segment": {
+        "f, m": [
+          201,
+          113,
+          310,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_131": {
+    "image_path": "images/final_construction_sample_131.png",
+    "attribute": {
+      "i, l, r, u": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "l": [
+          422,
+          258,
+          437,
+          282
+        ],
+        "i": [
+          301,
+          82,
+          308,
+          106
+        ],
+        "u": [
+          94,
+          218,
+          113,
+          242
+        ],
+        "r": [
+          195,
+          404,
+          213,
+          428
+        ]
+      },
+      "rectangle": {
+        "i, l, r, u": [
+          113,
+          119,
+          398,
+          392
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_132": {
+    "image_path": "images/final_construction_sample_132.png",
+    "attribute": {
+      "b, f, k, w": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          267,
+          407,
+          283,
+          432
+        ],
+        "k": [
+          402,
+          299,
+          417,
+          324
+        ],
+        "f": [
+          197,
+          75,
+          210,
+          100
+        ],
+        "w": [
+          113,
+          172,
+          136,
+          197
+        ]
+      },
+      "quadrangle": {
+        "b, f, k, w": [
+          131,
+          113,
+          380,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_133": {
+    "image_path": "images/final_construction_sample_133.png",
+    "attribute": {
+      "g, j, x": "circle"
+    },
+    "bbox": {
+      "text": {
+        "j": [
+          210,
+          408,
+          217,
+          433
+        ],
+        "x": [
+          258,
+          232,
+          276,
+          257
+        ],
+        "g": [
+          406,
+          180,
+          426,
+          205
+        ]
+      },
+      "circle": {
+        "g, j, x": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_134": {
+    "image_path": "images/final_construction_sample_134.png",
+    "attribute": {
+      "a, p, s, x": "square"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          410,
+          87,
+          427,
+          112
+        ],
+        "x": [
+          410,
+          397,
+          428,
+          422
+        ],
+        "p": [
+          85,
+          398,
+          101,
+          423
+        ],
+        "a": [
+          106,
+          78,
+          124,
+          103
+        ]
+      },
+      "square": {
+        "a, p, s, x": [
+          113,
+          113,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_135": {
+    "image_path": "images/final_construction_sample_135.png",
+    "attribute": {
+      "f, k, q": "circle"
+    },
+    "bbox": {
+      "text": {
+        "k": [
+          258,
+          232,
+          275,
+          257
+        ],
+        "f": [
+          277,
+          76,
+          292,
+          101
+        ],
+        "q": [
+          408,
+          185,
+          429,
+          210
+        ]
+      },
+      "circle": {
+        "f, k, q": [
+          113,
+          114,
+          397,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_136": {
+    "image_path": "images/final_construction_sample_136.png",
+    "attribute": {
+      "b, h, j, s": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "j": [
+          333,
+          353,
+          340,
+          370
+        ],
+        "b": [
+          91,
+          313,
+          109,
+          330
+        ],
+        "h": [
+          283,
+          132,
+          303,
+          149
+        ],
+        "s": [
+          409,
+          160,
+          426,
+          177
+        ]
+      },
+      "trapezoid": {
+        "b, h, j, s": [
+          113,
+          159,
+          398,
+          352
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_137": {
+    "image_path": "images/final_construction_sample_137.png",
+    "attribute": {
+      "i, k, v": "circle"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          258,
+          232,
+          276,
+          257
+        ],
+        "i": [
+          131,
+          130,
+          138,
+          155
+        ],
+        "k": [
+          274,
+          402,
+          291,
+          427
+        ]
+      },
+      "circle": {
+        "i, k, v": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_138": {
+    "image_path": "images/final_construction_sample_138.png",
+    "attribute": {
+      "h, l, o, p": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          366,
+          282,
+          382,
+          299
+        ],
+        "h": [
+          93,
+          353,
+          113,
+          370
+        ],
+        "l": [
+          190,
+          193,
+          205,
+          210
+        ],
+        "o": [
+          406,
+          140,
+          427,
+          157
+        ]
+      },
+      "trapezoid": {
+        "h, l, o, p": [
+          113,
+          161,
+          398,
+          350
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_139": {
+    "image_path": "images/final_construction_sample_139.png",
+    "attribute": {
+      "t, u, w, x": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "x": [
+          245,
+          78,
+          258,
+          103
+        ],
+        "w": [
+          357,
+          163,
+          376,
+          188
+        ],
+        "t": [
+          370,
+          394,
+          382,
+          419
+        ],
+        "u": [
+          126,
+          227,
+          140,
+          252
+        ]
+      },
+      "right trapezoid": {
+        "t, u, w, x": [
+          151,
+          113,
+          360,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_140": {
+    "image_path": "images/final_construction_sample_140.png",
+    "attribute": {
+      "c, f, q, y": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "c": [
+          277,
+          130,
+          295,
+          147
+        ],
+        "q": [
+          415,
+          245,
+          436,
+          262
+        ],
+        "y": [
+          199,
+          363,
+          215,
+          380
+        ],
+        "f": [
+          99,
+          260,
+          114,
+          277
+        ]
+      },
+      "trapezoid": {
+        "c, f, q, y": [
+          113,
+          157,
+          398,
+          354
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_141": {
+    "image_path": "images/final_construction_sample_141.png",
+    "attribute": {
+      "c, k, q": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          364,
+          241,
+          377,
+          266
+        ],
+        "c": [
+          147,
+          397,
+          159,
+          422
+        ],
+        "k": [
+          236,
+          79,
+          247,
+          104
+        ]
+      },
+      "right triangle": {
+        "c, k, q": [
+          163,
+          113,
+          348,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_142": {
+    "image_path": "images/final_construction_sample_142.png",
+    "attribute": {
+      "k, m, p, s": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "k": [
+          411,
+          242,
+          428,
+          261
+        ],
+        "s": [
+          315,
+          363,
+          332,
+          382
+        ],
+        "m": [
+          89,
+          337,
+          112,
+          356
+        ],
+        "p": [
+          277,
+          120,
+          293,
+          139
+        ]
+      },
+      "right trapezoid": {
+        "k, m, p, s": [
+          113,
+          151,
+          398,
+          360
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_143": {
+    "image_path": "images/final_construction_sample_143.png",
+    "attribute": {
+      "a, q, w, z": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "a": [
+          91,
+          280,
+          109,
+          297
+        ],
+        "w": [
+          231,
+          359,
+          257,
+          376
+        ],
+        "z": [
+          415,
+          260,
+          433,
+          277
+        ],
+        "q": [
+          222,
+          133,
+          243,
+          150
+        ]
+      },
+      "quadrangle": {
+        "a, q, w, z": [
+          113,
+          161,
+          398,
+          350
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_144": {
+    "image_path": "images/final_construction_sample_144.png",
+    "attribute": {
+      "f, k, m, w": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "w": [
+          230,
+          80,
+          247,
+          105
+        ],
+        "m": [
+          151,
+          214,
+          165,
+          239
+        ],
+        "k": [
+          213,
+          399,
+          224,
+          424
+        ],
+        "f": [
+          358,
+          154,
+          367,
+          179
+        ]
+      },
+      "right trapezoid": {
+        "f, k, m, w": [
+          164,
+          113,
+          347,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_145": {
+    "image_path": "images/final_construction_sample_145.png",
+    "attribute": {
+      "a, o, s, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          420,
+          274,
+          437,
+          299
+        ],
+        "z": [
+          86,
+          295,
+          104,
+          320
+        ],
+        "o": [
+          257,
+          74,
+          278,
+          99
+        ],
+        "a": [
+          316,
+          393,
+          334,
+          418
+        ]
+      },
+      "circle": {
+        "a, o, s, z": [
+          113,
+          114,
+          397,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_146": {
+    "image_path": "images/final_construction_sample_146.png",
+    "attribute": {
+      "m, o, p, v": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          244,
+          75,
+          258,
+          100
+        ],
+        "v": [
+          101,
+          320,
+          117,
+          345
+        ],
+        "m": [
+          272,
+          399,
+          292,
+          424
+        ],
+        "o": [
+          396,
+          164,
+          414,
+          189
+        ]
+      },
+      "rectangle": {
+        "m, o, p, v": [
+          130,
+          113,
+          381,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_147": {
+    "image_path": "images/final_construction_sample_147.png",
+    "attribute": {
+      "i, l, r": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "l": [
+          413,
+          180,
+          428,
+          201
+        ],
+        "i": [
+          148,
+          385,
+          155,
+          406
+        ],
+        "r": [
+          101,
+          107,
+          119,
+          128
+        ]
+      },
+      "isosceles triangle": {
+        "i, l, r": [
+          113,
+          137,
+          398,
+          374
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_148": {
+    "image_path": "images/final_construction_sample_148.png",
+    "attribute": {
+      "e, f, h, n": "circle"
+    },
+    "bbox": {
+      "text": {
+        "f": [
+          180,
+          399,
+          195,
+          424
+        ],
+        "h": [
+          375,
+          355,
+          395,
+          380
+        ],
+        "e": [
+          379,
+          133,
+          395,
+          158
+        ],
+        "n": [
+          177,
+          92,
+          197,
+          117
+        ]
+      },
+      "circle": {
+        "e, f, h, n": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_149": {
+    "image_path": "images/final_construction_sample_149.png",
+    "attribute": {
+      "g, n, w": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "n": [
+          150,
+          398,
+          162,
+          423
+        ],
+        "w": [
+          174,
+          81,
+          191,
+          106
+        ],
+        "g": [
+          359,
+          157,
+          372,
+          182
+        ]
+      },
+      "isosceles triangle": {
+        "g, n, w": [
+          164,
+          113,
+          347,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_150": {
+    "image_path": "images/final_construction_sample_150.png",
+    "attribute": {
+      "c, o, q, v": "circle"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          397,
+          159,
+          418,
+          184
+        ],
+        "c": [
+          180,
+          91,
+          198,
+          116
+        ],
+        "v": [
+          138,
+          374,
+          156,
+          399
+        ],
+        "o": [
+          258,
+          232,
+          279,
+          257
+        ]
+      },
+      "circle": {
+        "c, o, q, v": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_151": {
+    "image_path": "images/final_construction_sample_151.png",
+    "attribute": {
+      "e, p, y": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          98,
+          105,
+          114,
+          127
+        ],
+        "y": [
+          411,
+          107,
+          427,
+          129
+        ],
+        "e": [
+          260,
+          383,
+          276,
+          405
+        ]
+      },
+      "equilateral triangle": {
+        "e, p, y": [
+          113,
+          132,
+          398,
+          379
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_152": {
+    "image_path": "images/final_construction_sample_152.png",
+    "attribute": {
+      "c, d, i, u": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          315,
+          143,
+          334,
+          159
+        ],
+        "d": [
+          411,
+          343,
+          431,
+          359
+        ],
+        "i": [
+          154,
+          314,
+          161,
+          330
+        ],
+        "c": [
+          102,
+          172,
+          120,
+          188
+        ]
+      },
+      "trapezoid": {
+        "c, d, i, u": [
+          113,
+          166,
+          398,
+          345
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_153": {
+    "image_path": "images/final_construction_sample_153.png",
+    "attribute": {
+      "n, p, t, y": "circle"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          218,
+          409,
+          234,
+          434
+        ],
+        "n": [
+          88,
+          301,
+          108,
+          326
+        ],
+        "t": [
+          197,
+          405,
+          213,
+          430
+        ],
+        "y": [
+          413,
+          207,
+          429,
+          232
+        ]
+      },
+      "circle": {
+        "n, p, t, y": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_154": {
+    "image_path": "images/final_construction_sample_154.png",
+    "attribute": {
+      "e, j, w, z": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "z": [
+          119,
+          80,
+          135,
+          105
+        ],
+        "w": [
+          135,
+          404,
+          158,
+          429
+        ],
+        "e": [
+          399,
+          321,
+          413,
+          346
+        ],
+        "j": [
+          357,
+          98,
+          363,
+          123
+        ]
+      },
+      "equilateral quadrilateral": {
+        "e, j, w, z": [
+          132,
+          113,
+          379,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_155": {
+    "image_path": "images/final_construction_sample_155.png",
+    "attribute": {
+      "l, p, r": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "r": [
+          99,
+          326,
+          117,
+          338
+        ],
+        "p": [
+          152,
+          169,
+          168,
+          181
+        ],
+        "l": [
+          410,
+          299,
+          425,
+          311
+        ]
+      },
+      "scalene triangle": {
+        "l, p, r": [
+          113,
+          187,
+          398,
+          324
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_156": {
+    "image_path": "images/final_construction_sample_156.png",
+    "attribute": {
+      "e, k, q": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "k": [
+          161,
+          360,
+          178,
+          377
+        ],
+        "q": [
+          415,
+          347,
+          436,
+          364
+        ],
+        "e": [
+          105,
+          132,
+          121,
+          149
+        ]
+      },
+      "scalene triangle": {
+        "e, k, q": [
+          113,
+          157,
+          398,
+          354
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_157": {
+    "image_path": "images/final_construction_sample_157.png",
+    "attribute": {
+      "h, m, y": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "m": [
+          125,
+          388,
+          148,
+          410
+        ],
+        "h": [
+          104,
+          97,
+          124,
+          119
+        ],
+        "y": [
+          420,
+          336,
+          436,
+          358
+        ]
+      },
+      "right triangle": {
+        "h, m, y": [
+          113,
+          131,
+          398,
+          380
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_158": {
+    "image_path": "images/final_construction_sample_158.png",
+    "attribute": {
+      "m, r, s": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          215,
+          385,
+          232,
+          407
+        ],
+        "r": [
+          418,
+          369,
+          436,
+          391
+        ],
+        "m": [
+          102,
+          103,
+          125,
+          125
+        ]
+      },
+      "scalene triangle": {
+        "m, r, s": [
+          113,
+          135,
+          398,
+          376
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_159": {
+    "image_path": "images/final_construction_sample_159.png",
+    "attribute": {
+      "d, f, j, n": "circle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          94,
+          219,
+          114,
+          244
+        ],
+        "j": [
+          212,
+          78,
+          219,
+          103
+        ],
+        "f": [
+          131,
+          130,
+          146,
+          155
+        ],
+        "n": [
+          258,
+          232,
+          278,
+          257
+        ]
+      },
+      "circle": {
+        "d, f, j, n": [
+          114,
+          113,
+          398,
+          397
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_160": {
+    "image_path": "images/final_construction_sample_160.png",
+    "attribute": {
+      "j, q, t, w": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          153,
+          169,
+          166,
+          194
+        ],
+        "j": [
+          200,
+          268,
+          204,
+          293
+        ],
+        "t": [
+          354,
+          392,
+          364,
+          417
+        ],
+        "w": [
+          331,
+          83,
+          347,
+          108
+        ]
+      },
+      "quadrangle": {
+        "j, q, t, w": [
+          165,
+          113,
+          346,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_161": {
+    "image_path": "images/final_construction_sample_161.png",
+    "attribute": {
+      "s, v": "segment"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          217,
+          87,
+          221,
+          112
+        ],
+        "s": [
+          295,
+          383,
+          299,
+          408
+        ]
+      },
+      "segment": {
+        "s, v": [
+          219,
+          113,
+          292,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_162": {
+    "image_path": "images/final_construction_sample_162.png",
+    "attribute": {
+      "g, k, r, s": "square"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          98,
+          406,
+          118,
+          431
+        ],
+        "s": [
+          98,
+          91,
+          115,
+          116
+        ],
+        "r": [
+          397,
+          79,
+          415,
+          104
+        ],
+        "k": [
+          418,
+          384,
+          435,
+          409
+        ]
+      },
+      "square": {
+        "g, k, r, s": [
+          113,
+          113,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_163": {
+    "image_path": "images/final_construction_sample_163.png",
+    "attribute": {
+      "e, q": "segment"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          343,
+          390,
+          354,
+          415
+        ],
+        "e": [
+          171,
+          83,
+          180,
+          108
+        ]
+      },
+      "segment": {
+        "e, q": [
+          177,
+          113,
+          334,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_164": {
+    "image_path": "images/final_construction_sample_164.png",
+    "attribute": {
+      "h, j, k": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "h": [
+          330,
+          400,
+          349,
+          425
+        ],
+        "j": [
+          81,
+          337,
+          88,
+          362
+        ],
+        "k": [
+          406,
+          78,
+          423,
+          103
+        ]
+      },
+      "right triangle": {
+        "h, j, k": [
+          114,
+          113,
+          397,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_165": {
+    "image_path": "images/final_construction_sample_165.png",
+    "attribute": {
+      "q, v, y": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          162,
+          303,
+          171,
+          328
+        ],
+        "y": [
+          296,
+          390,
+          304,
+          415
+        ],
+        "q": [
+          334,
+          84,
+          345,
+          109
+        ]
+      },
+      "right triangle": {
+        "q, v, y": [
+          180,
+          113,
+          331,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_166": {
+    "image_path": "images/final_construction_sample_166.png",
+    "attribute": {
+      "v, w, x": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "w": [
+          81,
+          396,
+          107,
+          421
+        ],
+        "x": [
+          407,
+          395,
+          425,
+          420
+        ],
+        "v": [
+          404,
+          78,
+          422,
+          103
+        ]
+      },
+      "scalene triangle": {
+        "v, w, x": [
+          113,
+          115,
+          398,
+          396
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_167": {
+    "image_path": "images/final_construction_sample_167.png",
+    "attribute": {
+      "e, m, n, s": "square"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          93,
+          223,
+          109,
+          248
+        ],
+        "n": [
+          230,
+          411,
+          250,
+          436
+        ],
+        "m": [
+          423,
+          252,
+          446,
+          277
+        ],
+        "s": [
+          266,
+          74,
+          283,
+          99
+        ]
+      },
+      "square": {
+        "e, m, n, s": [
+          113,
+          113,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_168": {
+    "image_path": "images/final_construction_sample_168.png",
+    "attribute": {
+      "g, l, p, x": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "x": [
+          257,
+          407,
+          273,
+          432
+        ],
+        "p": [
+          406,
+          351,
+          420,
+          376
+        ],
+        "l": [
+          295,
+          77,
+          308,
+          102
+        ],
+        "g": [
+          109,
+          167,
+          127,
+          192
+        ]
+      },
+      "quadrangle": {
+        "g, l, p, x": [
+          127,
+          113,
+          384,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_169": {
+    "image_path": "images/final_construction_sample_169.png",
+    "attribute": {
+      "a, g, h, r": "circle"
+    },
+    "bbox": {
+      "text": {
+        "r": [
+          415,
+          220,
+          433,
+          245
+        ],
+        "h": [
+          93,
+          224,
+          113,
+          249
+        ],
+        "a": [
+          367,
+          120,
+          385,
+          145
+        ],
+        "g": [
+          160,
+          389,
+          180,
+          414
+        ]
+      },
+      "circle": {
+        "a, g, h, r": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_170": {
+    "image_path": "images/final_construction_sample_170.png",
+    "attribute": {
+      "a, g, n, q, x": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "a": [
+          297,
+          398,
+          315,
+          423
+        ],
+        "n": [
+          82,
+          277,
+          102,
+          302
+        ],
+        "q": [
+          117,
+          140,
+          138,
+          165
+        ],
+        "x": [
+          327,
+          79,
+          345,
+          104
+        ],
+        "g": [
+          416,
+          179,
+          436,
+          204
+        ]
+      },
+      "pentagon": {
+        "a, g, n, q, x": [
+          113,
+          117,
+          398,
+          394
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_171": {
+    "image_path": "images/final_construction_sample_171.png",
+    "attribute": {
+      "c, e, f, p, v": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          276,
+          81,
+          292,
+          106
+        ],
+        "p": [
+          415,
+          239,
+          431,
+          264
+        ],
+        "f": [
+          386,
+          347,
+          401,
+          372
+        ],
+        "c": [
+          185,
+          404,
+          203,
+          429
+        ],
+        "v": [
+          94,
+          224,
+          112,
+          249
+        ]
+      },
+      "pentagon": {
+        "c, e, f, p, v": [
+          113,
+          118,
+          398,
+          393
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_172": {
+    "image_path": "images/final_construction_sample_172.png",
+    "attribute": {
+      "d, r, v, w": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          195,
+          395,
+          205,
+          420
+        ],
+        "d": [
+          162,
+          261,
+          173,
+          286
+        ],
+        "r": [
+          263,
+          82,
+          273,
+          107
+        ],
+        "w": [
+          351,
+          347,
+          366,
+          372
+        ]
+      },
+      "right trapezoid": {
+        "d, r, v, w": [
+          174,
+          113,
+          337,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_175": {
+    "image_path": "images/final_construction_sample_175.png",
+    "attribute": {
+      "m, u, w": "circle"
+    },
+    "bbox": {
+      "text": {
+        "w": [
+          294,
+          79,
+          320,
+          104
+        ],
+        "u": [
+          258,
+          232,
+          277,
+          257
+        ],
+        "m": [
+          112,
+          346,
+          135,
+          371
+        ]
+      },
+      "circle": {
+        "m, u, w": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_176": {
+    "image_path": "images/final_construction_sample_176.png",
+    "attribute": {
+      "d, h, m, t": "square"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          419,
+          371,
+          439,
+          396
+        ],
+        "h": [
+          110,
+          406,
+          130,
+          431
+        ],
+        "m": [
+          98,
+          103,
+          121,
+          128
+        ],
+        "t": [
+          385,
+          79,
+          401,
+          104
+        ]
+      },
+      "square": {
+        "d, h, m, t": [
+          113,
+          113,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_178": {
+    "image_path": "images/final_construction_sample_178.png",
+    "attribute": {
+      "f, v, w": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "w": [
+          339,
+          199,
+          352,
+          224
+        ],
+        "v": [
+          190,
+          394,
+          199,
+          419
+        ],
+        "f": [
+          177,
+          83,
+          185,
+          108
+        ]
+      },
+      "right triangle": {
+        "f, v, w": [
+          182,
+          113,
+          329,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_179": {
+    "image_path": "images/final_construction_sample_179.png",
+    "attribute": {
+      "d, h, v, z": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          408,
+          119,
+          428,
+          144
+        ],
+        "z": [
+          139,
+          77,
+          156,
+          102
+        ],
+        "v": [
+          88,
+          399,
+          105,
+          424
+        ],
+        "h": [
+          406,
+          396,
+          425,
+          421
+        ]
+      },
+      "equilateral quadrilateral": {
+        "d, h, v, z": [
+          117,
+          113,
+          394,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_180": {
+    "image_path": "images/final_construction_sample_180.png",
+    "attribute": {
+      "c, t, u": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          98,
+          105,
+          117,
+          127
+        ],
+        "t": [
+          411,
+          107,
+          427,
+          129
+        ],
+        "c": [
+          260,
+          383,
+          278,
+          405
+        ]
+      },
+      "equilateral triangle": {
+        "c, t, u": [
+          113,
+          132,
+          398,
+          379
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_181": {
+    "image_path": "images/final_construction_sample_181.png",
+    "attribute": {
+      "e, l, n, r": "isosceles trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          298,
+          400,
+          313,
+          425
+        ],
+        "r": [
+          402,
+          153,
+          419,
+          178
+        ],
+        "n": [
+          207,
+          75,
+          225,
+          100
+        ],
+        "l": [
+          94,
+          308,
+          107,
+          333
+        ]
+      },
+      "isosceles trapezoid": {
+        "e, l, n, r": [
+          124,
+          113,
+          387,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_182": {
+    "image_path": "images/final_construction_sample_182.png",
+    "attribute": {
+      "d, h, j, z": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "j": [
+          145,
+          166,
+          150,
+          191
+        ],
+        "z": [
+          361,
+          83,
+          373,
+          108
+        ],
+        "h": [
+          309,
+          344,
+          322,
+          369
+        ],
+        "d": [
+          167,
+          399,
+          181,
+          424
+        ]
+      },
+      "trapezoid": {
+        "d, h, j, z": [
+          157,
+          113,
+          354,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_183": {
+    "image_path": "images/final_construction_sample_183.png",
+    "attribute": {
+      "e, f, q, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          160,
+          103,
+          181,
+          128
+        ],
+        "z": [
+          104,
+          335,
+          122,
+          360
+        ],
+        "e": [
+          259,
+          74,
+          275,
+          99
+        ],
+        "f": [
+          416,
+          230,
+          431,
+          255
+        ]
+      },
+      "circle": {
+        "e, f, q, z": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_184": {
+    "image_path": "images/final_construction_sample_184.png",
+    "attribute": {
+      "a, u, x": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "a": [
+          356,
+          223,
+          366,
+          248
+        ],
+        "u": [
+          219,
+          81,
+          230,
+          106
+        ],
+        "x": [
+          157,
+          396,
+          167,
+          421
+        ]
+      },
+      "right triangle": {
+        "a, u, x": [
+          171,
+          113,
+          340,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_185": {
+    "image_path": "images/final_construction_sample_185.png",
+    "attribute": {
+      "b, j, r, s": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          316,
+          330,
+          333,
+          343
+        ],
+        "r": [
+          96,
+          296,
+          114,
+          309
+        ],
+        "b": [
+          220,
+          162,
+          238,
+          175
+        ],
+        "j": [
+          406,
+          197,
+          413,
+          210
+        ]
+      },
+      "trapezoid": {
+        "b, j, r, s": [
+          113,
+          182,
+          398,
+          329
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_186": {
+    "image_path": "images/final_construction_sample_186.png",
+    "attribute": {
+      "a, b, c, s, x": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "c": [
+          105,
+          137,
+          122,
+          162
+        ],
+        "s": [
+          116,
+          404,
+          132,
+          429
+        ],
+        "x": [
+          408,
+          373,
+          425,
+          398
+        ],
+        "b": [
+          402,
+          138,
+          419,
+          163
+        ],
+        "a": [
+          191,
+          74,
+          208,
+          99
+        ]
+      },
+      "pentagon": {
+        "a, b, c, s, x": [
+          122,
+          113,
+          389,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_187": {
+    "image_path": "images/final_construction_sample_187.png",
+    "attribute": {
+      "a, b, q, x": "square"
+    },
+    "bbox": {
+      "text": {
+        "a": [
+          175,
+          410,
+          193,
+          435
+        ],
+        "b": [
+          94,
+          168,
+          112,
+          193
+        ],
+        "x": [
+          320,
+          76,
+          338,
+          101
+        ],
+        "q": [
+          422,
+          307,
+          443,
+          332
+        ]
+      },
+      "square": {
+        "a, b, q, x": [
+          113,
+          113,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_188": {
+    "image_path": "images/final_construction_sample_188.png",
+    "attribute": {
+      "l, q, t": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "t": [
+          390,
+          247,
+          403,
+          272
+        ],
+        "l": [
+          143,
+          78,
+          155,
+          103
+        ],
+        "q": [
+          122,
+          402,
+          138,
+          427
+        ]
+      },
+      "isosceles triangle": {
+        "l, q, t": [
+          141,
+          113,
+          370,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_189": {
+    "image_path": "images/final_construction_sample_189.png",
+    "attribute": {
+      "g, y, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "z": [
+          419,
+          275,
+          437,
+          300
+        ],
+        "g": [
+          258,
+          232,
+          278,
+          257
+        ],
+        "y": [
+          141,
+          119,
+          157,
+          144
+        ]
+      },
+      "circle": {
+        "g, y, z": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_190": {
+    "image_path": "images/final_construction_sample_190.png",
+    "attribute": {
+      "d, e, h, s": "isosceles trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          143,
+          376,
+          163,
+          396
+        ],
+        "h": [
+          100,
+          156,
+          120,
+          176
+        ],
+        "s": [
+          370,
+          115,
+          387,
+          135
+        ],
+        "e": [
+          416,
+          274,
+          432,
+          294
+        ]
+      },
+      "isosceles trapezoid": {
+        "d, e, h, s": [
+          113,
+          144,
+          398,
+          367
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_191": {
+    "image_path": "images/final_construction_sample_191.png",
+    "attribute": {
+      "i, s, u": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          139,
+          253,
+          144,
+          278
+        ],
+        "s": [
+          195,
+          401,
+          207,
+          426
+        ],
+        "u": [
+          365,
+          83,
+          379,
+          108
+        ]
+      },
+      "scalene triangle": {
+        "i, s, u": [
+          154,
+          113,
+          357,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_192": {
+    "image_path": "images/final_construction_sample_192.png",
+    "attribute": {
+      "d, l, q": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          308,
+          86,
+          317,
+          111
+        ],
+        "q": [
+          327,
+          389,
+          336,
+          414
+        ],
+        "l": [
+          180,
+          95,
+          187,
+          120
+        ]
+      },
+      "right triangle": {
+        "d, l, q": [
+          189,
+          113,
+          322,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_193": {
+    "image_path": "images/final_construction_sample_193.png",
+    "attribute": {
+      "b, h, t, v": "isosceles trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "h": [
+          192,
+          409,
+          211,
+          434
+        ],
+        "b": [
+          83,
+          267,
+          100,
+          292
+        ],
+        "v": [
+          224,
+          73,
+          241,
+          98
+        ],
+        "t": [
+          419,
+          326,
+          435,
+          351
+        ]
+      },
+      "isosceles trapezoid": {
+        "b, h, t, v": [
+          117,
+          113,
+          394,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_194": {
+    "image_path": "images/final_construction_sample_194.png",
+    "attribute": {
+      "b, f, i, j, n": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          194,
+          75,
+          212,
+          100
+        ],
+        "f": [
+          376,
+          95,
+          391,
+          120
+        ],
+        "j": [
+          417,
+          343,
+          424,
+          368
+        ],
+        "i": [
+          194,
+          409,
+          201,
+          434
+        ],
+        "n": [
+          82,
+          251,
+          101,
+          276
+        ]
+      },
+      "pentagon": {
+        "b, f, i, j, n": [
+          116,
+          113,
+          395,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  },
+  "sample_195": {
+    "image_path": "images/final_construction_sample_195.png",
+    "attribute": {
+      "a, w": "segment"
+    },
+    "bbox": {
+      "text": {
+        "a": [
+          294,
+          383,
+          298,
+          408
+        ],
+        "w": [
+          218,
+          87,
+          224,
+          112
+        ]
+      },
+      "segment": {
+        "a, w": [
+          219,
+          113,
+          292,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "obj_num_1"
+  }
+}

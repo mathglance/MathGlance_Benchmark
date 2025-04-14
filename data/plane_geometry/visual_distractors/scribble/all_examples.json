@@ -1,0 +1,5078 @@
+{
+  "sample_152": {
+    "image_path": "images/final_scribble_construction_sample_152.png",
+    "attribute": {
+      "c, e, i, t, x": "pentagon",
+      "a, k, l, u, z": "pentagon",
+      "n, s, v, w": "rectangle",
+      "J": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          361,
+          206,
+          368,
+          231
+        ],
+        "t": [
+          370,
+          129,
+          386,
+          154
+        ],
+        "e": [
+          289,
+          74,
+          305,
+          99
+        ],
+        "x": [
+          236,
+          106,
+          254,
+          131
+        ],
+        "c": [
+          269,
+          238,
+          287,
+          263
+        ],
+        "z": [
+          127,
+          142,
+          145,
+          167
+        ],
+        "a": [
+          81,
+          274,
+          99,
+          299
+        ],
+        "k": [
+          317,
+          402,
+          334,
+          427
+        ],
+        "u": [
+          416,
+          219,
+          435,
+          244
+        ],
+        "l": [
+          333,
+          101,
+          348,
+          126
+        ],
+        "s": [
+          298,
+          157,
+          315,
+          182
+        ],
+        "n": [
+          217,
+          216,
+          237,
+          241
+        ],
+        "w": [
+          293,
+          338,
+          319,
+          363
+        ],
+        "v": [
+          396,
+          282,
+          414,
+          307
+        ],
+        "J": [
+          189,
+          189,
+          195,
+          209
+        ]
+      },
+      "pentagon": {
+        "c, e, i, t, x": [
+          249,
+          113,
+          354,
+          226
+        ],
+        "a, k, l, u, z": [
+          249,
+          113,
+          354,
+          226
+        ]
+      },
+      "rectangle": {
+        "n, s, v, w": [
+          238,
+          193,
+          373,
+          333
+        ]
+      },
+      "ellipse": {
+        "J": [
+          74,
+          108,
+          320,
+          267
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_57": {
+    "image_path": "images/final_scribble_construction_sample_57.png",
+    "attribute": {
+      "a, i, n, u": "circle",
+      "b, d, p": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          177,
+          208,
+          196,
+          229
+        ],
+        "a": [
+          232,
+          118,
+          250,
+          139
+        ],
+        "i": [
+          361,
+          123,
+          368,
+          144
+        ],
+        "n": [
+          416,
+          252,
+          436,
+          273
+        ],
+        "p": [
+          224,
+          317,
+          240,
+          338
+        ],
+        "d": [
+          91,
+          383,
+          111,
+          404
+        ],
+        "b": [
+          150,
+          201,
+          168,
+          222
+        ]
+      },
+      "circle": {
+        "a, i, n, u": [
+          194,
+          135,
+          398,
+          339
+        ]
+      },
+      "right triangle": {
+        "b, d, p": [
+          113,
+          235,
+          203,
+          376
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_71": {
+    "image_path": "images/final_scribble_construction_sample_71.png",
+    "attribute": {
+      "i, l, u": "equilateral triangle",
+      "e, q, r, w": "rectangle",
+      "c, j, o, y": "equilateral quadrilateral",
+      "P": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          127,
+          232,
+          134,
+          257
+        ],
+        "l": [
+          300,
+          208,
+          315,
+          233
+        ],
+        "u": [
+          236,
+          347,
+          255,
+          372
+        ],
+        "e": [
+          312,
+          76,
+          328,
+          101
+        ],
+        "w": [
+          116,
+          160,
+          142,
+          185
+        ],
+        "q": [
+          205,
+          409,
+          226,
+          434
+        ],
+        "r": [
+          422,
+          315,
+          440,
+          340
+        ],
+        "j": [
+          174,
+          384,
+          181,
+          409
+        ],
+        "c": [
+          281,
+          334,
+          299,
+          359
+        ],
+        "y": [
+          178,
+          184,
+          194,
+          209
+        ],
+        "o": [
+          79,
+          300,
+          100,
+          325
+        ],
+        "P": [
+          194,
+          150,
+          206,
+          170
+        ]
+      },
+      "equilateral triangle": {
+        "i, l, u": [
+          161,
+          237,
+          285,
+          344
+        ]
+      },
+      "rectangle": {
+        "e, q, r, w": [
+          135,
+          114,
+          398,
+          397
+        ]
+      },
+      "equilateral quadrilateral": {
+        "c, j, o, y": [
+          113,
+          223,
+          256,
+          371
+        ]
+      },
+      "ellipse": {
+        "P": [
+          61,
+          29,
+          357,
+          316
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_166": {
+    "image_path": "images/final_scribble_construction_sample_166.png",
+    "attribute": {
+      "m, u": "segment",
+      "x, z": "segment"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          100,
+          376,
+          119,
+          396
+        ],
+        "m": [
+          159,
+          115,
+          182,
+          135
+        ],
+        "x": [
+          373,
+          171,
+          391,
+          191
+        ],
+        "z": [
+          404,
+          343,
+          422,
+          363
+        ]
+      },
+      "segment": {
+        "m, u": [
+          113,
+          145,
+          157,
+          366
+        ],
+        "x, z": [
+          113,
+          145,
+          157,
+          366
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_157": {
+    "image_path": "images/final_scribble_construction_sample_157.png",
+    "attribute": {
+      "j, m, o, q": "quadrangle",
+      "j, m, q, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "m": [
+          224,
+          84,
+          247,
+          108
+        ],
+        "o": [
+          81,
+          294,
+          102,
+          318
+        ],
+        "q": [
+          313,
+          389,
+          334,
+          413
+        ],
+        "j": [
+          415,
+          226,
+          422,
+          250
+        ],
+        "z": [
+          139,
+          360,
+          157,
+          384
+        ]
+      },
+      "quadrangle": {
+        "j, m, o, q": [
+          113,
+          123,
+          397,
+          385
+        ]
+      },
+      "circle": {
+        "j, m, q, z": [
+          126,
+          120,
+          398,
+          392
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_110": {
+    "image_path": "images/final_scribble_construction_sample_110.png",
+    "attribute": {
+      "i, m, o, p": "quadrangle",
+      "b, k, y": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          403,
+          131,
+          419,
+          149
+        ],
+        "m": [
+          245,
+          209,
+          268,
+          227
+        ],
+        "i": [
+          91,
+          355,
+          98,
+          373
+        ],
+        "o": [
+          412,
+          339,
+          433,
+          357
+        ],
+        "b": [
+          237,
+          254,
+          255,
+          272
+        ],
+        "y": [
+          345,
+          255,
+          361,
+          273
+        ],
+        "k": [
+          296,
+          353,
+          313,
+          371
+        ]
+      },
+      "quadrangle": {
+        "i, m, o, p": [
+          113,
+          156,
+          398,
+          355
+        ]
+      },
+      "equilateral triangle": {
+        "b, k, y": [
+          249,
+          276,
+          334,
+          350
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_53": {
+    "image_path": "images/final_scribble_construction_sample_53.png",
+    "attribute": {
+      "c, n, x": "scalene triangle",
+      "c, n, o, x": "circle",
+      "f, h, z": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "n": [
+          123,
+          310,
+          141,
+          335
+        ],
+        "c": [
+          339,
+          302,
+          356,
+          327
+        ],
+        "x": [
+          116,
+          146,
+          133,
+          171
+        ],
+        "o": [
+          89,
+          231,
+          109,
+          256
+        ],
+        "f": [
+          124,
+          111,
+          138,
+          136
+        ],
+        "h": [
+          240,
+          409,
+          259,
+          434
+        ],
+        "z": [
+          407,
+          244,
+          424,
+          269
+        ]
+      },
+      "scalene triangle": {
+        "c, n, x": [
+          133,
+          176,
+          320,
+          305
+        ]
+      },
+      "circle": {
+        "c, n, o, x": [
+          121,
+          114,
+          349,
+          342
+        ]
+      },
+      "isosceles triangle": {
+        "f, h, z": [
+          139,
+          144,
+          390,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_6": {
+    "image_path": "images/final_scribble_construction_sample_6.png",
+    "attribute": {
+      "a, g, l, r": "rectangle",
+      "c, d, h, o, v": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "l": [
+          252,
+          395,
+          262,
+          420
+        ],
+        "r": [
+          294,
+          281,
+          307,
+          306
+        ],
+        "g": [
+          196,
+          228,
+          211,
+          253
+        ],
+        "a": [
+          129,
+          339,
+          142,
+          364
+        ],
+        "d": [
+          188,
+          312,
+          202,
+          337
+        ],
+        "c": [
+          326,
+          313,
+          339,
+          338
+        ],
+        "o": [
+          377,
+          240,
+          392,
+          265
+        ],
+        "v": [
+          273,
+          80,
+          286,
+          105
+        ],
+        "h": [
+          157,
+          117,
+          171,
+          142
+        ]
+      },
+      "rectangle": {
+        "a, g, l, r": [
+          153,
+          263,
+          291,
+          398
+        ]
+      },
+      "pentagon": {
+        "c, d, h, o, v": [
+          169,
+          113,
+          358,
+          317
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_145": {
+    "image_path": "images/final_scribble_construction_sample_145.png",
+    "attribute": {
+      "o, w": "segment",
+      "f, o, q, w": "circle"
+    },
+    "bbox": {
+      "text": {
+        "w": [
+          405,
+          315,
+          431,
+          340
+        ],
+        "o": [
+          95,
+          319,
+          116,
+          344
+        ],
+        "q": [
+          317,
+          87,
+          338,
+          112
+        ],
+        "f": [
+          136,
+          125,
+          151,
+          150
+        ]
+      },
+      "segment": {
+        "o, w": [
+          127,
+          317,
+          382,
+          321
+        ]
+      },
+      "circle": {
+        "f, o, q, w": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_132": {
+    "image_path": "images/final_scribble_construction_sample_132.png",
+    "attribute": {
+      "d, g, z": "right triangle",
+      "a, t, v, y": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          185,
+          352,
+          196,
+          377
+        ],
+        "z": [
+          349,
+          341,
+          359,
+          366
+        ],
+        "g": [
+          192,
+          81,
+          203,
+          106
+        ],
+        "a": [
+          260,
+          252,
+          270,
+          277
+        ],
+        "y": [
+          164,
+          330,
+          173,
+          355
+        ],
+        "t": [
+          204,
+          396,
+          213,
+          421
+        ],
+        "v": [
+          312,
+          312,
+          322,
+          337
+        ]
+      },
+      "right triangle": {
+        "d, g, z": [
+          195,
+          113,
+          336,
+          356
+        ]
+      },
+      "rectangle": {
+        "a, t, v, y": [
+          175,
+          283,
+          297,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_241": {
+    "image_path": "images/final_scribble_construction_sample_241.png",
+    "attribute": {
+      "h, j, l, m": "quadrangle",
+      "g, n, v": "isosceles triangle",
+      "e, k, u": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "h": [
+          111,
+          262,
+          131,
+          277
+        ],
+        "j": [
+          108,
+          152,
+          115,
+          167
+        ],
+        "m": [
+          231,
+          167,
+          254,
+          182
+        ],
+        "l": [
+          201,
+          261,
+          215,
+          276
+        ],
+        "n": [
+          303,
+          294,
+          322,
+          309
+        ],
+        "v": [
+          268,
+          157,
+          286,
+          172
+        ],
+        "g": [
+          408,
+          193,
+          428,
+          208
+        ],
+        "u": [
+          207,
+          335,
+          226,
+          350
+        ],
+        "k": [
+          149,
+          247,
+          166,
+          262
+        ],
+        "e": [
+          95,
+          336,
+          111,
+          351
+        ]
+      },
+      "quadrangle": {
+        "h, j, l, m": [
+          117,
+          172,
+          222,
+          260
+        ]
+      },
+      "isosceles triangle": {
+        "g, n, v": [
+          276,
+          177,
+          398,
+          286
+        ],
+        "e, k, u": [
+          276,
+          177,
+          398,
+          286
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_122": {
+    "image_path": "images/final_scribble_construction_sample_122.png",
+    "attribute": {
+      "d, l, n, o": "right trapezoid",
+      "b, x, z": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          338,
+          391,
+          352,
+          416
+        ],
+        "o": [
+          342,
+          216,
+          357,
+          241
+        ],
+        "l": [
+          214,
+          150,
+          224,
+          175
+        ],
+        "n": [
+          176,
+          390,
+          190,
+          415
+        ],
+        "z": [
+          210,
+          78,
+          223,
+          103
+        ],
+        "b": [
+          133,
+          318,
+          146,
+          343
+        ],
+        "x": [
+          375,
+          259,
+          388,
+          284
+        ]
+      },
+      "right trapezoid": {
+        "d, l, n, o": [
+          196,
+          181,
+          332,
+          398
+        ]
+      },
+      "isosceles triangle": {
+        "b, x, z": [
+          154,
+          113,
+          357,
+          319
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_67": {
+    "image_path": "images/final_scribble_construction_sample_67.png",
+    "attribute": {
+      "e, p, r, t": "square",
+      "e, f, r, t": "circle"
+    },
+    "bbox": {
+      "text": {
+        "t": [
+          393,
+          154,
+          409,
+          179
+        ],
+        "p": [
+          344,
+          380,
+          360,
+          405
+        ],
+        "e": [
+          102,
+          331,
+          118,
+          356
+        ],
+        "r": [
+          172,
+          95,
+          190,
+          120
+        ],
+        "f": [
+          258,
+          232,
+          273,
+          257
+        ]
+      },
+      "square": {
+        "e, p, r, t": [
+          133,
+          133,
+          378,
+          378
+        ]
+      },
+      "circle": {
+        "e, f, r, t": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_45": {
+    "image_path": "images/final_scribble_construction_sample_45.png",
+    "attribute": {
+      "a, y": "segment",
+      "b, m, n": "right triangle",
+      "i, l, q, z": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "y": [
+          248,
+          390,
+          259,
+          415
+        ],
+        "a": [
+          201,
+          242,
+          214,
+          267
+        ],
+        "n": [
+          329,
+          366,
+          343,
+          391
+        ],
+        "b": [
+          321,
+          178,
+          334,
+          203
+        ],
+        "m": [
+          131,
+          352,
+          147,
+          377
+        ],
+        "l": [
+          217,
+          80,
+          227,
+          105
+        ],
+        "i": [
+          156,
+          262,
+          161,
+          287
+        ],
+        "q": [
+          295,
+          395,
+          310,
+          420
+        ],
+        "z": [
+          368,
+          124,
+          381,
+          149
+        ]
+      },
+      "segment": {
+        "a, y": [
+          189,
+          266,
+          239,
+          394
+        ]
+      },
+      "right triangle": {
+        "b, m, n": [
+          154,
+          211,
+          330,
+          372
+        ]
+      },
+      "right trapezoid": {
+        "i, l, q, z": [
+          180,
+          113,
+          357,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_242": {
+    "image_path": "images/final_scribble_construction_sample_242.png",
+    "attribute": {
+      "m, n, u, w": "circle",
+      "e, f, x": "equilateral triangle"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          331,
+          224,
+          350,
+          248
+        ],
+        "n": [
+          292,
+          118,
+          312,
+          142
+        ],
+        "w": [
+          128,
+          306,
+          154,
+          330
+        ],
+        "m": [
+          138,
+          108,
+          161,
+          132
+        ],
+        "e": [
+          252,
+          245,
+          268,
+          269
+        ],
+        "x": [
+          413,
+          249,
+          431,
+          273
+        ],
+        "f": [
+          337,
+          394,
+          352,
+          418
+        ]
+      },
+      "circle": {
+        "m, n, u, w": [
+          114,
+          122,
+          308,
+          316
+        ]
+      },
+      "equilateral triangle": {
+        "e, f, x": [
+          267,
+          277,
+          398,
+          390
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_197": {
+    "image_path": "images/final_scribble_construction_sample_197.png",
+    "attribute": {
+      "e, k, n, r": "isosceles trapezoid",
+      "g, i, t": "equilateral triangle",
+      "V": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "n": [
+          125,
+          314,
+          140,
+          339
+        ],
+        "k": [
+          151,
+          136,
+          164,
+          161
+        ],
+        "r": [
+          324,
+          82,
+          337,
+          107
+        ],
+        "e": [
+          300,
+          394,
+          312,
+          419
+        ],
+        "t": [
+          208,
+          116,
+          220,
+          141
+        ],
+        "i": [
+          374,
+          125,
+          379,
+          150
+        ],
+        "g": [
+          266,
+          280,
+          281,
+          305
+        ],
+        "V": [
+          258,
+          143,
+          272,
+          163
+        ]
+      },
+      "isosceles trapezoid": {
+        "e, k, n, r": [
+          149,
+          113,
+          316,
+          398
+        ]
+      },
+      "equilateral triangle": {
+        "g, i, t": [
+          213,
+          152,
+          362,
+          281
+        ]
+      },
+      "ellipse": {
+        "V": [
+          182,
+          63,
+          368,
+          218
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_124": {
+    "image_path": "images/final_scribble_construction_sample_124.png",
+    "attribute": {
+      "e, i, s, u": "isosceles trapezoid",
+      "i, s, u, w": "circle",
+      "e, h, u, w": "circle"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          422,
+          243,
+          429,
+          268
+        ],
+        "s": [
+          336,
+          100,
+          353,
+          125
+        ],
+        "u": [
+          103,
+          233,
+          122,
+          258
+        ],
+        "e": [
+          169,
+          385,
+          185,
+          410
+        ],
+        "w": [
+          275,
+          228,
+          301,
+          253
+        ],
+        "h": [
+          194,
+          272,
+          214,
+          297
+        ]
+      },
+      "isosceles trapezoid": {
+        "e, i, s, u": [
+          123,
+          136,
+          398,
+          373
+        ]
+      },
+      "circle": {
+        "i, s, u, w": [
+          114,
+          217,
+          270,
+          373
+        ],
+        "e, h, u, w": [
+          114,
+          217,
+          270,
+          373
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_48": {
+    "image_path": "images/final_scribble_construction_sample_48.png",
+    "attribute": {
+      "e, k, n, v": "circle",
+      "b, c, q, y": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "k": [
+          155,
+          298,
+          168,
+          323
+        ],
+        "v": [
+          257,
+          295,
+          271,
+          320
+        ],
+        "e": [
+          145,
+          144,
+          157,
+          169
+        ],
+        "n": [
+          302,
+          88,
+          317,
+          113
+        ],
+        "c": [
+          143,
+          339,
+          157,
+          364
+        ],
+        "y": [
+          256,
+          396,
+          268,
+          421
+        ],
+        "q": [
+          288,
+          334,
+          304,
+          359
+        ],
+        "b": [
+          193,
+          280,
+          207,
+          305
+        ]
+      },
+      "circle": {
+        "e, k, n, v": [
+          147,
+          113,
+          365,
+          331
+        ]
+      },
+      "equilateral quadrilateral": {
+        "b, c, q, y": [
+          168,
+          312,
+          275,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_143": {
+    "image_path": "images/final_scribble_construction_sample_143.png",
+    "attribute": {
+      "d, h, o, v": "quadrangle",
+      "i, l, p, r": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "o": [
+          163,
+          379,
+          184,
+          399
+        ],
+        "h": [
+          342,
+          255,
+          362,
+          275
+        ],
+        "d": [
+          409,
+          137,
+          429,
+          157
+        ],
+        "v": [
+          130,
+          232,
+          148,
+          252
+        ],
+        "l": [
+          98,
+          219,
+          112,
+          239
+        ],
+        "i": [
+          170,
+          155,
+          177,
+          175
+        ],
+        "p": [
+          281,
+          117,
+          297,
+          137
+        ],
+        "r": [
+          131,
+          347,
+          149,
+          367
+        ]
+      },
+      "quadrangle": {
+        "d, h, o, v": [
+          144,
+          162,
+          398,
+          369
+        ],
+        "i, l, p, r": [
+          144,
+          162,
+          398,
+          369
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_229": {
+    "image_path": "images/final_scribble_construction_sample_229.png",
+    "attribute": {
+      "a, c, g, s": "circle",
+      "h, r, v": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          404,
+          303,
+          420,
+          328
+        ],
+        "g": [
+          318,
+          168,
+          337,
+          193
+        ],
+        "c": [
+          109,
+          333,
+          126,
+          358
+        ],
+        "a": [
+          195,
+          101,
+          212,
+          126
+        ],
+        "r": [
+          187,
+          262,
+          204,
+          287
+        ],
+        "h": [
+          407,
+          242,
+          426,
+          267
+        ],
+        "v": [
+          338,
+          75,
+          355,
+          100
+        ]
+      },
+      "circle": {
+        "a, c, g, s": [
+          121,
+          129,
+          389,
+          397
+        ]
+      },
+      "scalene triangle": {
+        "h, r, v": [
+          218,
+          113,
+          389,
+          262
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_181": {
+    "image_path": "images/final_scribble_construction_sample_181.png",
+    "attribute": {
+      "g, v, w, x": "quadrangle",
+      "g, p, v, w": "circle",
+      "j, l, y": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          206,
+          138,
+          226,
+          155
+        ],
+        "x": [
+          252,
+          203,
+          270,
+          220
+        ],
+        "w": [
+          213,
+          292,
+          239,
+          309
+        ],
+        "v": [
+          102,
+          193,
+          120,
+          210
+        ],
+        "p": [
+          182,
+          212,
+          198,
+          229
+        ],
+        "l": [
+          308,
+          354,
+          323,
+          371
+        ],
+        "j": [
+          408,
+          208,
+          415,
+          225
+        ],
+        "y": [
+          180,
+          229,
+          196,
+          246
+        ]
+      },
+      "quadrangle": {
+        "g, v, w, x": [
+          115,
+          164,
+          240,
+          290
+        ]
+      },
+      "circle": {
+        "g, p, v, w": [
+          114,
+          160,
+          248,
+          294
+        ]
+      },
+      "right triangle": {
+        "j, l, y": [
+          180,
+          228,
+          398,
+          351
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_248": {
+    "image_path": "images/final_scribble_construction_sample_248.png",
+    "attribute": {
+      "m, s, v": "scalene triangle",
+      "a, c, g": "right triangle",
+      "b, e, w, x": "isosceles trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "m": [
+          214,
+          261,
+          234,
+          286
+        ],
+        "s": [
+          391,
+          241,
+          406,
+          266
+        ],
+        "v": [
+          231,
+          136,
+          247,
+          161
+        ],
+        "g": [
+          397,
+          178,
+          415,
+          203
+        ],
+        "c": [
+          265,
+          76,
+          281,
+          101
+        ],
+        "a": [
+          205,
+          405,
+          221,
+          430
+        ],
+        "e": [
+          220,
+          196,
+          234,
+          221
+        ],
+        "x": [
+          205,
+          112,
+          221,
+          137
+        ],
+        "w": [
+          115,
+          119,
+          138,
+          144
+        ],
+        "b": [
+          188,
+          283,
+          204,
+          308
+        ]
+      },
+      "scalene triangle": {
+        "m, s, v": [
+          226,
+          171,
+          369,
+          253
+        ]
+      },
+      "right triangle": {
+        "a, c, g": [
+          225,
+          113,
+          381,
+          398
+        ]
+      },
+      "isosceles trapezoid": {
+        "b, e, w, x": [
+          130,
+          146,
+          238,
+          273
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_137": {
+    "image_path": "images/final_scribble_construction_sample_137.png",
+    "attribute": {
+      "v, w": "segment",
+      "j, t, x": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          176,
+          344,
+          184,
+          369
+        ],
+        "w": [
+          280,
+          173,
+          292,
+          198
+        ],
+        "x": [
+          200,
+          393,
+          208,
+          418
+        ],
+        "t": [
+          203,
+          85,
+          210,
+          110
+        ],
+        "j": [
+          331,
+          113,
+          334,
+          138
+        ]
+      },
+      "segment": {
+        "v, w": [
+          188,
+          203,
+          284,
+          350
+        ]
+      },
+      "isosceles triangle": {
+        "j, t, x": [
+          208,
+          113,
+          323,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_96": {
+    "image_path": "images/final_scribble_construction_sample_96.png",
+    "attribute": {
+      "c, i, m, w": "isosceles trapezoid",
+      "i, m, s, w": "circle"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          88,
+          302,
+          95,
+          327
+        ],
+        "w": [
+          311,
+          395,
+          337,
+          420
+        ],
+        "m": [
+          373,
+          126,
+          396,
+          151
+        ],
+        "c": [
+          269,
+          75,
+          287,
+          100
+        ],
+        "s": [
+          156,
+          386,
+          173,
+          411
+        ]
+      },
+      "isosceles trapezoid": {
+        "c, i, m, w": [
+          121,
+          114,
+          360,
+          391
+        ]
+      },
+      "circle": {
+        "i, m, s, w": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_11": {
+    "image_path": "images/final_scribble_construction_sample_11.png",
+    "attribute": {
+      "e, g, n, r": "rectangle",
+      "j, q, y": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          360,
+          152,
+          373,
+          177
+        ],
+        "e": [
+          222,
+          109,
+          233,
+          134
+        ],
+        "n": [
+          141,
+          356,
+          154,
+          381
+        ],
+        "r": [
+          293,
+          392,
+          305,
+          417
+        ],
+        "y": [
+          349,
+          268,
+          359,
+          293
+        ],
+        "j": [
+          291,
+          81,
+          296,
+          106
+        ],
+        "q": [
+          174,
+          172,
+          187,
+          197
+        ]
+      },
+      "rectangle": {
+        "e, g, n, r": [
+          162,
+          141,
+          349,
+          398
+        ]
+      },
+      "isosceles triangle": {
+        "j, q, y": [
+          196,
+          113,
+          338,
+          275
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_104": {
+    "image_path": "images/final_scribble_construction_sample_104.png",
+    "attribute": {
+      "e, f, k, t": "quadrangle",
+      "e, f, k, p": "circle",
+      "j, z": "segment"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          196,
+          186,
+          212,
+          203
+        ],
+        "t": [
+          177,
+          293,
+          193,
+          310
+        ],
+        "f": [
+          260,
+          314,
+          275,
+          331
+        ],
+        "k": [
+          259,
+          235,
+          276,
+          252
+        ],
+        "p": [
+          92,
+          297,
+          108,
+          314
+        ],
+        "z": [
+          352,
+          355,
+          370,
+          372
+        ],
+        "j": [
+          399,
+          132,
+          406,
+          149
+        ]
+      },
+      "quadrangle": {
+        "e, f, k, t": [
+          195,
+          213,
+          248,
+          318
+        ]
+      },
+      "circle": {
+        "e, f, k, p": [
+          114,
+          212,
+          254,
+          352
+        ]
+      },
+      "segment": {
+        "j, z": [
+          364,
+          158,
+          398,
+          346
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_212": {
+    "image_path": "images/final_scribble_construction_sample_212.png",
+    "attribute": {
+      "f, k, s": "isosceles triangle",
+      "d, r, t, y": "quadrangle",
+      "d, q, r, t": "circle"
+    },
+    "bbox": {
+      "text": {
+        "f": [
+          148,
+          287,
+          158,
+          312
+        ],
+        "k": [
+          291,
+          265,
+          302,
+          290
+        ],
+        "s": [
+          255,
+          394,
+          266,
+          419
+        ],
+        "d": [
+          343,
+          198,
+          356,
+          223
+        ],
+        "t": [
+          308,
+          81,
+          319,
+          106
+        ],
+        "r": [
+          247,
+          104,
+          259,
+          129
+        ],
+        "y": [
+          273,
+          225,
+          284,
+          250
+        ],
+        "q": [
+          230,
+          181,
+          244,
+          206
+        ]
+      },
+      "isosceles triangle": {
+        "f, k, s": [
+          161,
+          294,
+          282,
+          398
+        ]
+      },
+      "quadrangle": {
+        "d, r, t, y": [
+          258,
+          114,
+          331,
+          223
+        ]
+      },
+      "circle": {
+        "d, q, r, t": [
+          248,
+          114,
+          350,
+          216
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_36": {
+    "image_path": "images/final_scribble_construction_sample_36.png",
+    "attribute": {
+      "b, g, j, t": "right trapezoid",
+      "d, o, q": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          209,
+          399,
+          221,
+          424
+        ],
+        "g": [
+          137,
+          272,
+          151,
+          297
+        ],
+        "j": [
+          215,
+          79,
+          220,
+          104
+        ],
+        "t": [
+          353,
+          323,
+          364,
+          348
+        ],
+        "q": [
+          197,
+          186,
+          211,
+          211
+        ],
+        "o": [
+          187,
+          370,
+          201,
+          395
+        ],
+        "d": [
+          362,
+          180,
+          375,
+          205
+        ]
+      },
+      "right trapezoid": {
+        "b, g, j, t": [
+          160,
+          113,
+          336,
+          398
+        ]
+      },
+      "right triangle": {
+        "d, o, q": [
+          195,
+          205,
+          351,
+          375
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_69": {
+    "image_path": "images/final_scribble_construction_sample_69.png",
+    "attribute": {
+      "u, w, x, z": "rectangle",
+      "c, e, l, r": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "x": [
+          388,
+          259,
+          403,
+          284
+        ],
+        "u": [
+          251,
+          125,
+          267,
+          150
+        ],
+        "w": [
+          110,
+          273,
+          131,
+          298
+        ],
+        "z": [
+          264,
+          398,
+          279,
+          423
+        ],
+        "e": [
+          212,
+          149,
+          225,
+          174
+        ],
+        "c": [
+          304,
+          238,
+          319,
+          263
+        ],
+        "l": [
+          337,
+          140,
+          349,
+          165
+        ],
+        "r": [
+          232,
+          77,
+          247,
+          102
+        ]
+      },
+      "rectangle": {
+        "u, w, x, z": [
+          138,
+          163,
+          373,
+          398
+        ]
+      },
+      "trapezoid": {
+        "c, e, l, r": [
+          229,
+          113,
+          325,
+          234
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_209": {
+    "image_path": "images/final_scribble_construction_sample_209.png",
+    "attribute": {
+      "a, e, q, r, z": "pentagon",
+      "a, q, s, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "a": [
+          371,
+          124,
+          389,
+          149
+        ],
+        "q": [
+          415,
+          217,
+          436,
+          242
+        ],
+        "z": [
+          273,
+          402,
+          291,
+          427
+        ],
+        "e": [
+          93,
+          220,
+          109,
+          245
+        ],
+        "r": [
+          241,
+          73,
+          259,
+          98
+        ],
+        "s": [
+          144,
+          378,
+          161,
+          403
+        ]
+      },
+      "pentagon": {
+        "a, e, q, r, z": [
+          114,
+          114,
+          397,
+          397
+        ]
+      },
+      "circle": {
+        "a, q, s, z": [
+          113,
+          114,
+          397,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_203": {
+    "image_path": "images/final_scribble_construction_sample_203.png",
+    "attribute": {
+      "c, n, v": "isosceles triangle",
+      "d, h, s, y": "trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "c": [
+          115,
+          160,
+          133,
+          178
+        ],
+        "n": [
+          144,
+          363,
+          164,
+          381
+        ],
+        "v": [
+          288,
+          253,
+          306,
+          271
+        ],
+        "h": [
+          290,
+          127,
+          310,
+          145
+        ],
+        "d": [
+          90,
+          307,
+          110,
+          325
+        ],
+        "y": [
+          251,
+          350,
+          267,
+          368
+        ],
+        "s": [
+          411,
+          200,
+          428,
+          218
+        ]
+      },
+      "isosceles triangle": {
+        "c, n, v": [
+          123,
+          186,
+          275,
+          355
+        ]
+      },
+      "trapezoid": {
+        "d, h, s, y": [
+          113,
+          156,
+          398,
+          347
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_202": {
+    "image_path": "images/final_scribble_construction_sample_202.png",
+    "attribute": {
+      "l, s, t, v": "right trapezoid",
+      "n, w, x, y": "quadrangle",
+      "d, k, o, z": "isosceles trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "v": [
+          215,
+          260,
+          233,
+          285
+        ],
+        "s": [
+          130,
+          247,
+          146,
+          272
+        ],
+        "t": [
+          83,
+          337,
+          99,
+          362
+        ],
+        "l": [
+          204,
+          348,
+          218,
+          373
+        ],
+        "n": [
+          306,
+          402,
+          325,
+          427
+        ],
+        "y": [
+          197,
+          347,
+          213,
+          372
+        ],
+        "w": [
+          313,
+          192,
+          339,
+          217
+        ],
+        "x": [
+          391,
+          277,
+          409,
+          302
+        ],
+        "d": [
+          360,
+          233,
+          380,
+          258
+        ],
+        "o": [
+          415,
+          141,
+          436,
+          166
+        ],
+        "z": [
+          319,
+          72,
+          337,
+          97
+        ],
+        "k": [
+          233,
+          182,
+          250,
+          207
+        ]
+      },
+      "right trapezoid": {
+        "l, s, t, v": [
+          114,
+          285,
+          201,
+          343
+        ]
+      },
+      "quadrangle": {
+        "n, w, x, y": [
+          213,
+          226,
+          373,
+          398
+        ]
+      },
+      "isosceles trapezoid": {
+        "d, k, o, z": [
+          266,
+          113,
+          397,
+          245
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_153": {
+    "image_path": "images/final_scribble_construction_sample_153.png",
+    "attribute": {
+      "c, d, l": "circle",
+      "e, g, j, p": "rectangle",
+      "n, u, w": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          365,
+          323,
+          385,
+          345
+        ],
+        "l": [
+          248,
+          303,
+          263,
+          325
+        ],
+        "c": [
+          336,
+          213,
+          354,
+          235
+        ],
+        "p": [
+          294,
+          195,
+          310,
+          217
+        ],
+        "j": [
+          183,
+          348,
+          190,
+          370
+        ],
+        "e": [
+          84,
+          277,
+          100,
+          299
+        ],
+        "g": [
+          223,
+          131,
+          243,
+          153
+        ],
+        "w": [
+          419,
+          191,
+          445,
+          213
+        ],
+        "u": [
+          363,
+          101,
+          382,
+          123
+        ],
+        "n": [
+          260,
+          300,
+          280,
+          322
+        ]
+      },
+      "circle": {
+        "c, d, l": [
+          196,
+          222,
+          350,
+          376
+        ]
+      },
+      "rectangle": {
+        "e, g, j, p": [
+          113,
+          166,
+          289,
+          344
+        ]
+      },
+      "scalene triangle": {
+        "n, u, w": [
+          283,
+          135,
+          398,
+          293
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_85": {
+    "image_path": "images/final_scribble_construction_sample_85.png",
+    "attribute": {
+      "h, i, p": "equilateral triangle",
+      "h, i, p, t": "circle",
+      "a, c, g, m": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          203,
+          232,
+          217,
+          257
+        ],
+        "h": [
+          390,
+          234,
+          408,
+          259
+        ],
+        "i": [
+          302,
+          401,
+          309,
+          426
+        ],
+        "t": [
+          300,
+          285,
+          315,
+          310
+        ],
+        "c": [
+          92,
+          258,
+          109,
+          283
+        ],
+        "a": [
+          212,
+          136,
+          229,
+          161
+        ],
+        "m": [
+          343,
+          81,
+          364,
+          106
+        ],
+        "g": [
+          190,
+          352,
+          209,
+          377
+        ]
+      },
+      "equilateral triangle": {
+        "h, i, p": [
+          219,
+          263,
+          375,
+          398
+        ]
+      },
+      "circle": {
+        "h, i, p, t": [
+          207,
+          218,
+          387,
+          398
+        ]
+      },
+      "quadrangle": {
+        "a, c, g, m": [
+          124,
+          113,
+          332,
+          348
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_214": {
+    "image_path": "images/final_scribble_construction_sample_214.png",
+    "attribute": {
+      "p, q, s, t": "equilateral quadrilateral",
+      "d, h, u, v": "rectangle",
+      "W": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          162,
+          75,
+          177,
+          100
+        ],
+        "q": [
+          93,
+          347,
+          112,
+          372
+        ],
+        "p": [
+          236,
+          400,
+          251,
+          425
+        ],
+        "t": [
+          405,
+          206,
+          420,
+          231
+        ],
+        "u": [
+          282,
+          298,
+          300,
+          323
+        ],
+        "d": [
+          157,
+          313,
+          176,
+          338
+        ],
+        "v": [
+          179,
+          134,
+          196,
+          159
+        ],
+        "h": [
+          261,
+          129,
+          279,
+          154
+        ],
+        "W": [
+          288,
+          222,
+          308,
+          242
+        ]
+      },
+      "equilateral quadrilateral": {
+        "p, q, s, t": [
+          123,
+          113,
+          388,
+          398
+        ]
+      },
+      "rectangle": {
+        "d, h, u, v": [
+          173,
+          165,
+          263,
+          307
+        ]
+      },
+      "ellipse": {
+        "W": [
+          141,
+          77,
+          482,
+          360
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_148": {
+    "image_path": "images/final_scribble_construction_sample_148.png",
+    "attribute": {
+      "f, t": "segment",
+      "b, d, v": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "t": [
+          166,
+          96,
+          182,
+          120
+        ],
+        "f": [
+          421,
+          169,
+          436,
+          193
+        ],
+        "b": [
+          98,
+          167,
+          116,
+          191
+        ],
+        "v": [
+          118,
+          402,
+          136,
+          426
+        ],
+        "d": [
+          208,
+          161,
+          228,
+          185
+        ]
+      },
+      "segment": {
+        "f, t": [
+          185,
+          121,
+          398,
+          179
+        ]
+      },
+      "right triangle": {
+        "b, d, v": [
+          113,
+          191,
+          195,
+          390
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_74": {
+    "image_path": "images/final_scribble_construction_sample_74.png",
+    "attribute": {
+      "e, p, r, s": "circle",
+      "h, j, o, v": "quadrangle"
+    },
+    "bbox": {
+      "text": {
+        "r": [
+          218,
+          409,
+          236,
+          434
+        ],
+        "p": [
+          422,
+          261,
+          438,
+          286
+        ],
+        "s": [
+          320,
+          391,
+          337,
+          416
+        ],
+        "e": [
+          258,
+          232,
+          274,
+          257
+        ],
+        "o": [
+          282,
+          190,
+          303,
+          215
+        ],
+        "v": [
+          183,
+          203,
+          201,
+          228
+        ],
+        "j": [
+          173,
+          397,
+          180,
+          422
+        ],
+        "h": [
+          329,
+          359,
+          349,
+          384
+        ]
+      },
+      "circle": {
+        "e, p, r, s": [
+          114,
+          114,
+          398,
+          398
+        ]
+      },
+      "quadrangle": {
+        "h, j, o, v": [
+          196,
+          225,
+          307,
+          386
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_78": {
+    "image_path": "images/final_scribble_construction_sample_78.png",
+    "attribute": {
+      "m, o, s, z": "equilateral quadrilateral",
+      "h, k, n": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "s": [
+          352,
+          359,
+          369,
+          380
+        ],
+        "z": [
+          143,
+          379,
+          161,
+          400
+        ],
+        "o": [
+          97,
+          256,
+          118,
+          277
+        ],
+        "m": [
+          219,
+          109,
+          242,
+          130
+        ],
+        "h": [
+          212,
+          343,
+          232,
+          364
+        ],
+        "k": [
+          272,
+          149,
+          289,
+          170
+        ],
+        "n": [
+          417,
+          325,
+          437,
+          346
+        ]
+      },
+      "equilateral quadrilateral": {
+        "m, o, s, z": [
+          113,
+          140,
+          333,
+          371
+        ]
+      },
+      "isosceles triangle": {
+        "h, k, n": [
+          236,
+          182,
+          398,
+          338
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_213": {
+    "image_path": "images/final_scribble_construction_sample_213.png",
+    "attribute": {
+      "f, o, p": "circle",
+      "h, l, t, v": "rectangle",
+      "d, u": "segment"
+    },
+    "bbox": {
+      "text": {
+        "o": [
+          123,
+          359,
+          144,
+          384
+        ],
+        "p": [
+          224,
+          258,
+          240,
+          283
+        ],
+        "f": [
+          297,
+          398,
+          312,
+          423
+        ],
+        "h": [
+          245,
+          284,
+          265,
+          309
+        ],
+        "l": [
+          367,
+          229,
+          382,
+          254
+        ],
+        "v": [
+          294,
+          84,
+          312,
+          109
+        ],
+        "t": [
+          195,
+          130,
+          211,
+          155
+        ],
+        "u": [
+          259,
+          179,
+          278,
+          204
+        ],
+        "d": [
+          321,
+          277,
+          341,
+          302
+        ]
+      },
+      "circle": {
+        "f, o, p": [
+          114,
+          114,
+          398,
+          398
+        ]
+      },
+      "rectangle": {
+        "h, l, t, v": [
+          214,
+          123,
+          343,
+          272
+        ]
+      },
+      "segment": {
+        "d, u": [
+          246,
+          212,
+          307,
+          274
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_208": {
+    "image_path": "images/final_scribble_construction_sample_208.png",
+    "attribute": {
+      "l, r, t": "scalene triangle",
+      "c, f, m, z": "square",
+      "f, q, r, z": "circle"
+    },
+    "bbox": {
+      "text": {
+        "l": [
+          217,
+          409,
+          232,
+          434
+        ],
+        "r": [
+          285,
+          401,
+          303,
+          426
+        ],
+        "t": [
+          259,
+          342,
+          275,
+          367
+        ],
+        "f": [
+          222,
+          410,
+          237,
+          435
+        ],
+        "z": [
+          311,
+          394,
+          329,
+          419
+        ],
+        "m": [
+          305,
+          295,
+          328,
+          320
+        ],
+        "c": [
+          217,
+          302,
+          235,
+          327
+        ],
+        "q": [
+          258,
+          232,
+          279,
+          257
+        ]
+      },
+      "scalene triangle": {
+        "l, r, t": [
+          234,
+          376,
+          277,
+          396
+        ]
+      },
+      "square": {
+        "c, f, m, z": [
+          232,
+          329,
+          300,
+          397
+        ]
+      },
+      "circle": {
+        "f, q, r, z": [
+          114,
+          114,
+          398,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_86": {
+    "image_path": "images/final_scribble_construction_sample_86.png",
+    "attribute": {
+      "b, q, r": "right triangle",
+      "j, u, z": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "q": [
+          187,
+          185,
+          208,
+          204
+        ],
+        "r": [
+          416,
+          356,
+          434,
+          375
+        ],
+        "b": [
+          89,
+          326,
+          107,
+          345
+        ],
+        "j": [
+          345,
+          120,
+          352,
+          139
+        ],
+        "u": [
+          342,
+          366,
+          361,
+          385
+        ],
+        "z": [
+          236,
+          306,
+          254,
+          325
+        ]
+      },
+      "right triangle": {
+        "b, q, r": [
+          113,
+          216,
+          398,
+          362
+        ]
+      },
+      "isosceles triangle": {
+        "j, u, z": [
+          247,
+          149,
+          354,
+          356
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_243": {
+    "image_path": "images/final_scribble_construction_sample_243.png",
+    "attribute": {
+      "a, l": "segment",
+      "c, n, v": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "a": [
+          348,
+          333,
+          358,
+          358
+        ],
+        "l": [
+          154,
+          388,
+          162,
+          413
+        ],
+        "n": [
+          234,
+          146,
+          245,
+          171
+        ],
+        "v": [
+          324,
+          84,
+          334,
+          109
+        ],
+        "c": [
+          307,
+          235,
+          317,
+          260
+        ]
+      },
+      "segment": {
+        "a, l": [
+          173,
+          355,
+          338,
+          398
+        ]
+      },
+      "right triangle": {
+        "c, n, v": [
+          246,
+          113,
+          319,
+          241
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_210": {
+    "image_path": "images/final_scribble_construction_sample_210.png",
+    "attribute": {
+      "b, g, l": "equilateral triangle",
+      "a, m, t, z": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "l": [
+          188,
+          198,
+          203,
+          223
+        ],
+        "g": [
+          413,
+          200,
+          433,
+          225
+        ],
+        "b": [
+          306,
+          400,
+          324,
+          425
+        ],
+        "m": [
+          84,
+          185,
+          107,
+          210
+        ],
+        "z": [
+          123,
+          78,
+          141,
+          103
+        ],
+        "a": [
+          218,
+          108,
+          236,
+          133
+        ],
+        "t": [
+          227,
+          181,
+          243,
+          206
+        ]
+      },
+      "equilateral triangle": {
+        "b, g, l": [
+          205,
+          228,
+          398,
+          395
+        ]
+      },
+      "equilateral quadrilateral": {
+        "a, m, t, z": [
+          113,
+          116,
+          207,
+          182
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_24": {
+    "image_path": "images/final_scribble_construction_sample_24.png",
+    "attribute": {
+      "q, u, x": "right triangle",
+      "a, f, j, p": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          220,
+          410,
+          239,
+          435
+        ],
+        "x": [
+          414,
+          304,
+          432,
+          329
+        ],
+        "q": [
+          151,
+          207,
+          171,
+          232
+        ],
+        "j": [
+          132,
+          74,
+          139,
+          99
+        ],
+        "f": [
+          83,
+          196,
+          98,
+          221
+        ],
+        "a": [
+          290,
+          248,
+          308,
+          273
+        ],
+        "p": [
+          317,
+          137,
+          332,
+          162
+        ]
+      },
+      "right triangle": {
+        "q, u, x": [
+          166,
+          242,
+          396,
+          398
+        ]
+      },
+      "rectangle": {
+        "a, f, j, p": [
+          115,
+          113,
+          301,
+          246
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_28": {
+    "image_path": "images/final_scribble_construction_sample_28.png",
+    "attribute": {
+      "e, g, i, p": "quadrangle",
+      "c, e, g, i": "circle"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          276,
+          399,
+          290,
+          424
+        ],
+        "g": [
+          194,
+          362,
+          212,
+          387
+        ],
+        "e": [
+          103,
+          249,
+          117,
+          274
+        ],
+        "i": [
+          380,
+          298,
+          386,
+          323
+        ],
+        "c": [
+          402,
+          223,
+          418,
+          248
+        ]
+      },
+      "quadrangle": {
+        "e, g, i, p": [
+          133,
+          255,
+          360,
+          398
+        ]
+      },
+      "circle": {
+        "c, e, g, i": [
+          132,
+          113,
+          380,
+          361
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_84": {
+    "image_path": "images/final_scribble_construction_sample_84.png",
+    "attribute": {
+      "i, j, o, w": "circle",
+      "k, z": "segment"
+    },
+    "bbox": {
+      "text": {
+        "i": [
+          271,
+          164,
+          277,
+          189
+        ],
+        "j": [
+          372,
+          353,
+          378,
+          378
+        ],
+        "w": [
+          162,
+          262,
+          184,
+          287
+        ],
+        "o": [
+          278,
+          277,
+          295,
+          302
+        ],
+        "z": [
+          127,
+          79,
+          142,
+          104
+        ],
+        "k": [
+          253,
+          255,
+          267,
+          280
+        ]
+      },
+      "circle": {
+        "i, j, o, w": [
+          178,
+          202,
+          374,
+          398
+        ]
+      },
+      "segment": {
+        "k, z": [
+          137,
+          113,
+          239,
+          258
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_185": {
+    "image_path": "images/final_scribble_construction_sample_185.png",
+    "attribute": {
+      "q, r, w, z": "equilateral quadrilateral",
+      "c, m, t, v, x": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "r": [
+          408,
+          196,
+          426,
+          216
+        ],
+        "w": [
+          375,
+          343,
+          401,
+          363
+        ],
+        "q": [
+          220,
+          378,
+          241,
+          398
+        ],
+        "z": [
+          141,
+          244,
+          159,
+          264
+        ],
+        "v": [
+          94,
+          275,
+          112,
+          295
+        ],
+        "x": [
+          99,
+          184,
+          117,
+          204
+        ],
+        "t": [
+          241,
+          112,
+          257,
+          132
+        ],
+        "c": [
+          300,
+          285,
+          318,
+          305
+        ],
+        "m": [
+          154,
+          330,
+          177,
+          350
+        ]
+      },
+      "equilateral quadrilateral": {
+        "q, r, w, z": [
+          156,
+          222,
+          398,
+          369
+        ]
+      },
+      "pentagon": {
+        "c, m, t, v, x": [
+          113,
+          142,
+          281,
+          320
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_43": {
+    "image_path": "images/final_scribble_construction_sample_43.png",
+    "attribute": {
+      "e, l, t": "isosceles triangle",
+      "n, u": "segment"
+    },
+    "bbox": {
+      "text": {
+        "e": [
+          164,
+          159,
+          174,
+          184
+        ],
+        "t": [
+          356,
+          302,
+          365,
+          327
+        ],
+        "l": [
+          206,
+          396,
+          214,
+          421
+        ],
+        "u": [
+          240,
+          324,
+          251,
+          349
+        ],
+        "n": [
+          321,
+          82,
+          332,
+          107
+        ]
+      },
+      "isosceles triangle": {
+        "e, l, t": [
+          170,
+          190,
+          341,
+          398
+        ]
+      },
+      "segment": {
+        "n, u": [
+          252,
+          113,
+          319,
+          324
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_167": {
+    "image_path": "images/final_scribble_construction_sample_167.png",
+    "attribute": {
+      "b, d, i": "right triangle",
+      "f, r, t, x": "quadrangle",
+      "Z": "ellipse"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          349,
+          115,
+          367,
+          135
+        ],
+        "i": [
+          98,
+          130,
+          105,
+          150
+        ],
+        "d": [
+          360,
+          371,
+          380,
+          391
+        ],
+        "f": [
+          240,
+          149,
+          255,
+          169
+        ],
+        "r": [
+          306,
+          164,
+          324,
+          184
+        ],
+        "t": [
+          418,
+          236,
+          434,
+          256
+        ],
+        "x": [
+          151,
+          267,
+          169,
+          287
+        ],
+        "Z": [
+          275,
+          233,
+          289,
+          253
+        ]
+      },
+      "right triangle": {
+        "b, d, i": [
+          113,
+          142,
+          349,
+          369
+        ]
+      },
+      "quadrangle": {
+        "f, r, t, x": [
+          176,
+          181,
+          398,
+          265
+        ]
+      },
+      "ellipse": {
+        "Z": [
+          197,
+          142,
+          384,
+          322
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_251": {
+    "image_path": "images/final_scribble_construction_sample_251.png",
+    "attribute": {
+      "j, s, t, z": "circle",
+      "d, e, f, n, x": "pentagon"
+    },
+    "bbox": {
+      "text": {
+        "j": [
+          264,
+          206,
+          270,
+          231
+        ],
+        "t": [
+          128,
+          141,
+          141,
+          166
+        ],
+        "s": [
+          214,
+          232,
+          227,
+          257
+        ],
+        "z": [
+          209,
+          78,
+          223,
+          103
+        ],
+        "d": [
+          388,
+          291,
+          404,
+          316
+        ],
+        "x": [
+          313,
+          396,
+          327,
+          421
+        ],
+        "f": [
+          190,
+          377,
+          202,
+          402
+        ],
+        "e": [
+          170,
+          295,
+          183,
+          320
+        ],
+        "n": [
+          319,
+          194,
+          334,
+          219
+        ]
+      },
+      "circle": {
+        "j, s, t, z": [
+          144,
+          114,
+          262,
+          232
+        ]
+      },
+      "pentagon": {
+        "d, e, f, n, x": [
+          186,
+          229,
+          368,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_156": {
+    "image_path": "images/final_scribble_construction_sample_156.png",
+    "attribute": {
+      "h, i, t, u": "quadrangle",
+      "a, d, n, o, w": "pentagon",
+      "b, k, x, z": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "u": [
+          249,
+          399,
+          266,
+          424
+        ],
+        "t": [
+          321,
+          277,
+          335,
+          302
+        ],
+        "h": [
+          349,
+          110,
+          366,
+          135
+        ],
+        "i": [
+          112,
+          272,
+          118,
+          297
+        ],
+        "d": [
+          217,
+          74,
+          235,
+          99
+        ],
+        "w": [
+          156,
+          123,
+          179,
+          148
+        ],
+        "n": [
+          183,
+          219,
+          200,
+          244
+        ],
+        "o": [
+          283,
+          184,
+          301,
+          209
+        ],
+        "a": [
+          277,
+          106,
+          293,
+          131
+        ],
+        "k": [
+          279,
+          347,
+          294,
+          372
+        ],
+        "z": [
+          400,
+          327,
+          416,
+          352
+        ],
+        "b": [
+          380,
+          212,
+          396,
+          237
+        ],
+        "x": [
+          277,
+          224,
+          293,
+          249
+        ]
+      },
+      "quadrangle": {
+        "h, i, t, u": [
+          130,
+          144,
+          340,
+          398
+        ]
+      },
+      "pentagon": {
+        "a, d, n, o, w": [
+          174,
+          113,
+          268,
+          211
+        ]
+      },
+      "rectangle": {
+        "b, k, x, z": [
+          291,
+          245,
+          381,
+          342
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_155": {
+    "image_path": "images/final_scribble_construction_sample_155.png",
+    "attribute": {
+      "d, i, l, s": "quadrangle",
+      "n, o, u, x": "square"
+    },
+    "bbox": {
+      "text": {
+        "l": [
+          151,
+          182,
+          166,
+          200
+        ],
+        "s": [
+          262,
+          205,
+          279,
+          223
+        ],
+        "d": [
+          416,
+          298,
+          436,
+          316
+        ],
+        "i": [
+          93,
+          361,
+          100,
+          379
+        ],
+        "u": [
+          181,
+          127,
+          200,
+          145
+        ],
+        "o": [
+          257,
+          152,
+          278,
+          170
+        ],
+        "x": [
+          218,
+          239,
+          236,
+          257
+        ],
+        "n": [
+          159,
+          189,
+          178,
+          207
+        ]
+      },
+      "quadrangle": {
+        "d, i, l, s": [
+          113,
+          206,
+          398,
+          357
+        ]
+      },
+      "square": {
+        "n, o, u, x": [
+          171,
+          154,
+          246,
+          230
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_200": {
+    "image_path": "images/final_scribble_construction_sample_200.png",
+    "attribute": {
+      "n, u, z": "scalene triangle",
+      "h, q": "segment"
+    },
+    "bbox": {
+      "text": {
+        "z": [
+          206,
+          366,
+          222,
+          391
+        ],
+        "n": [
+          404,
+          351,
+          421,
+          376
+        ],
+        "u": [
+          183,
+          76,
+          200,
+          101
+        ],
+        "h": [
+          111,
+          283,
+          129,
+          308
+        ],
+        "q": [
+          396,
+          388,
+          414,
+          413
+        ]
+      },
+      "scalene triangle": {
+        "n, u, z": [
+          190,
+          113,
+          383,
+          359
+        ]
+      },
+      "segment": {
+        "h, q": [
+          128,
+          310,
+          374,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_19": {
+    "image_path": "images/final_scribble_construction_sample_19.png",
+    "attribute": {
+      "a, g, j, t": "quadrangle",
+      "v, x, z": "scalene triangle"
+    },
+    "bbox": {
+      "text": {
+        "j": [
+          141,
+          95,
+          148,
+          120
+        ],
+        "a": [
+          254,
+          214,
+          271,
+          239
+        ],
+        "g": [
+          198,
+          344,
+          218,
+          369
+        ],
+        "t": [
+          85,
+          301,
+          101,
+          326
+        ],
+        "v": [
+          174,
+          404,
+          191,
+          429
+        ],
+        "z": [
+          417,
+          392,
+          434,
+          417
+        ],
+        "x": [
+          231,
+          73,
+          248,
+          98
+        ]
+      },
+      "quadrangle": {
+        "a, g, j, t": [
+          116,
+          135,
+          236,
+          340
+        ]
+      },
+      "scalene triangle": {
+        "v, x, z": [
+          202,
+          113,
+          395,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_183": {
+    "image_path": "images/final_scribble_construction_sample_183.png",
+    "attribute": {
+      "a, g, p": "scalene triangle",
+      "k, m, u": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          172,
+          197,
+          192,
+          210
+        ],
+        "p": [
+          208,
+          333,
+          224,
+          346
+        ],
+        "a": [
+          411,
+          298,
+          429,
+          311
+        ],
+        "m": [
+          249,
+          164,
+          272,
+          177
+        ],
+        "k": [
+          96,
+          248,
+          113,
+          261
+        ],
+        "u": [
+          306,
+          277,
+          325,
+          290
+        ]
+      },
+      "scalene triangle": {
+        "a, g, p": [
+          177,
+          217,
+          398,
+          328
+        ]
+      },
+      "right triangle": {
+        "k, m, u": [
+          113,
+          183,
+          295,
+          279
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_133": {
+    "image_path": "images/final_scribble_construction_sample_133.png",
+    "attribute": {
+      "b, j, u, x": "right trapezoid",
+      "a, k, l, p": "right trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          163,
+          214,
+          178,
+          239
+        ],
+        "x": [
+          246,
+          157,
+          261,
+          182
+        ],
+        "j": [
+          390,
+          198,
+          396,
+          223
+        ],
+        "u": [
+          215,
+          326,
+          231,
+          351
+        ],
+        "p": [
+          262,
+          398,
+          275,
+          423
+        ],
+        "a": [
+          345,
+          256,
+          360,
+          281
+        ],
+        "k": [
+          256,
+          77,
+          270,
+          102
+        ],
+        "l": [
+          108,
+          329,
+          120,
+          354
+        ]
+      },
+      "right trapezoid": {
+        "b, j, u, x": [
+          178,
+          195,
+          375,
+          319
+        ],
+        "a, k, l, p": [
+          178,
+          195,
+          375,
+          319
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_134": {
+    "image_path": "images/final_scribble_construction_sample_134.png",
+    "attribute": {
+      "a, d, r, x": "quadrangle",
+      "g, l, o, v": "rectangle"
+    },
+    "bbox": {
+      "text": {
+        "x": [
+          398,
+          262,
+          413,
+          287
+        ],
+        "a": [
+          296,
+          77,
+          311,
+          102
+        ],
+        "d": [
+          117,
+          176,
+          134,
+          201
+        ],
+        "r": [
+          229,
+          348,
+          244,
+          373
+        ],
+        "l": [
+          105,
+          308,
+          117,
+          333
+        ],
+        "g": [
+          288,
+          398,
+          305,
+          423
+        ],
+        "v": [
+          360,
+          284,
+          375,
+          309
+        ],
+        "o": [
+          194,
+          164,
+          212,
+          189
+        ]
+      },
+      "quadrangle": {
+        "a, d, r, x": [
+          134,
+          113,
+          377,
+          340
+        ]
+      },
+      "rectangle": {
+        "g, l, o, v": [
+          134,
+          201,
+          344,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_196": {
+    "image_path": "images/final_scribble_construction_sample_196.png",
+    "attribute": {
+      "a, n, p": "circle",
+      "j, z": "segment"
+    },
+    "bbox": {
+      "text": {
+        "p": [
+          190,
+          302,
+          199,
+          327
+        ],
+        "a": [
+          261,
+          295,
+          271,
+          320
+        ],
+        "n": [
+          283,
+          208,
+          294,
+          233
+        ],
+        "j": [
+          151,
+          307,
+          155,
+          332
+        ],
+        "z": [
+          196,
+          82,
+          206,
+          107
+        ]
+      },
+      "circle": {
+        "a, n, p": [
+          180,
+          237,
+          340,
+          397
+        ]
+      },
+      "segment": {
+        "j, z": [
+          171,
+          113,
+          196,
+          315
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_89": {
+    "image_path": "images/final_scribble_construction_sample_89.png",
+    "attribute": {
+      "b, j, u": "scalene triangle",
+      "b, j, s, u": "circle",
+      "f, l, n": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "b": [
+          387,
+          343,
+          405,
+          368
+        ],
+        "u": [
+          407,
+          184,
+          426,
+          209
+        ],
+        "j": [
+          192,
+          85,
+          199,
+          110
+        ],
+        "s": [
+          139,
+          374,
+          156,
+          399
+        ],
+        "n": [
+          217,
+          194,
+          237,
+          219
+        ],
+        "l": [
+          378,
+          217,
+          393,
+          242
+        ],
+        "f": [
+          209,
+          318,
+          224,
+          343
+        ]
+      },
+      "scalene triangle": {
+        "b, j, u": [
+          200,
+          125,
+          390,
+          345
+        ]
+      },
+      "circle": {
+        "b, j, s, u": [
+          113,
+          114,
+          397,
+          398
+        ]
+      },
+      "right triangle": {
+        "f, l, n": [
+          233,
+          198,
+          361,
+          308
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_88": {
+    "image_path": "images/final_scribble_construction_sample_88.png",
+    "attribute": {
+      "h, l, n, z": "equilateral quadrilateral",
+      "a, g, o, u, v": "pentagon",
+      "k, q, r, w": "equilateral quadrilateral"
+    },
+    "bbox": {
+      "text": {
+        "n": [
+          249,
+          292,
+          267,
+          317
+        ],
+        "z": [
+          322,
+          200,
+          339,
+          225
+        ],
+        "h": [
+          411,
+          308,
+          429,
+          333
+        ],
+        "l": [
+          335,
+          351,
+          348,
+          376
+        ],
+        "u": [
+          146,
+          376,
+          164,
+          401
+        ],
+        "o": [
+          91,
+          285,
+          110,
+          310
+        ],
+        "a": [
+          124,
+          153,
+          141,
+          178
+        ],
+        "g": [
+          287,
+          78,
+          306,
+          103
+        ],
+        "v": [
+          326,
+          396,
+          343,
+          421
+        ],
+        "w": [
+          243,
+          296,
+          267,
+          321
+        ],
+        "k": [
+          257,
+          234,
+          273,
+          259
+        ],
+        "r": [
+          341,
+          256,
+          358,
+          281
+        ],
+        "q": [
+          326,
+          294,
+          345,
+          319
+        ]
+      },
+      "equilateral quadrilateral": {
+        "h, l, n, z": [
+          279,
+          238,
+          388,
+          351
+        ],
+        "k, q, r, w": [
+          279,
+          238,
+          388,
+          351
+        ]
+      },
+      "pentagon": {
+        "a, g, o, u, v": [
+          123,
+          113,
+          309,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_188": {
+    "image_path": "images/final_scribble_construction_sample_188.png",
+    "attribute": {
+      "g, i, n, s": "right trapezoid",
+      "p, q, t": "right triangle"
+    },
+    "bbox": {
+      "text": {
+        "g": [
+          289,
+          223,
+          298,
+          248
+        ],
+        "n": [
+          291,
+          297,
+          299,
+          322
+        ],
+        "s": [
+          191,
+          391,
+          198,
+          416
+        ],
+        "i": [
+          188,
+          217,
+          191,
+          242
+        ],
+        "q": [
+          230,
+          240,
+          239,
+          265
+        ],
+        "t": [
+          188,
+          85,
+          195,
+          110
+        ],
+        "p": [
+          329,
+          202,
+          336,
+          227
+        ]
+      },
+      "right trapezoid": {
+        "g, i, n, s": [
+          195,
+          240,
+          281,
+          398
+        ]
+      },
+      "right triangle": {
+        "p, q, t": [
+          193,
+          113,
+          318,
+          246
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_93": {
+    "image_path": "images/final_scribble_construction_sample_93.png",
+    "attribute": {
+      "d, e, o, z": "quadrangle",
+      "q, s, u, y": "square"
+    },
+    "bbox": {
+      "text": {
+        "o": [
+          195,
+          192,
+          208,
+          217
+        ],
+        "z": [
+          226,
+          279,
+          237,
+          304
+        ],
+        "e": [
+          356,
+          392,
+          366,
+          417
+        ],
+        "d": [
+          326,
+          82,
+          339,
+          107
+        ],
+        "u": [
+          215,
+          161,
+          227,
+          186
+        ],
+        "y": [
+          256,
+          232,
+          266,
+          257
+        ],
+        "s": [
+          171,
+          270,
+          182,
+          295
+        ],
+        "q": [
+          152,
+          190,
+          165,
+          215
+        ]
+      },
+      "quadrangle": {
+        "d, e, o, z": [
+          208,
+          113,
+          347,
+          398
+        ]
+      },
+      "square": {
+        "q, s, u, y": [
+          164,
+          195,
+          239,
+          270
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_129": {
+    "image_path": "images/final_scribble_construction_sample_129.png",
+    "attribute": {
+      "a, e, h, j": "circle",
+      "a, j, m": "circle"
+    },
+    "bbox": {
+      "text": {
+        "h": [
+          233,
+          358,
+          253,
+          383
+        ],
+        "j": [
+          395,
+          332,
+          402,
+          357
+        ],
+        "a": [
+          240,
+          222,
+          258,
+          247
+        ],
+        "e": [
+          343,
+          196,
+          359,
+          221
+        ],
+        "m": [
+          313,
+          85,
+          336,
+          110
+        ]
+      },
+      "circle": {
+        "a, e, h, j": [
+          114,
+          113,
+          398,
+          397
+        ],
+        "a, j, m": [
+          114,
+          113,
+          398,
+          397
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_18": {
+    "image_path": "images/final_scribble_construction_sample_18.png",
+    "attribute": {
+      "l, s, y, z": "isosceles trapezoid",
+      "c, e, g, v": "isosceles trapezoid"
+    },
+    "bbox": {
+      "text": {
+        "y": [
+          360,
+          360,
+          370,
+          385
+        ],
+        "z": [
+          175,
+          396,
+          186,
+          421
+        ],
+        "s": [
+          155,
+          105,
+          165,
+          130
+        ],
+        "l": [
+          285,
+          83,
+          294,
+          108
+        ],
+        "v": [
+          156,
+          226,
+          167,
+          251
+        ],
+        "g": [
+          216,
+          327,
+          229,
+          352
+        ],
+        "c": [
+          346,
+          229,
+          357,
+          254
+        ],
+        "e": [
+          312,
+          168,
+          322,
+          193
+        ]
+      },
+      "isosceles trapezoid": {
+        "l, s, y, z": [
+          165,
+          113,
+          346,
+          398
+        ],
+        "c, e, g, v": [
+          165,
+          113,
+          346,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_158": {
+    "image_path": "images/final_scribble_construction_sample_158.png",
+    "attribute": {
+      "d, h, i, o, u": "pentagon",
+      "d, i, p": "circle"
+    },
+    "bbox": {
+      "text": {
+        "d": [
+          397,
+          329,
+          417,
+          354
+        ],
+        "u": [
+          256,
+          325,
+          275,
+          350
+        ],
+        "i": [
+          221,
+          249,
+          228,
+          274
+        ],
+        "h": [
+          271,
+          152,
+          291,
+          177
+        ],
+        "o": [
+          387,
+          141,
+          408,
+          166
+        ],
+        "p": [
+          132,
+          128,
+          148,
+          153
+        ]
+      },
+      "pentagon": {
+        "d, h, i, o, u": [
+          255,
+          171,
+          374,
+          333
+        ]
+      },
+      "circle": {
+        "d, i, p": [
+          113,
+          114,
+          397,
+          398
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  },
+  "sample_204": {
+    "image_path": "images/final_scribble_construction_sample_204.png",
+    "attribute": {
+      "t, v, w": "right triangle",
+      "d, v, w": "circle",
+      "l, m, r": "isosceles triangle"
+    },
+    "bbox": {
+      "text": {
+        "t": [
+          152,
+          227,
+          167,
+          252
+        ],
+        "v": [
+          128,
+          357,
+          145,
+          382
+        ],
+        "w": [
+          272,
+          240,
+          297,
+          265
+        ],
+        "d": [
+          413,
+          248,
+          432,
+          273
+        ],
+        "r": [
+          157,
+          226,
+          174,
+          251
+        ],
+        "l": [
+          278,
+          140,
+          292,
+          165
+        ],
+        "m": [
+          143,
+          78,
+          164,
+          103
+        ]
+      },
+      "right triangle": {
+        "t, v, w": [
+          155,
+          250,
+          255,
+          352
+        ]
+      },
+      "circle": {
+        "d, v, w": [
+          122,
+          131,
+          388,
+          397
+        ]
+      },
+      "isosceles triangle": {
+        "l, m, r": [
+          156,
+          113,
+          261,
+          249
+        ]
+      }
+    },
+    "aux": "",
+    "level": "visual_distractors_scribble"
+  }
+}
