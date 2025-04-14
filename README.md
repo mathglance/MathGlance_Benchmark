@@ -13,7 +13,7 @@ Official repository for the paper "<img src="assets/MathGlance_logo.png" alt="Lo
 [[🌐 Webpage](https://mathglance.github.io/)] [[📖 Paper](https://arxiv.org/pdf/2503.20745)] [[🤗 Huggingface Dataset](https://huggingface.co/datasets/zs0506/GeoPeP_Caption)] [[🤗 Checkpoints](https://huggingface.co/zs0506/SVE-Math-DeepSeek-7B)]
 
 ## 💥 News
-- **[2025.04.12]** 🎉 MATHGLANCE benchmark and evaluation code is officially released. 🚀
+- **[2025.04.12]** 🎉 MATHGLANCE benchmark and evaluation code are officially released. 🚀
 - **[2024.03.26]** 🎉 The MATHGLANCE paper has been officially uploaded to arXiv [MATHGLANCE](https://arxiv.org/pdf/2503.20745).
 
 ## 🔍 Todo
