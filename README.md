@@ -65,6 +65,7 @@ python benchmark/scripts/eval.sh
 ```
 And the statistics of the evaluation results will be saved in `benchmark/outputs/` like `benchmark/outputs/deepseek2vl-small_result.log`.
 
+
 We have pre-configured a set of testing methods, including ["ours", "qwen", "qwen2_5", "deepseek", "llava", "internvl", "internvl2", "internvl_X_2_5", "gpt4o", "gpto1"]. If you have a custom model, you can refer to these methods and add additional ones as needed.
 
 ## BibTeX
