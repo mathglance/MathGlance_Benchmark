@@ -19,7 +19,7 @@ Official repository for the paper "<img src="assets/MathGlance_logo.png" alt="Lo
 ## 🔍 Todo
 - [x] Update the README.
 - [x] Release the benchmark and evaluation code. 
-- [ ] Support by [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) for very fast evalution 🚀.
+- [ ] Support [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) for very fast evalution 🚀.
 
 ## 👀 About MATHGLANCE
 The MathGLance benchmark is a novel evaluation framework designed to assess the mathematical perception abilities of Multimodal Large Language Models (MLLMs). Unlike existing benchmarks that often conflate perception with high-level reasoning tasks, MathGLance isolates perceptual skills by focusing on mathematical visual reasoning with minimal cognitive load. It provides both quantitative and qualitative assessments across different granularity levels. For more details, please refer to the project page.
